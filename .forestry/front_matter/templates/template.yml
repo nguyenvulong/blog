@@ -1,0 +1,36 @@
+---
+label: template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: text
+  name: type
+  label: type
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: url
+  label: url
+- type: list
+  name: al2fb_facebook_link_id
+  label: al2fb_facebook_link_id
+- type: list
+  name: al2fb_facebook_link_time
+  label: al2fb_facebook_link_time
+- type: image_gallery
+  name: al2fb_facebook_link_picture
+  label: al2fb_facebook_link_picture
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+pages:
+- content/posts/test-blog.md
