@@ -10,7 +10,8 @@ tags=["poem","tech","generative ai"]
 [extra]
 comment = true
 +++
-
+```
+```
 Beyond the horizon’s gentle fold,
 Where stories yet unspoken hold,
 Lies a realm of endless chance,
@@ -60,5 +61,6 @@ A future born of love and light,
 A beacon burning through the night,
 A world reborn, anew, refined,
 A testament to humankind.
-
+```
+```
 _ gpt4.1-nano _
