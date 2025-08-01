@@ -81,8 +81,8 @@ Defines the social media links.
 - Usage:
   ```toml
   socials = [
-    { name = "twitter", url = "https://twitter.com/not_matthias", icon = "twitter" },
-    { name = "github", url = "https://github.com/not-matthias/", icon = "github" },
+    { name = "twitter", url = "https: //twitter.com/not_matthias", icon = "twitter" },
+    { name = "github", url = "https: //github.com/not-matthias/", icon = "github" },
   ]
   ```
 
@@ -187,7 +187,7 @@ Configure Umami analytics:
 ```toml
 [extra.analytics.umami]
 website_id = "43929cd1-1e83...."                    # Your Umami website ID
-host_url = "https://stats.mywebsite.com"            # Optional: Custom host URL
+host_url = "https: //stats.mywebsite.com"            # Optional: Custom host URL
 ```
 
 
@@ -203,7 +203,7 @@ Do you want to link to the source code of your blog post? You can turn on the `r
 ```toml
 [extra]
 repo_view = true
-repo_url = "https://github.com/not-matthias/apollo/tree/main/content"   # Alternatively add the repo here
+repo_url = "https: //github.com/not-matthias/apollo/tree/main/content"   # Alternatively add the repo here
 ```
 
 The `repo_url` can be set in the `[extra]` section or in your `config.toml`.
@@ -216,10 +216,10 @@ Enables or disables the comment system for posts.
 - Default: false
 - Usage: `comment = false`
 
-After making `comment = true` in `[extra]` section of you post, save your script from [Giscus](https://giscus.app) to `templates/_giscus_script.html`.
+After making `comment = true` in `[extra]` section of you post, save your script from [Giscus](https: //giscus.app) to `templates/_giscus_script.html`.
 When enabled, this allows readers to leave comments on your blog posts. This feature has to be set for each individual post and is not supported at higher levels.
 
-Example configuration in [content/posts/configuration.md](https://github.com/not-matthias/apollo/blob/main/content/posts/configuration.md):
+Example configuration in [content/posts/configuration.md](https: //github.com/not-matthias/apollo/blob/main/content/posts/configuration.md):
 ```toml
 +++
 title = "Configuring Apollo"
@@ -229,9 +229,9 @@ comment = true
 +++
 ```
 
-Comments via [utterances](https://utteranc.es) can be configured in `template/_giscus_script.html` like this:
+Comments via [utterances](https: //utteranc.es) can be configured in `template/_giscus_script.html` like this:
 ```html
-<script src="https://utteranc.es/client.js"
+<script src="https: //utteranc.es/client.js"
         repo="YOUR_NAME/YOUR_REPO"
         issue-term="pathname"
         theme="github-light"
