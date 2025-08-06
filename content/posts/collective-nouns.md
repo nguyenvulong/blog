@@ -9,8 +9,8 @@ categories:
   - What does it mean
 tags:
   - collective nouns
-
 ---
+
 Bạn gọi một đàn cá là gì: &#8220;a group of fishes&#8221;?
 
 Sai rồi, đó là &#8220;a school of fish&#8221;
@@ -27,10 +27,6 @@ a parliament of owls: 1 đàn cú
 
 a band of gorillas: 1 bầy tinh tinh
 
+[1] <https://animalamigoblog.wordpress.com/2018/05/15/a-gaggle-of-geese-a-pride-of-lions-a-school-of-fish-and-more-collective-animal-nouns>
 
-
-
-
-<a href="https: //animalamigoblog.wordpress.com/2018/05/15/a-gaggle-of-geese-a-pride-of-lions-a-school-of-fish-and-more-collective-animal-nouns/" target="_blank" rel="noreferrer noopener">https://animalamigoblog.wordpress.com/2018/05/15/a-gaggle-of-geese-a-pride-of-lions-a-school-of-fish-and-more-collective-animal-nouns/</a>
-
-<a href="https: //www.grammar-monster.com/list_of_collective_nouns_for_animals.htm" target="_blank" rel="noreferrer noopener">https://www.grammar-monster.com/list_of_collective_nouns_for_animals.htm</a>
+[2] <https://www.grammar-monster.com/list_of_collective_nouns_for_animals.htm>
