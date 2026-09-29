@@ -26,17 +26,17 @@ Ngoài ra, với những bạn làm việc liên quan đến luật thì còn r�
   * devisee, legatee, beneficiary: người thừa kế
 
 
-![photo-1592897404141-d3c119d83081?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80](https: //images.unsplash.com/photo-1592897404141-d3c119d83081?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80)
+![photo-1592897404141-d3c119d83081?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80](https://images.unsplash.com/photo-1592897404141-d3c119d83081?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80)
 
 
 
 
 **Nguồn: **
 
-[1] <https: //www.nolo.com/legal-encyclopedia/common-terms-wills-trusts.html>
+[1] <https://www.nolo.com/legal-encyclopedia/common-terms-wills-trusts.html>
 
-[2] <https: //www.lexikin.com/glossary-terms/>
+[2] <https://www.lexikin.com/glossary-terms/>
 
-[3] <https: //nyestateslawyer.com/2018/11/17/legatee-devisee-distributee-and-beneficiary-ny/>
+[3] <https://nyestateslawyer.com/2018/11/17/legatee-devisee-distributee-and-beneficiary-ny/>
 
-[4] <https: //ell.stackexchange.com/questions/251339/if-a-legatee-receives-a-legacy-what-is-the-legacy-giver-called-maybe-legateer/>
+[4] <https://ell.stackexchange.com/questions/251339/if-a-legatee-receives-a-legacy-what-is-the-legacy-giver-called-maybe-legateer/>

@@ -27,7 +27,7 @@ With Hadoop, you can do that with big help from HDP (Hortonworks Data Platform)
 
 Great tutorials and documentation can be found here
 
-<a href="http: //hortonworks.com/hdp/downloads/" target="_blank">http://hortonworks.com/hdp/downloads/</a>
+<a href="http://hortonworks.com/hdp/downloads/" target="_blank">http://hortonworks.com/hdp/downloads/</a>
 
 The order of methods you should try to install Hadoop
 

@@ -23,7 +23,7 @@ Cái này rất quan trọng với ace nào có người quen gửi đồ qua H�
 Hiện tại thì Hàn Quốc sẽ đổi mã bưu chính (postal code) từ 6 số như hiện tại sang 5 số. Ví dụ như Soongsil University từ 156-743 đã đổi thành 06978
 
 Mọi người có thể vào trang sau để tra cứu lại rồi chuẩn bị cập nhật địa chỉ cho đúng nhé:  
-<a href="http: //www.juso.go.kr/openIndexPage.do" target="_blank" rel="nofollow">http://www.juso.go.kr/openIndexPage.do</a>
+<a href="http://www.juso.go.kr/openIndexPage.do" target="_blank" rel="nofollow">http://www.juso.go.kr/openIndexPage.do</a>
 
 
 ![postal_code_2-1024x546.png](/wp-content/uploads/2015/11/postal_code_2-1024x546.png)

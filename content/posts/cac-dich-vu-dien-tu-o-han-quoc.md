@@ -11,17 +11,17 @@ categories:
 **Chính Phủ: **
 
 &#8220;Certification of Alien Registration&#8221;: Khi bị mất thẻ alien card, có thể in tạm giấy sau ra dùng lúc bay về nước:  
-http: //www.minwon.go.kr/main?a=AA020InfoMainApp
+http://www.minwon.go.kr/main?a=AA020InfoMainApp
 
 Máy cài windows tiếng Hàn + Certificate
 
 &nbsp;
 
-Visa navigator https: //www.visa.go.kr/openPage.do?MENU_ID=10101
+Visa navigator https://www.visa.go.kr/openPage.do?MENU_ID=10101
 
 Giao Thông:
 
-Thẻ T-Money http: //www.popcard.co.kr/popcard/ko/main
+Thẻ T-Money http://www.popcard.co.kr/popcard/ko/main
 
 Thanh Toán:
 

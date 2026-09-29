@@ -62,7 +62,7 @@ Versant có thời lượng thi ngắn, chấm bằng máy nên giá thành rẻ
 Bài viết về lần thi TOEFL iBT của mình năm ngoái <a href="..//how-did-i-fail-the-toefl-ibt/" target="_blank" rel="noopener">tại đây</a>  
 Và TOEIC (năm 2012) <a href="..//tu-luyen-thi-toeic/" target="_blank" rel="noopener">tại đây</a>
 
-Các bạn muốn trao đổi thêm về tiếng Anh hoặc cần sự trợ giúp thì tham gia <a href="https: //www.facebook.com/groups/1631244160461360/" target="_blank" rel="noopener">group này </a>nhé.
+Các bạn muốn trao đổi thêm về tiếng Anh hoặc cần sự trợ giúp thì tham gia <a href="https://www.facebook.com/groups/1631244160461360/" target="_blank" rel="noopener">group này </a>nhé.
 
  [1]: https://www.versanttest.com/samples/english.jsp
  [2]: ../wp-content/uploads/2016/06/versant.png

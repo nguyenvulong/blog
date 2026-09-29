@@ -15,7 +15,7 @@ Có rất nhiều loại bản quyền (License) dành cho phần mềm (softwar
 
 
 
-GPL (General Publish License) là một trong những thứ mà mình thấy mọi người e dè nhất, các bạn nên đọc cái <a rel="noreferrer noopener" href="https: //opensource.stackexchange.com/questions/10223/should-i-publish-everything-running-on-linux-under-gpl" target="_blank">này</a>. Nói ngắn gọn là bạn không cần phải mở mã nguồn nếu bạn dùng Linux (mặc dù Linux license GPL nhé).
+GPL (General Publish License) là một trong những thứ mà mình thấy mọi người e dè nhất, các bạn nên đọc cái <a rel="noreferrer noopener" href="https://opensource.stackexchange.com/questions/10223/should-i-publish-everything-running-on-linux-under-gpl" target="_blank">này</a>. Nói ngắn gọn là bạn không cần phải mở mã nguồn nếu bạn dùng Linux (mặc dù Linux license GPL nhé).
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
   <p>
@@ -31,7 +31,7 @@ GPL (General Publish License) là một trong những thứ mà mình thấy m�
   </p>
   
   <p>
-    (For technical reasons the Linux kernel actually does inject the <a href="https: //en.wikipedia.org/wiki/VDSO">vdso</a> pseudo-library into every running process as part of Linux&#8217; implementation of syscalls. But this is widely considered to be no licensing problem.)
+    (For technical reasons the Linux kernel actually does inject the <a href="https://en.wikipedia.org/wiki/VDSO">vdso</a> pseudo-library into every running process as part of Linux&#8217; implementation of syscalls. But this is widely considered to be no licensing problem.)
   </p>
   
   <p>

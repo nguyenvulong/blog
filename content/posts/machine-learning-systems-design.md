@@ -23,9 +23,9 @@ tags:
   - thuc tien
 
 ---
-Translated from <a rel="noreferrer noopener" href="https: //github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf" target="_blank">Machine Learning Interviews &#8211; Machine Learning Systems Design</a> by **<a rel="noreferrer noopener" href="https://huyenchip.com/" target="_blank">Chip Huyen</a>**
+Translated from <a rel="noreferrer noopener" href="https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf" target="_blank">Machine Learning Interviews &#8211; Machine Learning Systems Design</a> by **<a rel="noreferrer noopener" href="https://huyenchip.com/" target="_blank">Chip Huyen</a>**
 
-Vì đây là một bài viết rất hay nên mình quyết định dịch lại để nó có thể đến với nhiều độc giả hơn. Để xem phiên bản mới nhất, các bạn nên truy cập <a rel="noreferrer noopener" href="https: //github.com/chiphuyen/machine-learning-systems-design" target="_blank">Github của bạn Huyền</a>. Cũng khoảng 12 tháng rồi repo ấy chưa cập nhật, nếu mà có thêm contributors từ network của Huyền thì tốt quá, vì họ đều rất giỏi. Cảm ơn bạn Huyền nhiều <3 (bằng tuổi).
+Vì đây là một bài viết rất hay nên mình quyết định dịch lại để nó có thể đến với nhiều độc giả hơn. Để xem phiên bản mới nhất, các bạn nên truy cập <a rel="noreferrer noopener" href="https://github.com/chiphuyen/machine-learning-systems-design" target="_blank">Github của bạn Huyền</a>. Cũng khoảng 12 tháng rồi repo ấy chưa cập nhật, nếu mà có thêm contributors từ network của Huyền thì tốt quá, vì họ đều rất giỏi. Cảm ơn bạn Huyền nhiều <3 (bằng tuổi).
 
   1. **Introduction &#8211; Giới thiệu: ** 
 
@@ -175,4 +175,4 @@ to gather data, you might first need users. To avoid the catch-22, you might wan
 your product without deep learning to gather user data to train your system.
 
 **Resources**:  
-• <a rel="noreferrer noopener" href="https: //blog.statsbot.co/machine-learning-algorithms-183cc73197c" target="_blank">Machine Learning Algorithms: Which One to Choose for Your Problem</a> by Daniil Korbut, Stats and Bots, 2017.
+• <a rel="noreferrer noopener" href="https://blog.statsbot.co/machine-learning-algorithms-183cc73197c" target="_blank">Machine Learning Algorithms: Which One to Choose for Your Problem</a> by Daniil Korbut, Stats and Bots, 2017.

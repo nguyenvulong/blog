@@ -12,13 +12,13 @@ tags:
   - usb4
 
 ---
-Mặc dù rất thích Magsafe trên Macbook và lighting trên iPhone/iPad nhưng chiện gì tới cũng phải tới ~.~ các loại đầu sạc/kết nối của Apple (sẽ) bị thay thế bởi một chuẩn chung là <a rel="noreferrer noopener" href="https: //en.wikipedia.org/wiki/USB-C" target="_blank">USB</a><a href="https://en.wikipedia.org/wiki/USB-C" target="_blank" rel="noreferrer noopener">&#8211;</a><a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/USB-C" target="_blank">C</a>
+Mặc dù rất thích Magsafe trên Macbook và lighting trên iPhone/iPad nhưng chiện gì tới cũng phải tới ~.~ các loại đầu sạc/kết nối của Apple (sẽ) bị thay thế bởi một chuẩn chung là <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/USB-C" target="_blank">USB</a><a href="https://en.wikipedia.org/wiki/USB-C" target="_blank" rel="noreferrer noopener">&#8211;</a><a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/USB-C" target="_blank">C</a>
 
   
-(bạn nào đang dùng điện thoại Android mấy năm gần đây thì tất cả đều đã hỗ trợ <a href="https: //en.wikipedia.org/wiki/USB-C" target="_blank" rel="noreferrer noopener">USB-C</a>, cắm sạc chiều nào cũng được rất tiện hehe)
+(bạn nào đang dùng điện thoại Android mấy năm gần đây thì tất cả đều đã hỗ trợ <a href="https://en.wikipedia.org/wiki/USB-C" target="_blank" rel="noreferrer noopener">USB-C</a>, cắm sạc chiều nào cũng được rất tiện hehe)
 
   
-Ngoài ra đã có chuẩn <a rel="noreferrer noopener" href="https: //en.wikipedia.org/wiki/USB4" target="_blank">USB4</a> sẽ hỗ trợ kết nối qua USB-C, với tốc độ truyền dữ liệu 2.5-4 Gbps.
+Ngoài ra đã có chuẩn <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/USB4" target="_blank">USB4</a> sẽ hỗ trợ kết nối qua USB-C, với tốc độ truyền dữ liệu 2.5-4 Gbps.
 
   
 @layman:  
@@ -30,6 +30,6 @@ Ngoài ra đã có chuẩn <a rel="noreferrer noopener" href="https: //en.wikipe
 
 Xem thêm:
 
-<https: //genk.vn/lo-mo-hinh-thiet-ke-cua-iphone-13-khong-con-tai-tho-cum-camera-sau-thay-doi-cong-usb-c-20200605090225449.chn>
+<https://genk.vn/lo-mo-hinh-thiet-ke-cua-iphone-13-khong-con-tai-tho-cum-camera-sau-thay-doi-cong-usb-c-20200605090225449.chn>
 
 Vậy nên bạn nào ghét tai thỏ như mình và muốn tính lâu dài thì nên kiềm chế đợi iPhone 13. Nếu không ham chụp ảnh thì nên quất cái SE2020 hoặc 7 hay 8 là đủ dùng rồi, giá rất mềm.

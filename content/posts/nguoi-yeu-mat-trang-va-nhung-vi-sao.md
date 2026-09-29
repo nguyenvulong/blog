@@ -24,7 +24,7 @@ Bạn iu trăng: **selenophine** hoặc **philoselene**
 Bạn iu sao: **asterophile** hoặc **philoaster**
 
 
-![moon-4450739_960_720.jpg](https: //cdn.pixabay.com/photo/2019/09/04/05/53/moon-4450739_960_720.jpg)
+![moon-4450739_960_720.jpg](https://cdn.pixabay.com/photo/2019/09/04/05/53/moon-4450739_960_720.jpg)
 
 
  [1]: https://www.quora.com/What-do-we-call-a-person-who-loves-moon-and-stars/answer/Nicholas-Webb-1

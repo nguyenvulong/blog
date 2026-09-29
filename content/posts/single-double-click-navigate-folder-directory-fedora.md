@@ -35,4 +35,4 @@ log out, log in and you&#8217;re all set . It&#8217;s going to take you a double
 
 Thanks to : Peterius
 
-http: //www.linuxquestions.org/questions/linux-newbie-8/single-click-double-click-icons-in-kde-561262/
+http://www.linuxquestions.org/questions/linux-newbie-8/single-click-double-click-icons-in-kde-561262/

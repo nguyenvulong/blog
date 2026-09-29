@@ -20,11 +20,11 @@ tags:
 
 **Bước 1**: cài đặt <a href="https://ohmyz.sh/" target="_blank" rel="noreferrer noopener">oh-my-zsh</a>
 
-<pre class="wp-block-code"><code class=""> sh -c "$(wget https: //raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"</code></pre>
+<pre class="wp-block-code"><code class=""> sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"</code></pre>
 
 **Bước 2**: cài đặt <a rel="noreferrer noopener" href="https://github.com/romkatv/powerlevel10k#oh-my-zsh" target="_blank">powerlevel10k</a> (lưu ý là nếu bạn không biết gì thì nên bỏ qua bước 2, và chỉ làm bước 3, 4. Lý do là vì bước 4.1 sẽ cài đặt cho bạn bước 2 luôn rồi. Còn nếu bạn không thích cài antigen (ở bước 3) thì có thể làm bước 2. Sau đõ gõ &#8220;p10k configure&#8221; và làm theo hướng dẫn là được)
 
-<pre class="wp-block-code"><code class="">git clone --depth=1 https: //github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-sh/custom}/themes/powerlevel10k</code></pre>
+<pre class="wp-block-code"><code class="">git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-sh/custom}/themes/powerlevel10k</code></pre>
 
 **Bước 3**: cài đặt antigen
 
@@ -93,10 +93,10 @@ Xshell: <a href="https://github.com/netsarang/Xshell-ColorScheme" target="_blank
 
 **Links: **
 
-  * https: //ohmyz.sh/
-  * https: //github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
-  * https: //github.com/zsh-users/antigen
-  * https: //levelup.gitconnected.com/zsh-antigen-oh-my-zsh-a-beautiful-powerful-robust-shell-ca5873821671
+  * https://ohmyz.sh/
+  * https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
+  * https://github.com/zsh-users/antigen
+  * https://levelup.gitconnected.com/zsh-antigen-oh-my-zsh-a-beautiful-powerful-robust-shell-ca5873821671
 
 Lỗi font ở theme Agnoster: cài https://github.com/powerline/fonts 
 
@@ -106,7 +106,7 @@ Lỗi font ở theme Agnoster: cài https://github.com/powerline/fonts
 
 Cái zsh cho Linux/MacOS, còn Windows thì 
 
-**<a rel="noreferrer noopener" href="https: //github.com/JanDeDobbeleer/oh-my-posh/" target="_blank">oh-my-posh</a>** &#8211;> A prompt theming engine for Powershell
+**<a rel="noreferrer noopener" href="https://github.com/JanDeDobbeleer/oh-my-posh/" target="_blank">oh-my-posh</a>** &#8211;> A prompt theming engine for Powershell
 
  [1]: ../wp-content/uploads/2021/06/image.png
  [2]: ../wp-content/uploads/2021/10/image-1.png

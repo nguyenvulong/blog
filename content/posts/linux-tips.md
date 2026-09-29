@@ -33,7 +33,7 @@ tags:
 ` 
 
 <p class="grid--cell fs-headline1 fl1">
-  <a class="question-hyperlink" href="https: //stackoverflow.com/questions/14547631/python-locale-error-unsupported-locale-setting">Python locale error: unsupported locale setting</a>:
+  <a class="question-hyperlink" href="https://stackoverflow.com/questions/14547631/python-locale-error-unsupported-locale-setting">Python locale error: unsupported locale setting</a>:
 </p>
 
 > export LC_ALL=C
@@ -46,11 +46,11 @@ tags:
 
 **Free Proxies**
 
-http: //www.publicproxyservers.com/
+http://www.publicproxyservers.com/
 
 **Free VPN, OpenVPN**
 
-http: //www.vpnbook.com/freevpn
+http://www.vpnbook.com/freevpn
 
 **VirtualBox Ubuntu screen resolution resizable: **
 
@@ -74,12 +74,12 @@ bcdef
 
 **Create user, change password remotely**
 
-http: //www.systutorials.com/39549/changing-linux-users-password-in-one-command-line/
+http://www.systutorials.com/39549/changing-linux-users-password-in-one-command-line/
 
 Reload static ip address (when the old IP adress still persists):  
 <span style="background-color: #f2f4f5; color: #222222; font-family: Monaco, Consolas, 'Andale Mono', 'DejaVu Sans Mono', monospace; font-size: 13px; font-style: normal; font-weight: normal;">sudo ifdown <network interface> && sudo ip addr flush <network interface> && sudo ifup <network interface></span>
 
-https: //askubuntu.com/questions/829700/reload-static-ip-ubuntu-16
+https://askubuntu.com/questions/829700/reload-static-ip-ubuntu-16
 
  [1]: https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ
  [2]: http://www.regular-expressions.info/wordboundaries.html

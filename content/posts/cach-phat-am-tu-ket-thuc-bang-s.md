@@ -26,10 +26,10 @@ Và vì âm kết thúc là &#8220;V&#8221;, nên &#8216;s&#8217; ở đây chuy
 
 Tham khảo thêm tại đây:
 
-1. https: //www.youtube.com/watch?v=BU6FoC9Rzyg  
-2. https: //www.youtube.com/watch?v=GUpQOmkSRUo
+1. https://www.youtube.com/watch?v=BU6FoC9Rzyg  
+2. https://www.youtube.com/watch?v=GUpQOmkSRUo
 
 Bonus:  
-3. https: //www.youtube.com/watch?v=IOfEQjlKH64
+3. https://www.youtube.com/watch?v=IOfEQjlKH64
 
  [1]: ../wp-content/uploads/2017/02/S_1.jpg

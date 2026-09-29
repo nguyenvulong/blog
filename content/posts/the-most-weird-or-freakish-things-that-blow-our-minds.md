@@ -8,13 +8,13 @@ categories:
   - Tản mạn Quora
 
 ---
-Dịch từ [**https: //www.quora.com/What-are-the-most-weird-or-freakish-things-that-blow-our-minds**][1]
+Dịch từ [**https://www.quora.com/What-are-the-most-weird-or-freakish-things-that-blow-our-minds**][1]
 
   1. cặp vợ chồng Thụy Điển đặt tên con là &#8220;Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116&#8221;, cái tên này được phát âm là &#8220;Albin&#8221;
   2. Adolf Hitler được bình chọn là &#8220;người đàn ông của năm&#8221; bởi tạp chí Time, vào năm 1938. Ông ta còn được đề cử giải Nobel hòa bình : ))
   3. Nhiều người cho rằng 1 cảnh trong [Johny Bravo][2] (2001) là lời tiên tri cho sự kiện ngày 11-9  
 
-![main-qimg-66d15e6471b788a4711a03867910031d.webp](https: //qph.ec.quoracdn.net/main-qimg-66d15e6471b788a4711a03867910031d.webp)
+![main-qimg-66d15e6471b788a4711a03867910031d.webp](https://qph.ec.quoracdn.net/main-qimg-66d15e6471b788a4711a03867910031d.webp)
 
   4. Chữ viết nguệch ngoạc của bác sĩ là nguyên nhân của 7000 cái chết mỗi năm (theo tạp chí Time)
   5. Tên giữa của Harry S. Truman, tổng thống thứ 33 của Hoa Kì, chỉ có một chữ &#8220;S&#8221;

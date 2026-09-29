@@ -23,7 +23,7 @@ Kiểm tra sản phẩm chính hãng Apple[: https://support.apple.com/en-us/HT2
 
 Tra cứu danh mục các phụ kiện đượ chứng nhận MFi (tương thích với sản phẩm của Apple): <s> <https://mfi.apple.com/MFiWeb/getAPS> </s><a href="https://mfi.apple.com/account/accessory-search" target="_blank" rel="noreferrer noopener">https://mfi.apple.com/account/accessory-search</a>
 
-Mua AppleCare+ <a rel="noreferrer noopener" href="https: //mysupport.apple.com/add-coverage/producttypes" target="_blank">https://mysupport.apple.com/add-coverage/producttypes</a>
+Mua AppleCare+ <a rel="noreferrer noopener" href="https://mysupport.apple.com/add-coverage/producttypes" target="_blank">https://mysupport.apple.com/add-coverage/producttypes</a>
 
 Hard Reset (Force reset): https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios 
 

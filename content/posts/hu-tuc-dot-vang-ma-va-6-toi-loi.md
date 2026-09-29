@@ -18,7 +18,7 @@ tags:
   - vang ma
 
 ---
-Bài tóm tắt từ báo <a href="http: //motthegioi.vn/xa-hoi/doi-song/6-toi-loi-lon-nhat-ma-nguoi-viet-dang-mac-phai-khi-dot-vang-ma-93459.html" target="_blank">Một Thế Giới</a> dành cho người bận rộn:  
+Bài tóm tắt từ báo <a href="http://motthegioi.vn/xa-hoi/doi-song/6-toi-loi-lon-nhat-ma-nguoi-viet-dang-mac-phai-khi-dot-vang-ma-93459.html" target="_blank">Một Thế Giới</a> dành cho người bận rộn:  
 (Sư thầy Thích Tịnh Giác &#8211; Sư Trụ trì chùa Phúc Sơn, thôn Kim Sơn, xã Kim Sơn, huyện Gia Lâm, Hà Nội.)
 
 1. **Mất đi tính dân tộc, thể hiện sự đô hộ văn hóa** vì đốt vàng mã xuất phát từ Trung Quốc  

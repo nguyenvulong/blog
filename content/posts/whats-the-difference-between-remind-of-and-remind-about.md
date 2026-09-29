@@ -35,5 +35,5 @@ Do you now see what it means? It means for you to **COME BACK TO** your mind. Th
 
 &nbsp;
 
-From <a id="profile-nick" class="profile-link" href="https: //answers.yahoo.com/activity?show=ITP4KTXUCBQWDEADUMMXVHX4FQ&t=g" data-rapid_p="8">Jim  
+From <a id="profile-nick" class="profile-link" href="https://answers.yahoo.com/activity?show=ITP4KTXUCBQWDEADUMMXVHX4FQ&t=g" data-rapid_p="8">Jim  
 at : https://answers.yahoo.com/question/index?qid=20110108234810AAXUleA</a>

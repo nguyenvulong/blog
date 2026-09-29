@@ -36,5 +36,5 @@ Boy : I see &#8230; ̶I̶t̶&#8217;̶s̶ ̶o̶k̶ ̶.̶
 Còn nhiều nghĩa của SEE lắm . Mình chỉ giới thiệu sơ qua thôi .
 
 Đây là nơi mình đọc và dịch ra bài học này :  
-<a href="http: //dictionary.cambridge.org/dictionary/british/see_1?q=See" target="_blank" rel="nofollow nofollow">http://<wbr />dictionary.cambridge.org/<wbr />dictionary/british/see_1?q=See</a>  
-<a href="http: //oxforddictionaries.com/definition/english/see?q=see" target="_blank" rel="nofollow nofollow">http://oxforddictionaries.com/<wbr />definition/english/see?q=see</a>
+<a href="http://dictionary.cambridge.org/dictionary/british/see_1?q=See" target="_blank" rel="nofollow nofollow">http://<wbr />dictionary.cambridge.org/<wbr />dictionary/british/see_1?q=See</a>  
+<a href="http://oxforddictionaries.com/definition/english/see?q=see" target="_blank" rel="nofollow nofollow">http://oxforddictionaries.com/<wbr />definition/english/see?q=see</a>

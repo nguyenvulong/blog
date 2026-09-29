@@ -39,11 +39,11 @@ Tuy nhiên tại sao bộ não lại xử lý 1 hình ảnh theo những cách k
 
 Xem thêm:
 
-[4] <a href="http: //www.vox.com/2015/2/27/8119901/explain-color-dress" target="_blank">http://www.vox.com/2015/2/27/8119901/explain-color-dress</a>  
-[1] <a href="http: //www.patheos.com/blogs/friendlyatheist/2015/02/26/heres-how-you-can-see-all-the-colors-of-that-stupid-dress/" target="_blank">http://www.patheos.com/blogs/friendlyatheist/2015/02/26/heres-how-you-can-see-all-the-colors-of-that-stupid-dress/</a>
+[4] <a href="http://www.vox.com/2015/2/27/8119901/explain-color-dress" target="_blank">http://www.vox.com/2015/2/27/8119901/explain-color-dress</a>  
+[1] <a href="http://www.patheos.com/blogs/friendlyatheist/2015/02/26/heres-how-you-can-see-all-the-colors-of-that-stupid-dress/" target="_blank">http://www.patheos.com/blogs/friendlyatheist/2015/02/26/heres-how-you-can-see-all-the-colors-of-that-stupid-dress/</a>
 
-[2] <a href="https: //www.youtube.com/watch?v=evQsOFQju08" target="_blank">https://www.youtube.com/watch?v=evQsOFQju08</a>  
-[3] <a href="http: //vietnamnet.vn/vn/cong-nghe-thong-tin-vien-thong/223198/bi-an-cua-chiec-vay-doi-mau-gay--nao-loan--internet.html" target="_blank">http://vietnamnet.vn/vn/cong-nghe-thong-tin-vien-thong/223198/bi-an-cua-chiec-vay-doi-mau-gay&#8211;nao-loan&#8211;internet.html</a>
+[2] <a href="https://www.youtube.com/watch?v=evQsOFQju08" target="_blank">https://www.youtube.com/watch?v=evQsOFQju08</a>  
+[3] <a href="http://vietnamnet.vn/vn/cong-nghe-thong-tin-vien-thong/223198/bi-an-cua-chiec-vay-doi-mau-gay--nao-loan--internet.html" target="_blank">http://vietnamnet.vn/vn/cong-nghe-thong-tin-vien-thong/223198/bi-an-cua-chiec-vay-doi-mau-gay&#8211;nao-loan&#8211;internet.html</a>
 
  [1]: ../wp-content/uploads/2015/02/1-20bd2.jpg
  [2]: ../wp-content/uploads/2015/02/B-0PQbkW4AATWKL.jpg

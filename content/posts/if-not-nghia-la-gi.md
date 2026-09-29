@@ -58,7 +58,7 @@ _ Nếu người nghe biết người nói là 1 người khiêm tốn thì sẽ
 Nếu người nghe biết người nói là 1 người ngạo mạn thì sẽ hiểu &#8220;if not&#8221; = &#8220;perhaps&#8221;
 
 Vì vậy, xin nhắc lại, _**try to avoid using &#8220;if not&#8221; as much as possible. **_  
-[1] <a href="http: //www.grammarphobia.com/blog/2013/10/if-not.html" target="_blank">http://www.grammarphobia.com/blog/2013/10/if-not.html</a>  
-[2] <a href="http: //www.economist.com/blogs/johnson/2012/10/ambiguity" target="_blank">http://www.economist.com/blogs/johnson/2012/10/ambiguity</a>
+[1] <a href="http://www.grammarphobia.com/blog/2013/10/if-not.html" target="_blank">http://www.grammarphobia.com/blog/2013/10/if-not.html</a>  
+[2] <a href="http://www.economist.com/blogs/johnson/2012/10/ambiguity" target="_blank">http://www.economist.com/blogs/johnson/2012/10/ambiguity</a>
 
  [1]: ../wp-content/uploads/2013/05/what-if.jpg

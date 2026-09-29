@@ -30,12 +30,12 @@ Hàng chục năm sau, công lao của ông về thế chiến thứ 2 mới đ�
 
 The Imitation Game là 1 bộ phim phát hành năm 2014 thuật lại mảng cuộc đời của ông trong World War II, do Benedict Cumberbatch đóng.
 
-Ai có sở thích xem phim mình gợi ý xem thêm  <a href="http: //www.imdb.com/title/tt1475582/" target="_blank">Sherlocks</a> do diễn viên này  nhập vai.
+Ai có sở thích xem phim mình gợi ý xem thêm  <a href="http://www.imdb.com/title/tt1475582/" target="_blank">Sherlocks</a> do diễn viên này  nhập vai.
 
 &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
 
-[1] <a href="http: //en.wikipedia.org/wiki/Alan_Turing" target="_blank">http://en.wikipedia.org/wiki/Alan_Turing</a>
+[1] <a href="http://en.wikipedia.org/wiki/Alan_Turing" target="_blank">http://en.wikipedia.org/wiki/Alan_Turing</a>
 
-[2] <a href="http: //en.wikipedia.org/wiki/Enigma_machine" target="_blank">http://en.wikipedia.org/wiki/Enigma_machine</a>
+[2] <a href="http://en.wikipedia.org/wiki/Enigma_machine" target="_blank">http://en.wikipedia.org/wiki/Enigma_machine</a>
 
-[3] <a href="http: //www.imdb.com/title/tt2084970/" target="_blank">http://www.imdb.com/title/tt2084970/</a>
+[3] <a href="http://www.imdb.com/title/tt2084970/" target="_blank">http://www.imdb.com/title/tt2084970/</a>

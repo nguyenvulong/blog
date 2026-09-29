@@ -15,19 +15,19 @@ tags:
 ---
 Some useful websites & courses to learn Big Data:
 
-[1] http: //www.columbia.edu/~rsb2162/bigdataeducation.html
+[1] http://www.columbia.edu/~rsb2162/bigdataeducation.html
 
-[2] http: //bigdatauniversity.com/
+[2] http://bigdatauniversity.com/
 
-[3] https: //www.coursera.org/
+[3] https://www.coursera.org/
 
-[4] https: //www.udacity.com/
+[4] https://www.udacity.com/
 
-[5] http: //apache.org
+[5] http://apache.org
 
-[6] http: //hortonworks.com
+[6] http://hortonworks.com
 
-[7] http: //cloudera.com
+[7] http://cloudera.com
 
 &nbsp;
 

@@ -22,7 +22,7 @@ Tốn khoảng 10-15 phút để đọc hiểu nhưng lợi ích thì hơn nhi�
 
 1. Chỉ nên lưu mật khẩu trên máy cá nhân (nhà, công ty, và điện thoại riêng) để tự động đăng nhập (không bị yêu cầu gõ mật khẩu nhiều mất thời gian)  
 2. Nên cài Anti-virus (tải Avast hoặc Avira có bản miễn phí là đủ dùng rồi)  
-<a href="http: //www.avast.com/en-ph/download-thank-you.php?product=FAV-ONLINE&locale=en-ph" target="_blank">CLICK VÀO ĐÂY ĐỂ TẢI<br /> </a>3. Nếu đăng nhập ngoài tiệm Net, máy người lạ thì nên vào Windows > Run > gõ &#8216;osk&#8217; rồi enter để sử dụng bàn phím ảo (OSK = On-Screen Keyboard)Nếu không biết vào Run ở đâu thì giữ phím Windows (hình lá cờ, cạnh phím Ctrl góc dưới bên trái) sau đó nhấn thêm phím &#8216;R&#8217;. Tức là Windows + R, thì hộp thoại &#8216;Run&#8217; sẽ xuất hiện, sau đó gõ &#8216;osk&#8217; rồi Enter .
+<a href="http://www.avast.com/en-ph/download-thank-you.php?product=FAV-ONLINE&locale=en-ph" target="_blank">CLICK VÀO ĐÂY ĐỂ TẢI<br /> </a>3. Nếu đăng nhập ngoài tiệm Net, máy người lạ thì nên vào Windows > Run > gõ &#8216;osk&#8217; rồi enter để sử dụng bàn phím ảo (OSK = On-Screen Keyboard)Nếu không biết vào Run ở đâu thì giữ phím Windows (hình lá cờ, cạnh phím Ctrl góc dưới bên trái) sau đó nhấn thêm phím &#8216;R&#8217;. Tức là Windows + R, thì hộp thoại &#8216;Run&#8217; sẽ xuất hiện, sau đó gõ &#8216;osk&#8217; rồi Enter .
 
 Video hướng dẫn xem tại đây
 
@@ -38,7 +38,7 @@ Hiện nay có nhiều trường hợp bị mất tài khoản facebook rồi k�
 &nbsp;
 
 **5. Mình bổ sung thêm cách an toàn nhất** cho tài khoản facebook của bạn với chức năng 2-factor authentication [hơi khó cho người không rành máy tính, nên có gì cứ hỏi ở comment nhé]  
-<a href="https: //www.facebook.com/settings?tab=security" target="_blank">https://www.facebook.com/settings?tab=security</a> => Login Approval, tick  
+<a href="https://www.facebook.com/settings?tab=security" target="_blank">https://www.facebook.com/settings?tab=security</a> => Login Approval, tick  
 &#8220;Require a security code &#8230;&#8221;  
 Bạn phải nhập số điện thoại (ở Việt Nam bắt đầu bằng +84) trong trường hợp chưa nhập lần nào, để nhận 1 dãy số gửi về. Tuy nhiên đôi lúc bạn không nhận được dãy số này, hãy chọn vào &#8220;change phone number&#8221; và nhập lại số điện thoại 1 lần nữa để có thể bật chức năng Code Generator này lên. **[đọc kỹ đoạn này nhé]**  
 

@@ -54,20 +54,20 @@ Hình đầu là các thẻ của mình, tất cả đều chung 1 kích thướ
 
 
 Các bạn đọc thêm về tác hại khi trùng số CMND [6]  
-[1] http: //vnexpress.net/tin-tuc/thoi-su/nguoi-dan-tp-hcm-duoc-doi-cmnd-kieu-moi-3323207.html  
-[2] http: //dantri.com.vn/xa-hoi/dan-khong-bat-buoc-phai-doi-giay-phep-lai-xe-moi-1385162842.htm
+[1] http://vnexpress.net/tin-tuc/thoi-su/nguoi-dan-tp-hcm-duoc-doi-cmnd-kieu-moi-3323207.html  
+[2] http://dantri.com.vn/xa-hoi/dan-khong-bat-buoc-phai-doi-giay-phep-lai-xe-moi-1385162842.htm
 
 [3] Tiêu chuẩn về kích thước thẻ: http://www.iso.org/iso/catalogue_detail?csnumber=31432
 
-[4] http: //nld.com.vn/thoi-su-trong-nuoc/bat-dau-cap-cmnd-12-so-20140330220005701.htm
+[4] http://nld.com.vn/thoi-su-trong-nuoc/bat-dau-cap-cmnd-12-so-20140330220005701.htm
 
-[5] http: //tuoitre.vn/tin/ban-doc/20151208/cmnd-9-12-so-va-the-can-cuoc-hieu-luc-nhu-nhau/1016671.html
+[5] http://tuoitre.vn/tin/ban-doc/20151208/cmnd-9-12-so-va-the-can-cuoc-hieu-luc-nhu-nhau/1016671.html
 
 [6] ..//trung-so-chung-minh-nhan-dan/
 
-[7] http: //www.ezlawblog.com/2015/05/10-ieu-nen-biet-ve-can-cuoc-cong-dan.html
+[7] http://www.ezlawblog.com/2015/05/10-ieu-nen-biet-ve-can-cuoc-cong-dan.html
 
-[8] http: //dantri.com.vn/xa-hoi/buoc-nguoi-dan-doi-giay-phep-lai-xe-con-thoi-han-la-khong-co-co-so-phap-ly-20161130132636087.htm
+[8] http://dantri.com.vn/xa-hoi/buoc-nguoi-dan-doi-giay-phep-lai-xe-con-thoi-han-la-khong-co-co-so-phap-ly-20161130132636087.htm
 
  [1]: ../wp-content/uploads/2015/12/card_long.jpg
  [2]: ../wp-content/uploads/2015/12/card_gplx.jpg

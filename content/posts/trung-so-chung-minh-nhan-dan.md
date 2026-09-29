@@ -31,7 +31,7 @@ Vấn đề này còn có thể dẫn đến 1 kết luận là hiện tại CMN
 P/S: Xin nhắc người thân bạn bè lên trang web của Tổng Cục Thuế phía trên để tra cứu lại xem có đúng tên tuổi của mình không để kịp thời giải quyết. Trang web này chưa cập nhật tính năng tra cứu bằng hộ chiếu.
 
 Bài viết tham khảo:  
-<a href="http: //tuoitre.vn/tin/chinh-tri-xa-hoi/20150807/rac-roi-voi-7200-nguoi-trung-so-cmnd/789936.html" target="_blank">http://tuoitre.vn/tin/chinh-tri-xa-hoi/20150807/rac-roi-voi-7200-nguoi-trung-so-cmnd/789936.html</a>
+<a href="http://tuoitre.vn/tin/chinh-tri-xa-hoi/20150807/rac-roi-voi-7200-nguoi-trung-so-cmnd/789936.html" target="_blank">http://tuoitre.vn/tin/chinh-tri-xa-hoi/20150807/rac-roi-voi-7200-nguoi-trung-so-cmnd/789936.html</a>
 
 &nbsp;
 

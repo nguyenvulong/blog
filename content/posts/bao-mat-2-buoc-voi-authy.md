@@ -17,7 +17,7 @@ tags:
   - google authenticator
 
 ---
-Nhận tiện có anh chàng bị hacked mất mấy ngàn $, xem tại <a href="www.theverge.com/a/anatomy-of-a-hack" target="_blank">đây</a> hoặc <a href="https: //www.tinhte.vn/threads/mot-nguoi-my-mat-so-bitcoin-tri-gia-3600-va-day-la-cach-anh-ay-bi-hack.2434381/" target="_blank">bản tiếng Việt tại đây</a> mình cài thử Authy thì thấy nó khá tốt, tốt hơn Google Authenticator hay Duo Security ở chỗ nó bảo vệ cả app trên điện thoại (đòi mã pin chẳng hạn, hay có chức năng limit log-in cho 1 device mà thôi)
+Nhận tiện có anh chàng bị hacked mất mấy ngàn $, xem tại <a href="www.theverge.com/a/anatomy-of-a-hack" target="_blank">đây</a> hoặc <a href="https://www.tinhte.vn/threads/mot-nguoi-my-mat-so-bitcoin-tri-gia-3600-va-day-la-cach-anh-ay-bi-hack.2434381/" target="_blank">bản tiếng Việt tại đây</a> mình cài thử Authy thì thấy nó khá tốt, tốt hơn Google Authenticator hay Duo Security ở chỗ nó bảo vệ cả app trên điện thoại (đòi mã pin chẳng hạn, hay có chức năng limit log-in cho 1 device mà thôi)
 
 P/S dù sao thì Authy cũng rất triển vọng ^^
 

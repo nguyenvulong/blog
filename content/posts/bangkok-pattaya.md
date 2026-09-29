@@ -52,7 +52,7 @@ Hôm sau mình đi đảo Koh Larn (Coral Island) xong chiều tối sẽ nhận
 
 
 
-![1f972.png](https: //static.xx.fbcdn.net/images/emoji.php/v9/t8b/2/16/1f972.png)
+![1f972.png](https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/2/16/1f972.png)
 
 
 Ui mỏi tay quá, một ngày đẹp trời sẽ review tiếp
@@ -68,7 +68,7 @@ Ui mỏi tay quá, một ngày đẹp trời sẽ review tiếp
 Trước khi review tiếp thì mình bổ sung chút phần 1: Việc bắt Grab ở Pattaya không hẳn là quá khó, 10 lần bắt thì cũng có 8 lần không gặp vấn đề gì. Còn lại 2 lần chắc do muốn đi quãng đường xa tầm 13km gì đó thì hên xui nhé.
 
 
-![1fae3.png](https: //static.xx.fbcdn.net/images/emoji.php/v9/tc6/2/16/1fae3.png)
+![1fae3.png](https://static.xx.fbcdn.net/images/emoji.php/v9/tc6/2/16/1fae3.png)
 
 
 
@@ -78,7 +78,7 @@ Trước khi review tiếp thì mình bổ sung chút phần 1: Việc bắt Gra
 À giao thông ở Bangkok cũng khá tiện lợi nhé. Vừa có hệ thống xe bus mà vừa bắt grab cũng dễ, quét chưa được 1 phút đã có người nhận chuyến rồi. Có điều đặt taxi xong thì bao giờ cũng phải chờ 10-15 phút để người ta đến đón vì đường xá ở đây hay bị tắc.
 
 
-![1f605.png](https: //static.xx.fbcdn.net/images/emoji.php/v9/tf2/2/16/1f605.png)
+![1f605.png](https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/2/16/1f605.png)
 
 
 Gần sáng bọn mình chợp mắt được khoảng 2 tiếng rồi cũng phải dậy trả phòng và rời đi luôn vì trót đặt tour tham quan Bangkok bắt đầu từ 9h.
@@ -102,7 +102,7 @@ Sau đó đến đoạn check in vào Hoàng cung. Người ta quy định trang
 Ngoài ra còn nhiều món khác như bún trộn, mì ăn liền, xiên hải sản nướng… cũng ngon mà không đặc sắc bằng mấy món trên.
 
 
-![1f972.png](https: //static.xx.fbcdn.net/images/emoji.php/v9/t8b/2/16/1f972.png)
+![1f972.png](https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/2/16/1f972.png)
 
 
  [1]: ../wp-content/uploads/2022/12/316014608_6008041609248353_1744890768963492401_n-1.jpeg

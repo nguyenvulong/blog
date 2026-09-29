@@ -34,7 +34,7 @@ Mình tên là \****, hiện tại mình đang theo học ngành IT tại Soongs
 ![dinhhuong1.jpg](/wp-content/uploads/2014/03/dinhhuong1.jpg)
 
 
-Đây là giai đoạn mình chuẩn bị ra trường, du học vẫn là khái niệm khá mơ hồ với mình, dù là cũng có tham gia khá nhiều buổi seminar, và cũng sưu tập ra kha khá các trang web về học bổng du học. http: //nguyen-vu-long.blogspot.kr/2011/11/reference.html => vào khoảng cuối năm 2011 mình đã sưu tầm rồi.
+Đây là giai đoạn mình chuẩn bị ra trường, du học vẫn là khái niệm khá mơ hồ với mình, dù là cũng có tham gia khá nhiều buổi seminar, và cũng sưu tập ra kha khá các trang web về học bổng du học. http://nguyen-vu-long.blogspot.kr/2011/11/reference.html => vào khoảng cuối năm 2011 mình đã sưu tầm rồi.
 
 Đến lúc chuẩn bị tốt nghiệp, vào tầm giữa năm 2012 thì mình có đọc một bài viết trên diễn đàn của trường, về việc tuyển sinh viên nghiên cứu phòng Lab của Đại Học Soongsil, thấy có vẻ hay hay nên mình nói cho đứa bạn biết và &#8220;dụ&#8221; nó đăng ký thử. Vài tháng sau, lúc mình chính thức tốt nghiệp thì cũng là lúc thằng bạn đó đặt chân xuống sân bay Incheon (Seoul, Korea) để tham gia học kỳ đầu tiên tại Soongsil.
 
@@ -82,7 +82,7 @@ Thông thường để du học, quy trình sẽ như sau :
 
 Trong trường hợp của mình thì là như sau :
 
-&#8211; Khi nộp hồ sơ qua sẽ có 1 anh đại diện của Lab nghiên cứu phỏng vấn, tiếp đến là giáo sư phỏng vấn qua điện thoại, nếu OK thì sẽ có yêu cầu từ trường qua mail, nhắc mình phải nộp giấy tờ cần thiết, ví dụ  <a href="http: //www.ssu.ac.kr/html/themes/grad/data/for_foreigners.pdf" target="_blank"> http://www.ssu.ac.kr/html/themes/grad/data/for_foreigners.pdf (trang số 2)</a>
+&#8211; Khi nộp hồ sơ qua sẽ có 1 anh đại diện của Lab nghiên cứu phỏng vấn, tiếp đến là giáo sư phỏng vấn qua điện thoại, nếu OK thì sẽ có yêu cầu từ trường qua mail, nhắc mình phải nộp giấy tờ cần thiết, ví dụ  <a href="http://www.ssu.ac.kr/html/themes/grad/data/for_foreigners.pdf" target="_blank"> http://www.ssu.ac.kr/html/themes/grad/data/for_foreigners.pdf (trang số 2)</a>
 
 Ở đây có 1 phần đòi phải chứng minh tài chính gia đình trên $13000 , các bạn có thể tới Eximbank hay Á Châu để nhờ họ giúp đỡ cho vay ngắn hạn và trả lại tiền sau đó vài tuần, tức là tiền vay lập sổ tiết kiệm chỉ nhằm mục đích chứng minh tài chính mà thôi . Bạn chỉ phải trả vài trăm ngàn tiền lãi.
 

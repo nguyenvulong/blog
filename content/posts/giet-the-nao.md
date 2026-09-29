@@ -44,7 +44,7 @@ Hàng ngày có hàng triệu con gia súc bị giết để làm thịt, mình 
 Chuyện chém giết mà trở thành lễ hội thì nước phát triển như Đan Mạch cũng có, trước mắt người đọc là lễ hội chém cá voi.
 
 
-![whale-hunting-11%25255B2%25255D.jpg?imgmax=800](http: //lh6.ggpht.com/-_rkz8iyVvis/Ts6L6BArKMI/AAAAAAAASQA/f-PqqFY78fY/whale-hunting-11%25255B2%25255D.jpg?imgmax=800)
+![whale-hunting-11%25255B2%25255D.jpg?imgmax=800](http://lh6.ggpht.com/-_rkz8iyVvis/Ts6L6BArKMI/AAAAAAAASQA/f-PqqFY78fY/whale-hunting-11%25255B2%25255D.jpg?imgmax=800)
 
 
 Bây giờ mình sẽ đưa ra 1 số video về việc giết động vật ở 1 trang trại nước ngoài: cũng là treo cổ, cứa cổ, với những con non thì phang mạnh vào vật cứng&#8230; (tất nhiên là trái lại với luật bảo vệ động vật ở các nước phát triển)
@@ -58,11 +58,11 @@ và
 Ai ngại xem clip thì có thể xem hình sau:
 
 
-![rec.handling.guideline.img1.jpg](http: //www.grandin.com/gifs/rec.handling.guideline.img1.jpg)
+![rec.handling.guideline.img1.jpg](http://www.grandin.com/gifs/rec.handling.guideline.img1.jpg)
 
 
 
-![captive.bolt.placement.cattle.sideview.jpg](http: //www.grandin.com/gifs/captive.bolt.placement.cattle.sideview.jpg)
+![captive.bolt.placement.cattle.sideview.jpg](http://www.grandin.com/gifs/captive.bolt.placement.cattle.sideview.jpg)
 
 
 Hi vọng là ở Việt Nam và các nước còn áp dụng phương pháp giết thịt động vật theo kiểu hành hạ con vật trong đau đớn trước khi chết thì có thể **chuyển sang phương pháp này.**
@@ -73,6 +73,6 @@ Mình không phản đối chuyện giết thịt vì mình cũng là người �
 
 Nguồn ảnh lấy tại:
 
-<a href="http: //www.grandin.com/humane/cap.bolt.tips.html" target="_blank">http://www.grandin.com/humane/cap.bolt.tips.html<br /> </a><a href="http://www.amusingplanet.com/2011/11/mass-whale-hunting-in-faroe-islands.html" target="_blank">http://www.amusingplanet.com/2011/11/mass-whale-hunting-in-faroe-islands.html</a><a href="http://www.grandin.com/humane/cap.bolt.tips.html" target="_blank"><br /> </a>
+<a href="http://www.grandin.com/humane/cap.bolt.tips.html" target="_blank">http://www.grandin.com/humane/cap.bolt.tips.html<br /> </a><a href="http://www.amusingplanet.com/2011/11/mass-whale-hunting-in-faroe-islands.html" target="_blank">http://www.amusingplanet.com/2011/11/mass-whale-hunting-in-faroe-islands.html</a><a href="http://www.grandin.com/humane/cap.bolt.tips.html" target="_blank"><br /> </a>
 
  [1]: ../wp-content/uploads/2015/02/chem_heo.jpg

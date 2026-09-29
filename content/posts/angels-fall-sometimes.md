@@ -15,7 +15,7 @@ tags:
 
 ---
 Bàn về lời tựa của bài hát này: &#8220;Angels fall sometimes&#8221;  
-<a href="https: //www.youtube.com/watch?v=nCcqqzv_XSQ" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=nCcqqzv_XSQ</a>
+<a href="https://www.youtube.com/watch?v=nCcqqzv_XSQ" target="_blank" rel="nofollow">https://www.youtube.com/watch?v=nCcqqzv_XSQ</a>
 
 
 ![angelsfall-e1434719403488.png](/wp-content/uploads/2015/06/angelsfall-e1434719403488.png)
@@ -38,7 +38,7 @@ Trong Kinh Thánh, thì có Thiên Thần trên bầu trời.<span class="text_e
 
 <div class="text_exposed_show">
   <p style="text-align: center;">
-    <br /> Muốn biết nhìu hơn về Thiên Thần, thì nên xem phim <a id="js_y" class="profileLink" href="https: //www.facebook.com/Supernatural" data-gt="{&quot;entity_id&quot;:&quot;9991232322&quot;,&quot;entity_path&quot;:&quot;WebComposerUploadController&quot;}" data-hovercard="/ajax/hovercard/page.php?id=9991232322">Supernatural</a>.
+    <br /> Muốn biết nhìu hơn về Thiên Thần, thì nên xem phim <a id="js_y" class="profileLink" href="https://www.facebook.com/Supernatural" data-gt="{&quot;entity_id&quot;:&quot;9991232322&quot;,&quot;entity_path&quot;:&quot;WebComposerUploadController&quot;}" data-hovercard="/ajax/hovercard/page.php?id=9991232322">Supernatural</a>.
   </p>
 </div>
 

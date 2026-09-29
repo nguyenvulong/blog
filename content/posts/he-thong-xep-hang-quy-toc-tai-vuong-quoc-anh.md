@@ -44,5 +44,5 @@ Great Britain bao gồm Scotland + England + xứ Wales
 Image from Wikipedia:
 
 
-![300px-British_Isles_Euler_diagram_15.svg.png](http: //upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Isles_Euler_diagram_15.svg/300px-British_Isles_Euler_diagram_15.svg.png)
+![300px-British_Isles_Euler_diagram_15.svg.png](http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Isles_Euler_diagram_15.svg/300px-British_Isles_Euler_diagram_15.svg.png)
 
