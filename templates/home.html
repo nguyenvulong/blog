@@ -1,12 +1,49 @@
 {% extends "base.html" %}
 
 {% block main_content %}
-    {% if section.title %}
+    <section class="home-hero">
+        <svg class="home-hero-art" viewBox="0 0 360 178" role="img" aria-label="A small round creature with a sprout on its head waves hello and says: still growing">
+            <g class="stars" fill="var(--text-2)" opacity="0.6">
+                <circle cx="40" cy="30" r="2"/><circle cx="118" cy="22" r="1.5"/>
+                <circle cx="150" cy="60" r="1.5"/><circle cx="330" cy="120" r="2"/>
+                <circle cx="28" cy="120" r="1.5"/><circle cx="215" cy="14" r="1.5"/>
+            </g>
+            <circle cx="72" cy="66" r="26" fill="var(--bg-2)"/>
+            <circle cx="64" cy="58" r="6" fill="var(--bg-1)"/>
+            <circle cx="82" cy="76" r="4" fill="var(--bg-1)"/>
+
+            <ellipse cx="180" cy="158" rx="112" ry="13" fill="var(--bg-1)" stroke="var(--border-color)"/>
+
+            <g class="hero-sprout" fill="#7c9a6a" stroke="#7c9a6a">
+                <path d="M180 88 V74" stroke-width="3" stroke-linecap="round" fill="none"/>
+                <ellipse cx="171" cy="71" rx="9" ry="4.5" transform="rotate(-25 171 71)" stroke="none"/>
+                <ellipse cx="189" cy="70" rx="9" ry="4.5" transform="rotate(25 189 70)" stroke="none"/>
+            </g>
+
+            <path d="M148 114 Q139 124 142 134" stroke="var(--primary-color)" stroke-width="9" stroke-linecap="round" fill="none"/>
+            <ellipse cx="180" cy="120" rx="34" ry="32" fill="var(--primary-color)"/>
+            <ellipse cx="166" cy="153" rx="10" ry="5" fill="var(--primary-color)"/>
+            <ellipse cx="194" cy="153" rx="10" ry="5" fill="var(--primary-color)"/>
+            <circle cx="168" cy="114" r="3.5" fill="var(--bg-0)"/>
+            <circle cx="192" cy="114" r="3.5" fill="var(--bg-0)"/>
+            <circle cx="158" cy="125" r="4.5" fill="var(--bg-0)" opacity="0.25"/>
+            <circle cx="202" cy="125" r="4.5" fill="var(--bg-0)" opacity="0.25"/>
+            <path d="M172 127 Q180 135 188 127" stroke="var(--bg-0)" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+            <path class="hero-wave" d="M212 114 Q226 106 232 92" stroke="var(--primary-color)" stroke-width="9" stroke-linecap="round" fill="none"/>
+
+            <g class="hero-bubble">
+                <rect x="232" y="30" width="118" height="30" rx="15" fill="var(--bg-1)" stroke="var(--border-color)"/>
+                <path d="M250 59 L246 72 L262 59 Z" fill="var(--bg-1)" stroke="var(--border-color)" stroke-linejoin="round"/>
+                <path d="M248 58 H262" stroke="var(--bg-1)" stroke-width="3"/>
+                <text x="291" y="49.5" text-anchor="middle" font-size="12.5" fill="var(--text-0)" style="font-family: var(--code-font), monospace">still growing</text>
+            </g>
+        </svg>
+
         {{<post.page_header title={section.title} />}}
-    {% endif %}
-    {% if section.content %}
-        <div class="section-content">{{ section.content | safe }}</div>
-    {% endif %}
+        {% if section.content %}
+            <div class="section-content">{{ section.content | safe }}</div>
+        {% endif %}
+    </section>
 
     {% set posts = get_section(path="posts/_index.md") %}
     {% set recent = posts.pages[:10] %}
