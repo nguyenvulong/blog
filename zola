@@ -23,4 +23,13 @@ if [ ! -x "$BIN" ]; then
   mv "$DIR/zola" "$BIN"
 fi
 
+# Cloudflare Pages preview deployments live on their own *.pages.dev URL. Without this,
+# every asset link points at the production base_url and the preview renders unstyled.
+if [ "${1:-}" = "build" ] && [ -n "${CF_PAGES_URL:-}" ] && [ "${CF_PAGES_BRANCH:-main}" != "main" ]; then
+  case " $* " in
+    *" --base-url"*|*" -u "*) ;;
+    *) set -- "$@" --base-url "$CF_PAGES_URL" ;;
+  esac
+fi
+
 exec "$BIN" "$@"
