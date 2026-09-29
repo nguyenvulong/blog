@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block main_content %}
+    {% if section.title %}
+        {{<post.page_header title={section.title} />}}
+    {% endif %}
+    {% if section.content %}
+        <div class="section-content">{{ section.content | safe }}</div>
+    {% endif %}
+
+    {% set posts = get_section(path="posts/_index.md") %}
+    {% set recent = posts.pages[:10] %}
+    <main class="post-list">
+        {{<post.list_posts pages={recent} />}}
+        <p class="home-all-posts"><a href="{{ get_url(path='posts') }}">All posts →</a></p>
+    </main>
+{% endblock main_content %}

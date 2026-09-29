@@ -1,6 +1,6 @@
 +++
 title = "hello, world!"
-template = "homepage.html"
+template = "home.html"
 +++
 
 well well well

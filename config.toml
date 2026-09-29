@@ -40,6 +40,8 @@ socials = [
   { name = "github", url = "https://github.com/nguyenvulong/", icon = "github" },
 ]
 
+stylesheets = ["custom.css"]
+
 [extra.taxonomies]
 sort_by = "page_count"
 reverse = true
