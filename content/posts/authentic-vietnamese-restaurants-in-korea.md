@@ -14,13 +14,13 @@ Too many people looking for an authentic ones, so I decided to write down the on
 
   1. Lẩu &#8211; Hotpot: 하노이맛집 (총정로).
 
-<https: //m.blog.naver.com/bravo424/221755634578>
+<https://m.blog.naver.com/bravo424/221755634578>
 
 2. Bánh mỳ, bún đậu mắm tôm, lòng &#8211; dồi ..: Phở Hằng (PhoHang )
 
 포항서울 종로구 창신길 15
 
-<a rel="noreferrer noopener" href="http: //naver.me/xeH89iZI?fbclid=IwAR2E0eCvXoFk1OMYrUKK9qpWyIyMCWTSuuaEXocW-Sfu05CuxjTcSx3hzHg" target="_blank">http://naver.me/xeH89iZI</a>
+<a rel="noreferrer noopener" href="http://naver.me/xeH89iZI?fbclid=IwAR2E0eCvXoFk1OMYrUKK9qpWyIyMCWTSuuaEXocW-Sfu05CuxjTcSx3hzHg" target="_blank">http://naver.me/xeH89iZI</a>
 
 3. Cơm sườn, bánh mỳ: Phở Hiền (Ewha Womans University)
 

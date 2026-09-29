@@ -20,8 +20,8 @@ RECOVER
 
 RIP
 
-  1. https: //www.facebook.com/help/contact/295309487309948?helpref=faq_content 
-  2. (with disabled account, you must remember old email) https: //www.facebook.com/help/contact/logout?id=183000765122339
+  1. https://www.facebook.com/help/contact/295309487309948?helpref=faq_content 
+  2. (with disabled account, you must remember old email) https://www.facebook.com/help/contact/logout?id=183000765122339
 
 Note
 

@@ -28,6 +28,6 @@ Since you no longer have **sudo** permission anymore, you would need PolicyKit t
 ![image.png](/wp-content/uploads/2021/04/image.png)
 
 
-Now, you can run **pkexec visudo** to fix your **sudoers** file. For more detail, see **<a href="https: //askubuntu.com/questions/73864/how-to-modify-an-invalid-etc-sudoers-file" target="_blank" rel="noreferrer noopener">this</a>**.
+Now, you can run **pkexec visudo** to fix your **sudoers** file. For more detail, see **<a href="https://askubuntu.com/questions/73864/how-to-modify-an-invalid-etc-sudoers-file" target="_blank" rel="noreferrer noopener">this</a>**.
 
  [1]: ../wp-content/uploads/2021/04/image.png

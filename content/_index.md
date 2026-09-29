@@ -1,6 +1,6 @@
 +++
-title = "hello, world!"
-template = "homepage.html"
+title = "Hello, world."
+template = "home.html"
 +++
 
-well well well
+Notes on code, Korea, and whatever I'm still figuring out.

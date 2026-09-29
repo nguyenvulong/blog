@@ -47,7 +47,7 @@ sudo update-grub</pre>
 modify `/etc/default/grub`
 
 
-![image.png](https: //t3735202.p.clickup-attachments.com/t3735202/10aee96f-5dc1-474f-8e8a-d97f329925fd/image.png)
+![image.png](https://t3735202.p.clickup-attachments.com/t3735202/10aee96f-5dc1-474f-8e8a-d97f329925fd/image.png)
 
 
 KRSI is LSMs

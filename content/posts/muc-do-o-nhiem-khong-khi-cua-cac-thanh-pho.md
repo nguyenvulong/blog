@@ -175,8 +175,8 @@ Ngoài ra các bạn có thể tham khảo **1 số thời điểm khác trong n
 
 Xem thêm:
 
-<a href="http: //aqicn.org" target="_blank">aqicn.org</a>
+<a href="http://aqicn.org" target="_blank">aqicn.org</a>
 
-<a href="http: //en.wikipedia.org/wiki/Air_quality_index" target="_blank">en.wikipedia.org/wiki/Air_quality_index</a>
+<a href="http://en.wikipedia.org/wiki/Air_quality_index" target="_blank">en.wikipedia.org/wiki/Air_quality_index</a>
 
 &nbsp;

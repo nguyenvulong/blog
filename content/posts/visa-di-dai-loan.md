@@ -54,9 +54,9 @@ Một số địa điểm ở Cao Hùng:
   5. Shou Shan Zoo
   6. City Xiziwan
   7. The Tuntex & Chien-Tai Tower, T&C Tower, 85 Skytower
-  8. https: //www.google.com.tw/maps/place/804,+Kaohsiung+City,+Gushan+District,+%E8%A5%BF%E5%AD%90%E7%81%A3/@22.6283042,120.2556968,15z/data=!3m1!4b1!4m5!3m4!1s0x346e0408c6285e2b:0x3292efc2b042dec!8m2!3d22.628285!4d120.264473
+  8. https://www.google.com.tw/maps/place/804,+Kaohsiung+City,+Gushan+District,+%E8%A5%BF%E5%AD%90%E7%81%A3/@22.6283042,120.2556968,15z/data=!3m1!4b1!4m5!3m4!1s0x346e0408c6285e2b:0x3292efc2b042dec!8m2!3d22.628285!4d120.264473
 
-https: //www.facebook.com/groups/867394263291528/permalink/1273795469318070/
+https://www.facebook.com/groups/867394263291528/permalink/1273795469318070/
 
 &nbsp;
 

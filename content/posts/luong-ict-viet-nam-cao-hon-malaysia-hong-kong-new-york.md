@@ -24,12 +24,12 @@ tags:
 Hôm qua đọc 1 bài hơi nhức mắt của ICTNews với cái tựa **&#8220;Lương kỹ sư CNTT Đà Nẵng còn cao hơn cả New York, Hồng Kông&#8221;**. Bài báo này dựa theo thống kê của PIKOM &#8211; **Hiệp Hội Công Nghệ Truyền Thông Quốc Gia Malaysia**.
 
 **Đây là URL của bài báo từ ICTNews & Genk**  
-<a href="http: //ictnews.vn/cntt/luong-ky-su-cntt-da-nang-con-cao-hon-ca-new-york-hong-kong-118898.ict" target="_blank">http://ictnews.vn/cntt/luong-ky-su-cntt-da-nang-con-cao-hon-ca-new-york-hong-kong-118898.ict</a>
+<a href="http://ictnews.vn/cntt/luong-ky-su-cntt-da-nang-con-cao-hon-ca-new-york-hong-kong-118898.ict" target="_blank">http://ictnews.vn/cntt/luong-ky-su-cntt-da-nang-con-cao-hon-ca-new-york-hong-kong-118898.ict</a>
 
-<a href="http: //genk.vn/tin-ict/mo-xe-chuyen-ky-su-cntt-viet-nam-co-luong-cao-nhat-khu-vuc-20140812004224419.chn" target="_blank">http://genk.vn/tin-ict/mo-xe-chuyen-ky-su-cntt-viet-nam-co-luong-cao-nhat-khu-vuc-20140812004224419.chn</a>
+<a href="http://genk.vn/tin-ict/mo-xe-chuyen-ky-su-cntt-viet-nam-co-luong-cao-nhat-khu-vuc-20140812004224419.chn" target="_blank">http://genk.vn/tin-ict/mo-xe-chuyen-ky-su-cntt-viet-nam-co-luong-cao-nhat-khu-vuc-20140812004224419.chn</a>
 
 **Đây là URL trên trang PIKOM**  
-<a href="http: //www.pikom.org.my/demo/cms/General.asp?whichfile=Press+Releases&ProductID=23487&CatID=33" target="_blank">http://www.pikom.org.my/demo/cms/General.asp?whichfile=Press+Releases&ProductID=23487&CatID=33</a>
+<a href="http://www.pikom.org.my/demo/cms/General.asp?whichfile=Press+Releases&ProductID=23487&CatID=33" target="_blank">http://www.pikom.org.my/demo/cms/General.asp?whichfile=Press+Releases&ProductID=23487&CatID=33</a>
 
 Tất nhiên là con nít mới biết đọc cũng đủ thấy tào lao rồi, nhưng vì muốn làm rõ nên mình đọc trên trang chính thức của PIKOM đồng thời gửi mail trực tiếp cho PIKOM để hỏi, và rút ra 2 kết luận sau:
 

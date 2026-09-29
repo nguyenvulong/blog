@@ -17,7 +17,7 @@ tags:
   - koding overview
 
 ---
-<a href="https: //koding.com/R/nguyenvulong" target="_blank">https://koding.com</a> [just calm down and move on, it&#8217;s gonna save your time later, trust me]
+<a href="https://koding.com/R/nguyenvulong" target="_blank">https://koding.com</a> [just calm down and move on, it&#8217;s gonna save your time later, trust me]
 
 This one is new to me so I&#8217;m going to have a brief introduction here, hopefully it&#8217;s worth your time reading this :
 

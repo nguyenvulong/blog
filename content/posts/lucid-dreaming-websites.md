@@ -8,11 +8,11 @@ categories:
   - Lucid Dream
 
 ---
-http: //www.world-of-lucid-dreaming.com
+http://www.world-of-lucid-dreaming.com
 
-http: //www.lucidipedia.com
+http://www.lucidipedia.com
 
-http: //www.lucidity.com
+http://www.lucidity.com
 
 &nbsp;
 
@@ -20,6 +20,6 @@ http: //www.lucidity.com
 
 Good readings:
 
-[1] WBTB technique http: //www.lucidipedia.com/tutorials/wake-back-to-bed-wbtb-technique/
+[1] WBTB technique http://www.lucidipedia.com/tutorials/wake-back-to-bed-wbtb-technique/
 
-[2] Dream journal http: //www.lucidipedia.com/dream-journal/
+[2] Dream journal http://www.lucidipedia.com/dream-journal/

@@ -15,4 +15,4 @@ tags:
 ---
 There is a collection of some un/official packages & modules for Python. Most of them are included in x64 .
 
-<http: //www.lfd.uci.edu/~gohlke/pythonlibs/>
+<http://www.lfd.uci.edu/~gohlke/pythonlibs/>

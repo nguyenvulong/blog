@@ -55,10 +55,10 @@ Những nỗi sợ như vậy khiến con người đánh thức bản năng sin
 
 Bài viết được tham khảo, biên soạn từ các nguồn khác nhau nhưng chủ yếu là từ clip sau, các bạn nên theo dõi để nắm rõ hơn vì phần dịch không thể truyền tải được hết.  
   
-[1] http: //en.wikipedia.org/wiki/Uncanny_valley  
-[2] http: //www.gallup.com/poll/1891/snakes-top-list-americans-fears.aspx  
-[3] http: //cpnp.org/resource/reference/88955  
-[4] http: //www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
+[1] http://en.wikipedia.org/wiki/Uncanny_valley  
+[2] http://www.gallup.com/poll/1891/snakes-top-list-americans-fears.aspx  
+[3] http://cpnp.org/resource/reference/88955  
+[4] http://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA
 
  [1]: ../wp-content/uploads/2014/07/fear1.png
  [2]: ../wp-content/uploads/2014/07/fear3.bmp

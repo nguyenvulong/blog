@@ -12,14 +12,14 @@ tags:
 ---
 (Mình lấy điểm vào đầu tháng 6, được 840)
 
-Mình thi ở <a href="http: //www.iigvietnam.com/VN/Home/Contact.aspx" target="_blank">IIG</a>
+Mình thi ở <a href="http://www.iigvietnam.com/VN/Home/Contact.aspx" target="_blank">IIG</a>
 
-IIG nằm ở** tầng 8 **của tòa nhà <a href="http: //www.mbbank.com.vn/vi/mang-luoi/chi-nhanh/491-chi-nhanh-tan-thuan.html" target="_blank">MB-Bank (Military Bank &#8211; Ngân Hàng Quân Đội)</a> .
+IIG nằm ở** tầng 8 **của tòa nhà <a href="http://www.mbbank.com.vn/vi/mang-luoi/chi-nhanh/491-chi-nhanh-tan-thuan.html" target="_blank">MB-Bank (Military Bank &#8211; Ngân Hàng Quân Đội)</a> .
 
 **Bước 1 : ĐĂNG KÝ **  
 &#8211; Các bạn cần chuẩn bị 1 CMND photo + 3 tấm hình 3&#215;4 **CHUẨN QUỐC TẾ** (cái này mình cũng chả hiểu nhưng ngoài tiệm ảnh bình thường không chính xác là 3&#215;4 đâu, phải nhắc người ta in cho đúng kích thước)  
 
-![biggrin.png](http: //forum.uit.edu.vn/images/smilies/biggrin.png)
+![biggrin.png](http://forum.uit.edu.vn/images/smilies/biggrin.png)
 
 
 &#8211; Khi chạy xe vào bên cạnh Ngân Hàng có một con đường nhỏ, chạy vào ~ 25m rẽ phải là xuống hầm gửi xe. Rồi bắt thang máy lên tầng 8 .  

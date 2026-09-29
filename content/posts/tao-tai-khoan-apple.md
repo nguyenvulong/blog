@@ -20,7 +20,7 @@ tags:
 Mới chuyển qua sử dụng thiết bị của Apple, mọi thứ đều ổn ngoại trừ 1 điều khá khó chịu cho người dùng mới như mình, đó là vấn đề **phải nhập thông tin thẻ tín dụng (credit card) hay ghi nợ (debit card) để có thể sử dụng được AppStore.** Lý do như ở dưới đây:
 
 
-![HT2534-FMIP_payment_option_none---en.png](http: //km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2534/en_US/HT2534-FMIP_payment_option_none---en.png)
+![HT2534-FMIP_payment_option_none---en.png](http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2534/en_US/HT2534-FMIP_payment_option_none---en.png)
 
 
 &nbsp;

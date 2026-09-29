@@ -9,4 +9,4 @@ categories:
   - Security
 
 ---
-https: //www.youtube.com/user/ArtOfTheProblem/playlists
+https://www.youtube.com/user/ArtOfTheProblem/playlists

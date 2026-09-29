@@ -17,12 +17,12 @@ Dùng được cho cả nam lẫn nữ
 
 <p style="text-align: center;">
 
-![2781_890_1233.jpg](http: //weekly.pusan.ac.kr/news/photo/201309/2781_890_1233.jpg)
+![2781_890_1233.jpg](http://weekly.pusan.ac.kr/news/photo/201309/2781_890_1233.jpg)
 
 </p>
 
 <p style="text-align: center;">
-  http: //weekly.pusan.ac.kr
+  http://weekly.pusan.ac.kr
 </p>
 
 &nbsp;

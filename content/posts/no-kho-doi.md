@@ -42,10 +42,10 @@ Vậy nên gia đình nào tính &#8220;làm thêm 1 thằng cu hay con hĩm&#82
 
 <span style="color: #ff0000;"><strong>REFERENCES:</strong></span>
 
-**[1]** <a href="http: //www.economist.com/content/global_debt_clock" target="_blank">http://www.economist.com/content/global_debt_clock</a>  
-**[2]** <a href="http: //vneconomy.vn/thoi-su/tong-no-tap-doan-tong-cong-ty-nha-nuoc-vuot-15-trieu-ty-dong-2014112706211651.htm" target="_blank">http://vneconomy.vn/thoi-su/tong-no-tap-doan-tong-cong-ty-nha-nuoc-vuot-15-trieu-ty-dong-2014112706211651.htm</a>  
-**[3]** <a href="http: //www.tradingeconomics.com/vietnam/gdp" target="_blank">http://www.tradingeconomics.com/vietnam/gdp</a>  
-**[4]** <a href="http: //vneconomy.vn/doanh-nhan/chi-la-doanh-nghiep-nha-nuoc-khi-nha-nuoc-nam-100-von-20141126090848695.htm" target="_blank">http://vneconomy.vn/doanh-nhan/chi-la-doanh-nghiep-nha-nuoc-khi-nha-nuoc-nam-100-von-20141126090848695.htm</a>  
-**[5]** <a href="https: //www.facebook.com/skepticvietnam/photos/a.552016694887214.1073741835.422915214464030/730628307026051/?type=1" target="_blank">https://www.facebook.com/skepticvietnam/photos/a.552016694887214.1073741835.422915214464030/730628307026051/?type=1</a>
+**[1]** <a href="http://www.economist.com/content/global_debt_clock" target="_blank">http://www.economist.com/content/global_debt_clock</a>  
+**[2]** <a href="http://vneconomy.vn/thoi-su/tong-no-tap-doan-tong-cong-ty-nha-nuoc-vuot-15-trieu-ty-dong-2014112706211651.htm" target="_blank">http://vneconomy.vn/thoi-su/tong-no-tap-doan-tong-cong-ty-nha-nuoc-vuot-15-trieu-ty-dong-2014112706211651.htm</a>  
+**[3]** <a href="http://www.tradingeconomics.com/vietnam/gdp" target="_blank">http://www.tradingeconomics.com/vietnam/gdp</a>  
+**[4]** <a href="http://vneconomy.vn/doanh-nhan/chi-la-doanh-nghiep-nha-nuoc-khi-nha-nuoc-nam-100-von-20141126090848695.htm" target="_blank">http://vneconomy.vn/doanh-nhan/chi-la-doanh-nghiep-nha-nuoc-khi-nha-nuoc-nam-100-von-20141126090848695.htm</a>  
+**[5]** <a href="https://www.facebook.com/skepticvietnam/photos/a.552016694887214.1073741835.422915214464030/730628307026051/?type=1" target="_blank">https://www.facebook.com/skepticvietnam/photos/a.552016694887214.1073741835.422915214464030/730628307026051/?type=1</a>
 
  [1]: ../wp-content/uploads/2014/11/debt.png

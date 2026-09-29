@@ -20,7 +20,7 @@ tags:
 Bài viết lấy dữ liệu từ CIA, các trang khác sẽ cho kết quả không khác biệt là mấy.
 
 
-![logo.png](https: //www.cia.gov/library/publications/the-world-factbook/images/logo.png)
+![logo.png](https://www.cia.gov/library/publications/the-world-factbook/images/logo.png)
 
 
 _Thu nhập bình quân đầu người viết tắt là **GDPPC** (*)_
@@ -47,11 +47,11 @@ Hãy tỉnh giấc, khiêm nhường, và cố gắng.
 
 **Tham khảo: **
 
-<a href="https: //www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html" target="_blank">https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html</a>  
-<a href="http: //data.worldbank.org/indicator/NY.GDP.PCAP.CD" target="_blank">http://data.worldbank.org/indicator/NY.GDP.PCAP.CD</a>
+<a href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html" target="_blank">https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html</a>  
+<a href="http://data.worldbank.org/indicator/NY.GDP.PCAP.CD" target="_blank">http://data.worldbank.org/indicator/NY.GDP.PCAP.CD</a>
 
 **Chi phí sinh hoạt tại các nước:
 
-<a href="http: //www.numbeo.com/cost-of-living/rankings_by_country.jsp" target="_blank">http://www.numbeo.com/cost-of-living/rankings_by_country.jsp<br /> </a> <a href="http://www.expatistan.com/cost-of-living" target="_blank">http://www.expatistan.com/cost-of-living</a>
+<a href="http://www.numbeo.com/cost-of-living/rankings_by_country.jsp" target="_blank">http://www.numbeo.com/cost-of-living/rankings_by_country.jsp<br /> </a> <a href="http://www.expatistan.com/cost-of-living" target="_blank">http://www.expatistan.com/cost-of-living</a>
 
 &nbsp;

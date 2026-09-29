@@ -35,8 +35,8 @@ Mọi người có ghé đọc xin chú ý tới điều này ạ, về luật t
 ![chukyNhatLinh.png](/wp-content/uploads/2018/01/chukyNhatLinh.png)
 
 
-  1. Facebook của bố bé Nhật Linh, anh Lê Anh Hào <https: //www.facebook.com/leanhhaojp>  
-    Facebook của mẹ bé Nhật Linh, chị Nguyễn Thị Nguyên [https: //www.facebook.com/nguyenthinguyen.muadongveemlainhoanh  
+  1. Facebook của bố bé Nhật Linh, anh Lê Anh Hào <https://www.facebook.com/leanhhaojp>  
+    Facebook của mẹ bé Nhật Linh, chị Nguyễn Thị Nguyên [https://www.facebook.com/nguyenthinguyen.muadongveemlainhoanh  
 ][3] 
   2. **Mẫu chữ ký: **<http://partime.biz/w/wp-content/uploads/2017/06/tuhinh.pdf>  
     Nếu không tải được mẫu chữ ký ở link trên thì mọi người dùng tạm link dự phòng tại đây: <a style="font-weight: 300;" href="..//nhatlinh/tuhinh.pdf">..//nhatlinh/tuhinh.pdf</a>Bản dịch tham khảo (cái này chỉ để tham khảo, mọi người vui lòng ký vào bản tiếng Nhật của Mei Phuong): <https://drive.google.com/file/d/10zjUyxQnWBojh7IBeDT_yjH7WJvmWJdM/view>
@@ -53,9 +53,9 @@ Mọi người có ghé đọc xin chú ý tới điều này ạ, về luật t
   3. **Người Việt tại Nhật quyên góp chữ ký**: <https://www.facebook.com/sugoimedia/photos/a.711898615553325.1073741828.711858912223962/1593882160688295/?type=3&theater>
   4. **Bố của bé Linh phải đi làm nên sẽ không đến các ga đứng xin chữ ký được nữa, các bạn tại Nhật theo dõi facebook của mẹ cháu để cập nhật thông tin ạ : **[ https://www.facebook.com/nguyenthinguyen.muadongveemlainhoanh/posts/1959564980739991][4]
   5. **Bài viết tổng hợp về vụ án: **<span style="font-weight: 300;"> </span>[<span style="font-weight: 300;">http://afamily.vn/gia-dinh-be-nhat-linh-o-viet-nam-san-sang-tiep-nhan-chu-ki-cua-moi-nguoi-de-gui-sang-nhat-doi-lai-cong-bang-cho-chau-20180129234502588.chn</span>][5]
-  6. **Trường hợp tương tự** từng xảy ra tại Nhật rồi vì bên đó án mạng giết 1 người thì thường không tử hình, bà mẹ trong vụ phía dưới đã tập hợp được >300k chữ ký để tử hình 1 trong 2 kẻ phạm tội <https: //www.japantimes.co.jp/news/2009/03/19/news/net-strangers-to-hang-for-slaying/#.WnKjUaiWaUk>
-  7. **VTV** <https: //www.facebook.com/thoisuvtv/videos/1830593680307591/?hc_location=ufi>
-  8. **VTC14 **<https: //www.facebook.com/kenhvtc14/videos/1490589054403415/>
+  6. **Trường hợp tương tự** từng xảy ra tại Nhật rồi vì bên đó án mạng giết 1 người thì thường không tử hình, bà mẹ trong vụ phía dưới đã tập hợp được >300k chữ ký để tử hình 1 trong 2 kẻ phạm tội <https://www.japantimes.co.jp/news/2009/03/19/news/net-strangers-to-hang-for-slaying/#.WnKjUaiWaUk>
+  7. **VTV** <https://www.facebook.com/thoisuvtv/videos/1830593680307591/?hc_location=ufi>
+  8. **VTC14 **<https://www.facebook.com/kenhvtc14/videos/1490589054403415/>
 
 <span style="color: #008000;"><strong><span style="text-decoration: underline;">Xin lưu ý:</span> </strong></span>
 

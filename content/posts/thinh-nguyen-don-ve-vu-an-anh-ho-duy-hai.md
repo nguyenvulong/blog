@@ -24,7 +24,7 @@ tags:
 ---
 **UPDATE 3: **  Tin về anh này rất ít, thực sự là khốn nạn quá. Thay vì họ đưa ra bằng chứng để buộc tội anh, thì anh ta và luật sư phải chứng minh rằng bản thân vô tội.
 
-<a href="http: //www.baogiaothong.vn/vu-ho-duy-haikien-nghi-thu-hoi-quyet-dinh-bac-don-xin-an-xa-d104500.html" target="_blank">http://www.baogiaothong.vn/vu-ho-duy-haikien-nghi-thu-hoi-quyet-dinh-bac-don-xin-an-xa-d104500.html</a>
+<a href="http://www.baogiaothong.vn/vu-ho-duy-haikien-nghi-thu-hoi-quyet-dinh-bac-don-xin-an-xa-d104500.html" target="_blank">http://www.baogiaothong.vn/vu-ho-duy-haikien-nghi-thu-hoi-quyet-dinh-bac-don-xin-an-xa-d104500.html</a>
 
 &nbsp;
 
@@ -44,21 +44,21 @@ tags:
 
 Nội dung có thể tìm đọc ở đây:
 
-<a href="http: //laodong.com.vn/phap-luat/lat-lai-vu-an-giet-2-nu-nhan-vien-buu-dien-cau-voi-tuyen-an-tu-hinh-de-the-sao-159745.bld" target="_blank">http://laodong.com.vn/phap-luat/lat-lai-vu-an-giet-2-nu-nhan-vien-buu-dien-cau-voi-tuyen-an-tu-hinh-de-the-sao-159745.bld</a>
+<a href="http://laodong.com.vn/phap-luat/lat-lai-vu-an-giet-2-nu-nhan-vien-buu-dien-cau-voi-tuyen-an-tu-hinh-de-the-sao-159745.bld" target="_blank">http://laodong.com.vn/phap-luat/lat-lai-vu-an-giet-2-nu-nhan-vien-buu-dien-cau-voi-tuyen-an-tu-hinh-de-the-sao-159745.bld</a>
 
-<a href="https: //m.facebook.com/story.php?story_fbid=726311777423841&id=386595591395463" target="_blank">https://m.facebook.com/story.php?story_fbid=726311777423841&id=386595591395463</a>
+<a href="https://m.facebook.com/story.php?story_fbid=726311777423841&id=386595591395463" target="_blank">https://m.facebook.com/story.php?story_fbid=726311777423841&id=386595591395463</a>
 
 Việc tốt nhất mà mọi người có thể làm được lúc này có lẽ là **chia sẻ và ký vào đơn thỉnh nguyện** (petition), ở đây là đơn thỉnh nguyện viết cho Whitehouse (Nhà Trắng &#8211; Hoa Kỳ).
 
 &nbsp;
 
-<a href="http: //www.thanhnien.com.vn/pages/20141119/my-bo-nhiem-ong-ted-osius-lam-dai-su-tai-viet-nam.aspx" target="_blank">http://www.thanhnien.com.vn/pages/20141119/my-bo-nhiem-ong-ted-osius-lam-dai-su-tai-viet-nam.aspx</a>
+<a href="http://www.thanhnien.com.vn/pages/20141119/my-bo-nhiem-ong-ted-osius-lam-dai-su-tai-viet-nam.aspx" target="_blank">http://www.thanhnien.com.vn/pages/20141119/my-bo-nhiem-ong-ted-osius-lam-dai-su-tai-viet-nam.aspx</a>
 
 <span style="color: #ff0000;"><strong>Tới phần quan trọng nhất: cách thức ký vào thỉnh nguyện đơn</strong></span>
 
 **Bước 1: ** truy cập, và điền thông tin ở mục **Add Your Name, **sau đó nhấn<span style="color: #ff0000;"><strong> SIGN NOW</strong></span>
 
-<a href="https: //petitions.whitehouse.gov/petition/call-vietnam-government-overturn-wrongful-capital-murder-conviction-former-college-student-ho-duy/BNtyc7jZ" target="_blank">https://petitions.whitehouse.gov/petition/call-vietnam-government-overturn-wrongful-capital-murder-conviction-former-college-student-ho-duy/BNtyc7jZ</a>
+<a href="https://petitions.whitehouse.gov/petition/call-vietnam-government-overturn-wrongful-capital-murder-conviction-former-college-student-ho-duy/BNtyc7jZ" target="_blank">https://petitions.whitehouse.gov/petition/call-vietnam-government-overturn-wrongful-capital-murder-conviction-former-college-student-ho-duy/BNtyc7jZ</a>
 
 Như các bạn thấy, có 491 người ký rồi:
 

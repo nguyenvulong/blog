@@ -21,7 +21,7 @@ tags:
 ---
 Let&#8217;s not use easy_install anyway: <https://packaging.python.org/discussions/pip-vs-easy-install/>
 
-<https: //stackoverflow.com/questions/3220404/why-use-pip-over-easy-install>
+<https://stackoverflow.com/questions/3220404/why-use-pip-over-easy-install>
 
 Cai dat easy_install cho linux, unix :
 
@@ -29,7 +29,7 @@ I ran into a bit of trouble installing easy_install, after reading many useless 
 
 Type :
 
-wget https: //bitbucket.org/pypa/setuptools/downloads/ez\_setup.py && python ez\_setup.py
+wget https://bitbucket.org/pypa/setuptools/downloads/ez\_setup.py && python ez\_setup.py
 
 and you&#8217;re done .
 

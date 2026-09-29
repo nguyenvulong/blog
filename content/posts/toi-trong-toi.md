@@ -5,7 +5,7 @@ type: post
 date: 2013-05-19T03:25:34+00:00
 url: /toi-trong-toi/
 fbImage:
-  - http: //1.bp.blogspot.com/-5p5mW4xiH4o/Tmnd5Ir1JGI/AAAAAAAAAXQ/DGwUHqqsT-g/s1600/1224828608.jpeg
+  - http://1.bp.blogspot.com/-5p5mW4xiH4o/Tmnd5Ir1JGI/AAAAAAAAAXQ/DGwUHqqsT-g/s1600/1224828608.jpeg
 al2fb_facebook_link_id:
   - 100423586784297_174021682757820
 al2fb_facebook_link_time:

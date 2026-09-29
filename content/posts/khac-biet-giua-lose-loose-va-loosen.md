@@ -18,7 +18,7 @@ This is the full explanation, I highly recommend you to read it first:
 
 <blockquote class="wp-embedded-content" data-secret="UpfWulf2rF">
   <p>
-    <a href="https: //writingexplained.org/lose-versus-loose-difference">Lose vs. Loose vs. Loosen: What’s the Difference?</a>
+    <a href="https://writingexplained.org/lose-versus-loose-difference">Lose vs. Loose vs. Loosen: What’s the Difference?</a>
   </p>
 </blockquote>
 

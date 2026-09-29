@@ -113,7 +113,7 @@ tags:
   </div>
   
   <div class="_1mf _1mj" data-offset-key="c0v1i-0-0">
-    <span data-offset-key="c0v1i-0-1"><span data-text="true">&#8211; Nội chung buổi nói chuyện sẽ xoay quanh những quyển sách, các câu hỏi ngoài lề xin hãy đăng trên <a href="https: //www.facebook.com/groups/1631244160461360/">English Discussion Group</a></span></span>
+    <span data-offset-key="c0v1i-0-1"><span data-text="true">&#8211; Nội chung buổi nói chuyện sẽ xoay quanh những quyển sách, các câu hỏi ngoài lề xin hãy đăng trên <a href="https://www.facebook.com/groups/1631244160461360/">English Discussion Group</a></span></span>
   </div>
   
   <div class="_1mf _1mj" data-offset-key="c0v1i-0-0">

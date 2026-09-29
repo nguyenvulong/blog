@@ -9,11 +9,11 @@ categories:
 
 ---
 fix mariadb doesnt change root password  (unix_socket plugin)  
-https: //mariadb.com/kb/en/authentication-plugin-unix-socket/
+https://mariadb.com/kb/en/authentication-plugin-unix-socket/
 
 **fix broken internal packages**
 
-https: //stackoverflow.com/questions/50157653/python3-pip-broken-since-system-update
+https://stackoverflow.com/questions/50157653/python3-pip-broken-since-system-update
 
 Ubuntu: **Update all expired keys from Ubuntu key server in one command:**
 
@@ -30,75 +30,75 @@ Ubuntu: **Update all expired keys from Ubuntu key server in one command:**
 CS: pandas, numpy, scikit-learn, scipy, matplotlib, pytable (h5py: file format)
 
 **zipfile  
-** Structure https: //users.cs.jmu.edu/buchhofp/forensics/formats/pkzip.html  
-Code https: //pymotw.com/2/zipfile/  
-Android modification https: //android.googlesource.com/platform/libcore/+/25681be69e19a834b00cfbf54cd99ac13f12b9ff/luni/src/main/java/java/util/zip
+** Structure https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip.html  
+Code https://pymotw.com/2/zipfile/  
+Android modification https://android.googlesource.com/platform/libcore/+/25681be69e19a834b00cfbf54cd99ac13f12b9ff/luni/src/main/java/java/util/zip
 
 **sql syntax validator online**  
-https: //www.eversql.com/sql-syntax-check-validator/
+https://www.eversql.com/sql-syntax-check-validator/
 
 **table to latex**  
-https: //www.tablesgenerator.com/latex_tables
+https://www.tablesgenerator.com/latex_tables
 
 **Drawing & export to different formats: **  
-https: //inkscape.org/en/
+https://inkscape.org/en/
 
 **vim**  
-https: //danielmiessler.com/study/vim/
+https://danielmiessler.com/study/vim/
 
 Linux course  
-https: //labex.io/lab/2
+https://labex.io/lab/2
 
 **Algorithms**  
-https: //www.quora.com/What-are-the-top-10-algorithms-every-software-engineer-should-know-by-heart
+https://www.quora.com/What-are-the-top-10-algorithms-every-software-engineer-should-know-by-heart
 
 **&#8212;- Nature of Code &#8211; Math &#8211; Dev &#8212; cool guy**  
-https: //www.youtube.com/user/shiffman/playlists
+https://www.youtube.com/user/shiffman/playlists
 
 **&#8212;&#8212;&#8211;Machine Learning&#8212;&#8212;&#8212;&#8211;**  
-http: //dataschool.io  
-https: //lazyprogrammer.me/deep-learning-courses/  
-http: //adventuresinmachinelearning.com/neural-networks-tutorial/  
+http://dataschool.io  
+https://lazyprogrammer.me/deep-learning-courses/  
+http://adventuresinmachinelearning.com/neural-networks-tutorial/  
 
 
-https: //developers.google.com/machine-learning/crash-course/  
-https: //tiepvupsu.github.io/2016/12/26/introduce/
+https://developers.google.com/machine-learning/crash-course/  
+https://tiepvupsu.github.io/2016/12/26/introduce/
 
 Some coures on  DL/RL:  
-https: //www.udemy.com/artificial-intelligence-reinforcement-learning-in-python/  
-https: //www.udemy.com/deep-reinforcement-learning-in-python/  
-https: //www.udemy.com/ai-for-business/
+https://www.udemy.com/artificial-intelligence-reinforcement-learning-in-python/  
+https://www.udemy.com/deep-reinforcement-learning-in-python/  
+https://www.udemy.com/ai-for-business/
 
 **&#8212;&#8212;&#8212;&#8212;&#8211;Web development&#8212;&#8212;&#8212;&#8212;&#8212;**  
-https: //ruslanspivak.com/lsbaws-part1/
+https://ruslanspivak.com/lsbaws-part1/
 
 **&#8212; Security &#8212;**
 
-http: //www.malwaretech.com/ Hooking  
-https: //mobilesecuritywiki.com/
+http://www.malwaretech.com/ Hooking  
+https://mobilesecuritywiki.com/
 
-http: //resources.infosecinstitute.com/website-hacking-101/
+http://resources.infosecinstitute.com/website-hacking-101/
 
-https: //www.vulnhub.com/resources/
+https://www.vulnhub.com/resources/
 
-https: //www.hackthis.co.uk/
+https://www.hackthis.co.uk/
 
-https: //hackaserver.com
+https://hackaserver.com
 
-https: //hack.me/
+https://hack.me/
 
-http: //www.deependresearch.org/2012/08/yara-signature-exchange-google-group.html
+http://www.deependresearch.org/2012/08/yara-signature-exchange-google-group.html
 
 **&#8212;&#8212;&#8212;&#8212;-Some good projects&#8212;&#8212;&#8212;&#8212;&#8212;**
 
-http: //www.cuckoosandbox.org  
-https: //github.com/volatilityfoundation/volatility  
-https: //github.com/wimremes/cve-search  
-https: //github.com/doomedraven/VirusTotalApi  
-https: //github.com/P0cL4bs/WiFi-Pumpkin
+http://www.cuckoosandbox.org  
+https://github.com/volatilityfoundation/volatility  
+https://github.com/wimremes/cve-search  
+https://github.com/doomedraven/VirusTotalApi  
+https://github.com/P0cL4bs/WiFi-Pumpkin
 
 &#8212;&#8211;Photo&#8212;-  
-http: //photofunia.com/effects/caricature#64s2z2w213u2q2d4c4z20364v22423x203
+http://photofunia.com/effects/caricature#64s2z2w213u2q2d4c4z20364v22423x203
 
 [updating &#8230;]
 

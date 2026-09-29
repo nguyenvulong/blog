@@ -43,7 +43,7 @@ Chỉ cần hệ số giảm đi 0,05 thôi thì như các bạn đã thấy: sa
 Đó là khi hết dịch
 
 
-![89932974_10212787513481850_4140751070693425152_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=38FtnFR69MUAX-4n-LR&_nc_ht=scontent.ficn1-1.fna&oh=809964e1de5b361757b2dba994b7fc35&oe=5E92CE45](https: //scontent.ficn1-1.fna.fbcdn.net/v/t1.0-9/89932974_10212787513481850_4140751070693425152_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=38FtnFR69MUAX-4n-LR&_nc_ht=scontent.ficn1-1.fna&oh=809964e1de5b361757b2dba994b7fc35&oe=5E92CE45)
+![89932974_10212787513481850_4140751070693425152_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=38FtnFR69MUAX-4n-LR&_nc_ht=scontent.ficn1-1.fna&oh=809964e1de5b361757b2dba994b7fc35&oe=5E92CE45](https://scontent.ficn1-1.fna.fbcdn.net/v/t1.0-9/89932974_10212787513481850_4140751070693425152_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=38FtnFR69MUAX-4n-LR&_nc_ht=scontent.ficn1-1.fna&oh=809964e1de5b361757b2dba994b7fc35&oe=5E92CE45)
 
 
 Nhà báo họ không đọc toán nhiều. Họ cũng không phải chuyên gia, bài viết của họ là để hướng tới toàn dân &#8211; bằng những lời dễ hiểu. Ngoài những người làm báo chân chính, thì luôn có bầy kền kền trục lợi câu like (à mà RIP Vũ Khắc Tiệp. Không vì Ngọc Trinh thì tôi cũng chả biết ông là ai).

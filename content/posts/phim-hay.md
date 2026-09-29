@@ -71,7 +71,7 @@ time loop
 
 28-Don&#8217;t Fuck with Cats: phim từ thực tế, hay
 
-29- Doctor Sleep (The shining sequel) https: //www.imdb.com/title/tt5606664/
+29- Doctor Sleep (The shining sequel) https://www.imdb.com/title/tt5606664/
 
 30-VideoDrome (1983): phim kinh dị nhưng triết lý  vẫn còn tác động tới thế giới hiện tại.
 
@@ -83,39 +83,39 @@ time loop
 
 34- Equiblirium: phim Christian Bale đóng
 
-35- <a href="https: //www.imdb.com/title/tt0118884/?ref_=tt_sims_tti" target="_blank" rel="noopener">Contact (1997)</a>   
+35- <a href="https://www.imdb.com/title/tt0118884/?ref_=tt_sims_tti" target="_blank" rel="noopener">Contact (1997)</a>   
 Phim về việc tìm kiếm sự sống ngoài trái đất và đấu tranh nội tâm giữa 2 trường phái duy tâm (tôn giáo) và duy vật (khoa học). Một trong những phim hay nhất về vũ trụ mà mình từng xem. Không hiểu sao IMDB điểm lại thấp như vậy.
 
 <p class="p1">
-  <span class="s1">36.<a href="https: //www.imdb.com/title/tt0272152/?ref_=tt_sims_tt"><b>K-PAX</b></a></span><span class="s2"> (2001)</span>
+  <span class="s1">36.<a href="https://www.imdb.com/title/tt0272152/?ref_=tt_sims_tt"><b>K-PAX</b></a></span><span class="s2"> (2001)</span>
 </p>
 
 <p class="p1">
-  <span class="s1"><a href="https: //www.imdb.com/title/tt0119177/?ref_=tt_sims_tt"><b>37. Gattaca</b></a></span><span class="s2"> (1997): vũ trụ, đam mê, hi sinh</span>
+  <span class="s1"><a href="https://www.imdb.com/title/tt0119177/?ref_=tt_sims_tt"><b>37. Gattaca</b></a></span><span class="s2"> (1997): vũ trụ, đam mê, hi sinh</span>
 </p>
 
 <p class="p3">
-  <span class="s2"><a href="https: //www.imdb.com/title/tt0366627/?ref_=tt_sims_tt"><b>38. The Jacket</b></a></span><span class="s3"> (2005): tình yêu, hi sinh, chiến tranh, phòng thí nghiệm</span>
+  <span class="s2"><a href="https://www.imdb.com/title/tt0366627/?ref_=tt_sims_tt"><b>38. The Jacket</b></a></span><span class="s3"> (2005): tình yêu, hi sinh, chiến tranh, phòng thí nghiệm</span>
 </p>
 
 <p class="p3">
-  <span class="s2"><a href="https: //www.imdb.com/title/tt0186151/?ref_=tt_sims_tt"><b>39. Frequency</b></a></span><span class="s3"> (2000): gia đình, vượt thời gian</span>
+  <span class="s2"><a href="https://www.imdb.com/title/tt0186151/?ref_=tt_sims_tt"><b>39. Frequency</b></a></span><span class="s3"> (2000): gia đình, vượt thời gian</span>
 </p>
 
 time loop
 
 <p class="p3">
-  <span class="s2"><a href="https: //www.imdb.com/title/tt0756683/?ref_=tt_sims_tt"><b>40. The Man from Earth</b></a></span><span class="s3"> (2007): lịch sử, tôn giáo, triết lý</span>
+  <span class="s2"><a href="https://www.imdb.com/title/tt0756683/?ref_=tt_sims_tt"><b>40. The Man from Earth</b></a></span><span class="s3"> (2007): lịch sử, tôn giáo, triết lý</span>
 </p>
 
 <p class="p3">
-  <b>41. </b><span class="s2"><a href="https: //www.imdb.com/title/tt0480669/?ref_=tt_sims_tt"><b>Timecrimes</b></a></span><span class="s3"> (2007)</span>
+  <b>41. </b><span class="s2"><a href="https://www.imdb.com/title/tt0480669/?ref_=tt_sims_tt"><b>Timecrimes</b></a></span><span class="s3"> (2007)</span>
 </p>
 
 timeloop
 
 <p class="p4">
-  <span class="s2">42. <a href="https: //www.imdb.com/title/tt1475582/" target="_blank" rel="noopener">Sherlock</a>, <a href="https://www.imdb.com/title/tt0988045/?ref_=nv_sr_srsg_2">Sherlock Holmes:</a> trinh thám, phim Sherlock nào cũng hay hết. Đây là 2 phim gần đây, còn các bản classic các bạn có thể tìm thêm.</span>
+  <span class="s2">42. <a href="https://www.imdb.com/title/tt1475582/" target="_blank" rel="noopener">Sherlock</a>, <a href="https://www.imdb.com/title/tt0988045/?ref_=nv_sr_srsg_2">Sherlock Holmes:</a> trinh thám, phim Sherlock nào cũng hay hết. Đây là 2 phim gần đây, còn các bản classic các bạn có thể tìm thêm.</span>
 </p>
 
 <p class="p4">
@@ -142,10 +142,10 @@ phim về ông bố tìm đứa con gái bị mất tích. Kết thúc khá bấ
 
 52. 4 phim Mad Max 
 
-  * <a href="http: //www.imdb.com/title/tt0079501/" rel="noreferrer">Mad Max (1979)</a>
-  * <a href="http: //www.imdb.com/title/tt0082694/" rel="noreferrer">Mad Max 2: The Road Warrior (1981)</a>
-  * <a href="http: //www.imdb.com/title/tt0089530/" rel="noreferrer">Mad Max Beyond Thunderdome (1985)</a>
-  * <a href="http: //www.imdb.com/title/tt1392190/" rel="noreferrer">Mad Max: Fury Road (2015)</a>
+  * <a href="http://www.imdb.com/title/tt0079501/" rel="noreferrer">Mad Max (1979)</a>
+  * <a href="http://www.imdb.com/title/tt0082694/" rel="noreferrer">Mad Max 2: The Road Warrior (1981)</a>
+  * <a href="http://www.imdb.com/title/tt0089530/" rel="noreferrer">Mad Max Beyond Thunderdome (1985)</a>
+  * <a href="http://www.imdb.com/title/tt1392190/" rel="noreferrer">Mad Max: Fury Road (2015)</a>
 
 53. 3 tấm bảng ..theo gợi ý của 1 bình luận:  <a href="https://www.imdb.com/title/tt5027774/" target="_blank" rel="noopener">Three Billboards Outside Ebbing, Missouri (2017) </a>
 
@@ -169,11 +169,11 @@ phim như ngáo, đừng xem; nếu xem timeloop hay du hành thời gian thì c
 
 61. [Dead man walking (1995)][34]
 
-62. don&#8217;t breathe https: //www.imdb.com/title/tt4160708/
+62. don&#8217;t breathe https://www.imdb.com/title/tt4160708/
 
-63. cast away https: //www.imdb.com/title/tt0162222/?ref\_=tt\_mv_close
+63. cast away https://www.imdb.com/title/tt0162222/?ref\_=tt\_mv_close
 
-64. apollo 13 https: //www.imdb.com/title/tt0112384/?ref\_=ttls\_li_tt
+64. apollo 13 https://www.imdb.com/title/tt0112384/?ref\_=ttls\_li_tt
 
 65. what we do in the shadow
 
@@ -193,7 +193,7 @@ phim như ngáo, đừng xem; nếu xem timeloop hay du hành thời gian thì c
 
 &#8230;. cập nhật sau, nhiều quá lười viết ~ ~&#8230;&#8230;&#8230;
 
-http: //www.rollingstone.com/movies/lists/50-greatest-horror-movies-of-the-21st-century-w441469
+http://www.rollingstone.com/movies/lists/50-greatest-horror-movies-of-the-21st-century-w441469
 
 **AnimeList: **
 

@@ -24,15 +24,15 @@ Mình thì cũng chưa gặm hết chừng này nhưng mỗi trang đều đã t
 ![i_love_english-300x300.jpg](/wp-content/uploads/2012/10/i_love_english-300x300.jpg)
 
 
-1. <http: //www.bbc.co.uk/worldservice/learningenglish/>
+1. <http://www.bbc.co.uk/worldservice/learningenglish/>
 
 Đây là bản tiếng Việt, cũng rất hay với chương trình mỗi ngày 1 từ vựng : <a href="http://www.bbc.co.uk/vietnamese/english/" target="_blank" rel="noopener">http://www.bbc.co.uk/vietnamese/english/</a>
 
-Trang BBC chắc nhiều bạn biết rồi, và họ cũng có rất nhiều bài giảng tiếng Anh trong này cùng với các ngôn ngữ khác nữa (<http: //www.bbc.co.uk/languages/> 40 ngôn ngữ cả thảy)
+Trang BBC chắc nhiều bạn biết rồi, và họ cũng có rất nhiều bài giảng tiếng Anh trong này cùng với các ngôn ngữ khác nữa (<http://www.bbc.co.uk/languages/> 40 ngôn ngữ cả thảy)
 
 Bài được chia thành các chủ đề gần với cuộc sống, cũng như các điểm ngữ pháp quan trọng, hay các clip mà trong đó cho phép bạn đóng vai nhân vật để tập nói .
 
-2. <http: //learningenglish.voanews.com/>
+2. <http://learningenglish.voanews.com/>
 
 và đây là bản tiếng Việt : <a href="http://www.voatiengviet.com/section/hoc-tieng-anh/2693.html" target="_blank" rel="noopener">http://www.voatiengviet.com/section/hoc-tieng-anh/2693.html</a>
 
@@ -40,7 +40,7 @@ Trang này của đài VOA Mỹ, họ đăng tin hàng ngày, và đầu tư r�
 
 Nếu các bạn là người dễ ngủ như mình thì có thể thử cái này : <http://www.youtube.com/user/VOALearningEnglish>
 
-3. <http: //eslpod.com/>
+3. <http://eslpod.com/>
 
 Một trong những trang nghe PodCast rất tuyệt vời. Podcast là chương trình dạng radio, ở đây là Jeff McQuillan &#8211; một ông Tiến Sĩ ngôn ngữ. Mình rất nể ông này bởi cách diễn tả khái niệm của các từ vựng thành những từ dễ hiểu. Podcast cực kỳ nhiều nhưng không có transcript trừ khi bạn mua.
 
@@ -48,13 +48,13 @@ Có nhiều loại như English Cafe là những vấn đề đang diễn ra, ha
 
 Nhìn chung cũng dễ nghe lắm. Nếu các bạn thấy khó khăn gì thì cứ liên lạc với mình, giả sử không nghe được ở phút thứ mấy, đoạn nào, bài nào. Mình sẽ nghe thử và trả lời ^_^
 
-4. <http: //businessenglishpod.com/>
+4. <http://businessenglishpod.com/>
 
 Cũng là 1 trang về Podcast, trang này được nhiều người làm nên cũng rất đồ sộ và đầu tư hơn trang kia. Giọng đọc nhanh và bài nghe cũng khó hơn. Tập trung vào những vấn đề cụ thể, đặc biệt là về Business.
 
 Cũng không có transcript miễn phí nhé. Các bạn ráng nghe, cái này họ nói khá nhanh, nhưng không quá khó đâu.
 
-5. <http: //www.youtube.com/user/JenniferESL/videos?sort=dd&flow=list&page=1&view=1>
+5. <http://www.youtube.com/user/JenniferESL/videos?sort=dd&flow=list&page=1&view=1>
 
 Đây là Channel của một cô tên Jennifer, rất dễ thương và cực kỳ nhiệt tình. Các bài giảng của cô này rất dễ nghe và bạn sẽ thấy ngữ pháp không quá khô khan đâu.
 
