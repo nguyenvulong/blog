@@ -1,7 +1,6 @@
 ---
 title: '[EFLNET] – Từ điển hình ảnh – Clothing'
-author: admin
-type: post
+description: Từ vựng tiếng Anh về quần áo, giày dép qua hình ảnh, kèm lưu ý khác biệt Anh - Mỹ (pants, shirt, jacket).
 date: 2012-11-11T08:53:33+00:00
 url: /tu-dien-hinh-anh-quan-ao-giay-dep/
 categories:
@@ -16,48 +15,23 @@ tags:
   - tu dien hinh anh
 
 ---
+![Quần áo, giày dép, phần 1](/wp-content/uploads/2012/11/clothing1.jpg)
 
-![clothing1.jpg](/wp-content/uploads/2012/11/clothing1.jpg)
+- **Blouse**: Việt Nam hồi xưa có phim *Blouse trắng* (NSƯT Tạ Minh Tâm đóng). Blouse còn có nghĩa là áo cánh, áo mỏng.
+- **Hat**: mũ có vành; mũ lưỡi trai là *cap*.
+- **Jacket**: áo khoác, dùng tương tự *coat*. Ngày xưa jacket là áo ngoài ngắn hơn coat một chút, giờ ranh giới đã mờ dần.
+- **Pants**: chú ý! Người Anh thường dùng *pants* với nghĩa quần lót, còn ở Mỹ đó là quần dài. Ở Anh, Úc, quần dài là *trousers* hay *slacks* (luôn ở số nhiều vì quần có hai ống).
 
+![Quần áo, giày dép, phần 2](/wp-content/uploads/2012/11/clothing2.jpg)
 
-Việt Nam hồi xưa có phim Blouse Trắng (NSƯT Tạ Minh Tâm đóng) . Blouse ở đây còn có nghĩa là áo cánh, áo mỏng nữa.
+- **Sandals**: xăng-đan, dép quai hậu.
+- **Shirt**: áo sơ-mi.
+- **Shorts**: quần ngắn, quần đùi (chú ý số nhiều).
+- **Skirt**: váy.
 
-Hat : Mũ vành, mũ lưỡi trai là cap
+![Quần áo, giày dép, phần 3](/wp-content/uploads/2012/11/clothing3.jpg)
 
-Jacket là áo khoác, dùng tương tự như coat. Ngày xưa thì jacket ám chỉ loại áo ngoài, ngắn hơn coat 1 xíu. Giờ thì ranh giới ngôn ngữ lu mờ dần .
-
-Pants : Từ này các bạn chú ý : Pants người Anh họ thường dùng mang nghĩa quần lót ; còn ở Mỹ thì đó là quần dài. Ở Anh, Úc : quần dài là trousers hay slacks (luôn ở số nhiều vì quần 2 ống )
-
-&nbsp;
-
-
-![clothing2.jpg](/wp-content/uploads/2012/11/clothing2.jpg)
-
-
-Sandals Việt Nam mình gọi là xăng-đan, dép xỏ ngón .
-
-Shirt là áo váy
-
-Shorts là quần ngắn như quần đùi vậy, chú ý số nhiều nhé bạn .
-
-Skirt là váy .
-
-
-![clothing3.jpg](/wp-content/uploads/2012/11/clothing3.jpg)
-
-
-Sneakers là giày thể thao (athletic shoes)
-
-Socks là vớ, dớ, tất, bít tất (cái này không phải món bò bít tất nhá)
-
-Sweater : áo len
-
-T-shirt : là áo thun chữ T, Shirt là áo sơ-mi . Nước mình ngày xưa một thời Pháp thuộc, nên ảnh hưởng nhiều **chemise **là từ tiếng Pháp, nên Việt Nam mới có chữ sơ-mi .
-
-&nbsp;
-
-&nbsp;
-
- [1]: ../wp-content/uploads/2012/11/clothing1.jpg
- [2]: ../wp-content/uploads/2012/11/clothing2.jpg
- [3]: ../wp-content/uploads/2012/11/clothing3.jpg
+- **Sneakers**: giày thể thao (athletic shoes)
+- **Socks**: vớ, tất
+- **Sweater**: áo len
+- **T-shirt**: áo thun chữ T. *Shirt* là áo sơ-mi: thời Pháp thuộc ảnh hưởng nhiều nên từ tiếng Pháp *chemise* thành "sơ-mi" trong tiếng Việt.

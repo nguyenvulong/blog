@@ -1,6 +1,6 @@
 ---
 title: The imperative
-description: Câu cầu khiến, sai khiến, mệnh lệnh trong tiếng Anh: dạng câu, cách dùng, câu hỏi đuôi và "let's".
+description: Câu cầu khiến, sai khiến, mệnh lệnh trong tiếng Anh, gồm dạng câu, cách dùng, câu hỏi đuôi và "let's".
 date: 2012-10-17T16:20:00+00:00
 url: /the-imperative/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: The empty subject there
-description: Cách dùng câu bắt đầu bằng "there" (không có chủ ngữ thực): there + be, there + to be, participle và các động từ văn chương.
+description: Cách dùng câu bắt đầu bằng "there" (không có chủ ngữ thực), gồm there + be, there + to be, participle và các động từ văn chương.
 date: 2012-11-04T14:13:49+00:00
 url: /the-empty-subject-there-clause-khong-chu-ngu-bat-dau-there/
 categories:

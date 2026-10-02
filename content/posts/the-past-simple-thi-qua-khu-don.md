@@ -1,6 +1,6 @@
 ---
 title: The past simple
-description: Thì quá khứ đơn trong tiếng Anh: dạng động từ, phủ định, nghi vấn, cách dùng và các trạng từ thời gian.
+description: Thì quá khứ đơn trong tiếng Anh, gồm dạng động từ, phủ định, nghi vấn, cách dùng và các trạng từ thời gian.
 date: 2012-11-14T17:22:05+00:00
 url: /the-past-simple-thi-qua-khu-don/
 categories:

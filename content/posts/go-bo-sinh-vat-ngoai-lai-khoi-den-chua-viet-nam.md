@@ -1,7 +1,6 @@
 ---
 title: Gỡ bỏ sinh vật ngoại lai khỏi Đền, Chùa Việt Nam
-author: admin
-type: post
+description: Góc nhìn cá nhân về đề xuất gỡ bỏ sư tử đá và các biểu tượng ngoại lai khỏi đền chùa Việt Nam.
 date: 2014-08-21T13:54:38+00:00
 url: /go-bo-sinh-vat-ngoai-lai-khoi-den-chua-viet-nam/
 categories:
@@ -21,21 +20,20 @@ tags:
   - trung quoc
 
 ---
-&#8220;GS Ngô Đức Thịnh cho hay, sư tử đá dùng để canh lăng mộ ở Trung Quốc nên không phù hợp ở đền chùa. Nghê, chó đá là con vật thường xuất hiện ở các di tích cổ của người Việt.&#8221;
+Bài báo viết: "GS Ngô Đức Thịnh cho hay, sư tử đá dùng để canh lăng mộ ở Trung Quốc nên không phù hợp ở đền chùa. Nghê, chó đá là con vật thường xuất hiện ở các di tích cổ của người Việt."
 
-Vậy suy ra: Phật Giáo cũng **không phải xuất xứ từ Việt Nam**, thế nên tượng Phật cũng không phù hợp ở &#8230; Đền, Chùa à?  
-Với lại Chùa có phải &#8230; từ Việt Nam mà có đâu.
+Vậy suy ra: Phật giáo cũng **không có xuất xứ từ Việt Nam**, thế nên tượng Phật cũng không phù hợp ở đền chùa à? Mà chùa có phải từ Việt Nam mà ra đâu.
 
-Người Việt bây giờ hầu hết không biết con Nghê (mình Lân thân Chó) là con gì, nhiều người còn hiểu nhầm nó liên quan tới con Trâu, trong khi Sư Tử quá đỗi quen thuộc.
+Người Việt bây giờ hầu hết không biết con nghê (mình lân thân chó) là con gì, nhiều người còn nhầm nó với con trâu, trong khi sư tử thì quá quen thuộc.
 
-1 điều nữa, ở các Chùa ngoài tiếng Phạn ra còn có tiếng Trung (thậm chí bây giờ chưa hoàn toàn chứng minh Phật Giáo du nhập theo đường biển hay theo phương Bắc). Muốn bài Trung như vậy thì không khác gì tự chặt tay chỉ vì mấy thứ sĩ diện hão và tự tôn dỏm khi mà lịch sử bây giờ trẻ con nó còn biết thứ tự Ung Chính, Khang Hy, Càn Long hơn là các đời Vua Việt Nam.
+Một điều nữa: ở các chùa, ngoài tiếng Phạn còn có tiếng Trung (thậm chí hiện nay vẫn chưa chứng minh hoàn toàn Phật giáo du nhập theo đường biển hay đường phương Bắc). Muốn bài Trung như vậy chẳng khác nào tự chặt tay chỉ vì sĩ diện hão và tự tôn dỏm, khi mà trẻ con bây giờ còn biết thứ tự Ung Chính, Khang Hy, Càn Long hơn là các đời vua Việt Nam.
 
-Việc loại bỏ di tích ngoại lai còn gây ra **tốn kém của cải vật chất**  không hề nhỏ, vì số lượng Đền Chùa quá lớn.
+Việc loại bỏ di tích ngoại lai còn gây **tốn kém của cải vật chất** không nhỏ, vì số lượng đền chùa quá lớn.
 
-Tết Trung Thu, Đoan Ngọ &#8230; **vốn cũng không phải xuất xứ Việt Nam**, nhưng vẫn đang là hoạt động thường niên.
+Tết Trung Thu, Đoan Ngọ... **vốn cũng không có xuất xứ Việt Nam**, nhưng vẫn là hoạt động thường niên.
 
-Mình đưa ra vài dẫn chứng như vậy chỉ để nhấn mạnh 1 ý duy nhất là: <span style="color: #ff0000;"><strong>nên thực tế</strong></span> khi mà đã chậm hơn đất nước người ta cả 5-7 thập kỷ.
+Mình đưa vài dẫn chứng chỉ để nhấn mạnh một ý duy nhất: **nên thực tế**, khi mà chúng ta đã chậm hơn nước người ta cả 5-7 thập kỷ.
 
-Lịch sử Dân Tộc thế nào,  bộ phận chỉ ngồi đọc báo, nghe các &#8220;Sử Gia&#8221; phán xét và gật gù ủng hộ, đó gọi là <span style="color: #ff0000;"><strong>Quốc nhục,<span style="color: #808080;"> </span></strong><span style="color: #333300;">nhục ở đây không chỉ là vì không chịu tìm hiểu Lịch Sử, mà còn là thiếu đi cái nhìn của cá nhân về 1 vấn đề &#8211; 1 trong những yếu tố tiên quyết để tư duy độc lập và chủ động trước thông tin.</span></span>
+Lịch sử dân tộc thế nào, bộ phận chỉ ngồi đọc báo, nghe các "sử gia" phán xét rồi gật gù ủng hộ, đó gọi là **quốc nhục**. Nhục ở đây không chỉ vì không chịu tìm hiểu lịch sử, mà còn vì thiếu cái nhìn cá nhân về một vấn đề, một trong những yếu tố tiên quyết để tư duy độc lập và chủ động trước thông tin.
 
-**Vài dòng nhận xét của cá nhân** với các bài viết liên quan theo chủ đề : <a href="http://vnexpress.net/tin-tuc/thoi-su/su-tu-da-duoc-nguoi-trung-quoc-dung-canh-lang-mo-3034016.html" target="_blank">http://vnexpress.net/tin-tuc/thoi-su/su-tu-da-duoc-nguoi-trung-quoc-dung-canh-lang-mo-3034016.html</a>
+Đây là vài dòng nhận xét cá nhân của mình về các bài viết liên quan, ví dụ: [Sư tử đá được người Trung Quốc dùng canh lăng mộ (VnExpress)](http://vnexpress.net/tin-tuc/thoi-su/su-tu-da-duoc-nguoi-trung-quoc-dung-canh-lang-mo-3034016.html) (liên kết gốc năm 2014, có thể đã đổi).

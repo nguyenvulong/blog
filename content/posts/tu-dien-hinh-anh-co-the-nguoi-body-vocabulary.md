@@ -1,7 +1,6 @@
 ---
 title: '[ESOLHELP] – Từ điển hình ảnh – Từ vựng về cơ thể người'
-author: admin
-type: post
+description: Từ vựng tiếng Anh về các bộ phận cơ thể người qua hình ảnh, kèm giải thích những từ dễ nhầm như iris và pupil.
 date: 2012-11-25T13:57:17+00:00
 url: /tu-dien-hinh-anh-co-the-nguoi-body-vocabulary/
 categories:
@@ -15,48 +14,26 @@ tags:
   - tu vung co the nguoi
 
 ---
-Có thể nói đây là những từ vựng cực kỳ quan trọng vì nó gắn liền với cơ thể chúng ta, đi kèm hình ảnh nên nhiều từ các bạn đã rõ nghĩa, mình sẽ giải thích một số từ hơi lạ thôi nhé :
+Đây là những từ vựng cực kỳ quan trọng vì gắn liền với cơ thể chúng ta. Có hình đi kèm nên nhiều từ các bạn đã rõ nghĩa, mình chỉ giải thích một số từ hơi lạ. Click vào hình để phóng to cho dễ đọc.
 
-Các bạn click vào hình để phóng to đọc cho dễ :
+![Từ vựng về cơ thể người, phần 1](/wp-content/uploads/2012/11/body-vocabulary1.jpg)
 
+- **arm**: cánh tay, từ vai đến cổ tay (cổ tay = *wrist*)
+- **calf**: bắp chân
+- **gums**: lợi (nướu)
+- **heel**: gót chân (các bạn đọc truyện về Achilles' heel đi ^_^)
+- **iris**: mống mắt
+- **eyebrow**: chân mày (lông mày)
 
-![body-vocabulary1.jpg](/wp-content/uploads/2012/11/body-vocabulary1.jpg)
+![Từ vựng về cơ thể người, phần 2](/wp-content/uploads/2012/11/body-vocabulary2.jpg)
 
+- **knee**: đầu gối (*kneel* là động từ: quỳ xuống)
+- **palm**: lòng bàn tay
+- **pupil**: con ngươi (lòng đen của mắt)
+- **sideburns** (số nhiều): râu mai, tóc mai bên mang tai
+- **mustache**: ria mép, râu trên môi
+- **thigh**: đùi
 
-arm là cánh tay, từ vai đến cổ tay (cổ tay = wrist)
+Sự khác nhau giữa iris và pupil:
 
-calf là bắp chân
-
-gums là lợi (nướu)
-
-heel là gót chân (các bạn đọc truyện về Achilles Heel đi ^_^)
-
-Iris là mống mắt
-
-eyebrow là chân mày (lông mày)
-
-
-![body-vocabulary2.jpg](/wp-content/uploads/2012/11/body-vocabulary2.jpg)
-
-
-knee là đầu gối, kneel là động từ : quỳ xuống
-
-palm là lòng bàn tay
-
-pupil là lòng (tròng) đen của mắt
-
-sideburns (số nhiều) là râu bên mang tai, quai nón đấy
-
-mustache là râu, trên môi
-
-thign là đùi
-
-Sự khác nhau của Iris và Pupil là :
-
-
-![pupil-iris.jpg](/wp-content/uploads/2012/11/pupil-iris.jpg)
-
-
- [1]: ../wp-content/uploads/2012/11/body-vocabulary1.jpg
- [2]: ../wp-content/uploads/2012/11/body-vocabulary2.jpg
- [3]: ../wp-content/uploads/2012/11/pupil-iris.jpg
+![Phân biệt iris (mống mắt) và pupil (con ngươi)](/wp-content/uploads/2012/11/pupil-iris.jpg)

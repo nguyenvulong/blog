@@ -1,7 +1,6 @@
 ---
 title: Should, had better ; ought to, be supposed to ; have to, must
-author: admin
-type: post
+description: So sánh mức độ mạnh nhẹ của should, had better, ought to, be supposed to, have to và must.
 date: 2013-01-04T13:00:05+00:00
 url: /had-better-va-should-khac-nhau/
 categories:
@@ -16,42 +15,37 @@ tags:
   - should
 
 ---
-Cấu trúc Had better được dùng như một lời khuyên (advice), lời đề nghị (suggestion)
+## Had better và should
 
-Cách dùng _tương tự _như Should.
+Cấu trúc **had better** dùng để đưa ra lời khuyên (advice) hoặc đề nghị (suggestion), tương tự should.
 
-Had better + Verb (**không có TO).  
-** Ví dụ : Y_ou&#8217;**d better get** back to work _: Bạn nên tiếp tục làm đi .
+**Had better + V** (không có to).
 
-Thể phủ định : **Had better + NOT**
+_You'd better get back to work._ (Bạn nên quay lại làm việc đi.)
 
-Ví dụ : _You **had better not tell** a lie_
+Thể phủ định: **had better + not**.
 
-Khác biệt giữa Had better và Should đó là
+_You had better not tell a lie._
 
-  * Had better **chỉ** dùng cho những trường hợp cụ thể (specific situation)
-  * Should dùng cho những tình huống chung chung (general), và **should có thể thay thế had better**, nhưng **không** có điều ngược lại.
+Khác biệt giữa had better và should:
 
-Sự khác nhau này khá mập mờ theo mình thấy. Nhìn chung Should phổ biến hơn nhiều .
+- Had better **chỉ** dùng cho tình huống cụ thể (specific situation).
+- Should dùng cho tình huống chung chung (general), và **should có thể thay had better**, nhưng ngược lại thì không.
 
-Tham khảo tại : http://www.englishgrammarsecrets.com/hadbetter/menu.php
+Sự khác nhau này khá mập mờ theo mình thấy. Nhìn chung should phổ biến hơn nhiều.
 
-&nbsp;
+Tham khảo: [English Grammar Secrets](http://www.englishgrammarsecrets.com/hadbetter/menu.php).
 
-Bổ sung : Ought to mang nghĩa như Should nhưng mạnh hơn 1 chút
+## Bổ sung: ought to, be supposed to, have to, must
 
-Ought to do something : cảm thấy cần phải làm điều đó
+- **Ought to** có nghĩa như should nhưng mạnh hơn một chút. Ought to do something: cảm thấy cần phải làm điều đó. Should do something: nghĩ rằng nên làm điều đó.
+- **Be supposed to do** cũng có nghĩa là nên làm, có trách nhiệm phải làm.
+- **Have to** và **must** là bắt buộc (must mạnh hơn); ought to yếu hơn hai cụm này.
 
-Should do something : nghĩ rằng nên làm điều đó
+**Tóm lại:**
 
-Ought to mang nghĩa yếu hơn have to và must vì must là bắt buộc ; have to cũng mang nghĩa bắt buộc nhưng theo hướng &#8220;nên làm&#8221;
+**should, had better < ought to, be supposed to < have to, must**
 
-is/are supposed to do cũng mang nghĩa nên làm, có trách nhiệm phải làm
+Độ mạnh nhẹ của từng cụm khác nhau, các bạn chú ý nhé.
 
-**Túm lại**
-
-**Should, had better < ought to, be supposed to < have to, must**
-
-Độ mạnh nhẹ của từng cụm là khác nhau, các bạn chú ý .
-
-Tham khảo thêm tại :  http://www.5minuteenglish.com/jul14.htm
+Tham khảo thêm: [5 Minute English](http://www.5minuteenglish.com/jul14.htm).
