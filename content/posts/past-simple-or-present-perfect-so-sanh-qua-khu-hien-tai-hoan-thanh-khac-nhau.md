@@ -1,7 +1,6 @@
 ---
 title: Past simple or present perfect
-author: admin
-type: post
+description: So sánh quá khứ đơn và hiện tại hoàn thành qua hành động, trạng thái, hành động lặp lại và cách đưa tin.
 date: 2012-11-17T17:16:04+00:00
 url: /past-simple-or-present-perfect-so-sanh-qua-khu-hien-tai-hoan-thanh-khac-nhau/
 categories:
@@ -16,60 +15,53 @@ tags:
   - qua khu
   - qua khu don
   - so sanh hien tai hoan thanh va qua khu
-
 ---
-<span style="color: #800000;"><strong>A. Actions</strong></span>
+## A. Actions
 
-Sự khác nhau giữa hiện tại hoàn thành và quá khứ là ở chỗ người nói có đang liên kết  việc xảy ra ở quá khứ với hiện tại hay không :
+Sự khác nhau giữa hiện tại hoàn thành và quá khứ đơn nằm ở chỗ người nói có liên kết việc xảy ra trong quá khứ với hiện tại hay không.
 
-Past : _The car **broke** down yesterday_ (đơn giản là chiếc bị hư hôm qua, hôm nay nó như thế nào thì không rõ)
+- Past: *The car **broke** down yesterday.* (Chiếc xe bị hư hôm qua; hôm nay nó thế nào thì không rõ.)
+- Present perfect: *The car **has broken** down.* (Xe bị hỏng trước đó và **bây giờ** vẫn hỏng.)
 
-Present perfect : _The car **has broken** down_ (chiếc xe bị hỏng trước đó, và **bây giờ** nó vẫn hỏng )
+Ta dùng quá khứ đơn cho hành động có thời gian "hữu hạn", tức khoảng thời gian đó đã kết thúc (chiếc xe trên có thể đã được sửa hoặc chưa), và hành động có **thời gian xác định** (ở đây là *yesterday*).
 
-Ta dùng thì quá khứ cho hành động có thời gian &#8220;hữu hạn&#8221;, tức là khoảng thời gian đó đã kết thúc rồi, chiếc xe phía trên có để đã được sửa hoặc chưa, và hành động đó có **thời gian xác định** (ở đây là yesterday)
+Còn hiện tại hoàn thành diễn tả hành động xảy ra ở quá khứ, **kéo dài tới hiện tại** và rất có thể tiếp diễn tới tương lai. Nhớ chữ "present" (hiện tại) là nhớ nguyên tắc dùng thì này.
 
-Còn hiện tại hoàn thành thì diễn tả hành động xảy ra ở quá khứ, **kéo dài tới hiện tại, **và rất có thể sẽ tiếp diễn tới tương lai . Các bạn để ý tới chữ &#8220;present&#8221; = hiện tại, là sẽ  nhớ nguyên tắc sử dụng của thì này.
+## B. States
 
-<span style="color: #800000;"><strong>B. States</strong></span>
+Nếu trạng thái đã chấm dứt, ta dùng past simple:
 
-Nếu state (trạng thái) đã chấm dứt. Ta dùng Past simple :
+*I **had** that bike for years.* (Rồi sau đó tôi bán nó.)
 
-_I **had** **that** bike for years (then I sold it)_
+*I **was** there from 3 AM to 5 AM.* (Rồi tôi rời đi.)
 
-_I **was** **there** from 3 AM to 5 AM  (then I left)_
+Nếu trạng thái vẫn tồn tại, ta dùng present perfect (tương tự mục A):
 
-Còn nếu trạng thái ấy vẫn tồn tại, ta dùng Present perfect (tương tự như mục **A. Actions**)
+*I**'ve had** this bike for years.*
 
-_I**&#8216;ve had** **this** bike for years_
+## C. Repeated actions
 
-<span style="color: #800000;"><strong>C. Repeated actions :</strong></span>
+Dùng past simple nghĩa là chuỗi hành động lặp lại đó đã kết thúc:
 
-Nếu dùng past simple thì tức là chuỗi hành động lặp lại đó đã kết thúc :
+*Rose **acted** in more than 50 movies.* (Đã đóng hơn 50 phim và giờ không đóng nữa; sự nghiệp đã chấm dứt.)
 
-_Rose **acted** more than 50 movies_ (đã đóng hơn 50 phim và bây giờ không còn đóng phim nữa rồi : _Her career is over_)
+*Michael **has acted** in more than 50 movies.* (Đã đóng hơn 50 phim và vẫn tiếp tục, chưa nghỉ hưu; sự nghiệp kéo dài đến nay và có thể chưa kết thúc.)
 
-_Micheal **has acted** more than 50 movies _(&#8220;Mai-Cồ&#8221; =)) đã đóng hơn 50 phim rồi và tiếp tục đóng chứ chưa nghỉ hưu. _His career has continued up to present, and may or may not be over_)
+## D. Reporting news
 
-<span style="color: #800000;"><strong>D. Reporting news </strong></span>
+Trên đài báo, ta dùng hiện tại hoàn thành để giới thiệu tin tức, sau đó dùng quá khứ đơn để mô tả chi tiết:
 
-Trong đài báo &#8230; chúng ta dùng hiện tại hoàn thành để giới thiệu về tin tức, sau đó dùng quá khứ để mô tả chi tiết tin tức đó :
+*There **has been** a serious accident on Route 666. It **happened** at 10 PM, when a lorry **went** out of control and **collided** with a car.*
 
-_There **has been** a serious accident on Route 666. It **happened** at 10 PM,  when a lorry **went** out of control and **collided** with a car_
+(lorry: xe tải; collide: va chạm, đụng độ)
 
-(lorry : xe tải, collide va chạm, đụng độ )
+Khi nói chuyện cũng tương tự:
 
-Tương tự như lúc nói chuyện, ta cũng áp dụng điều này :
+*I**'ve been** on a holiday.*  
+*Oh, where **did** you go?*
 
-_I**&#8216;ve been** on a holiday ._
+*The new chairs **have arrived**. They **came** here yesterday morning.*
 
-_Oh, where **did** you go ?_
+Bài viết hơi lằng nhằng, nhưng bạn chỉ cần nhớ:
 
-_The new chairs **have arrived**. They **came** here <span style="text-decoration: underline;">yesterday morning.</span>_
-
-Bài viết thì lằng nhằng nhưng các bạn chỉ cần nhớ 2 điều.
-
-> Present perfect thì phải dính tới _hiện tại_, còn Past simple thì thường có thời gian cụ thể &#8211; hoặc hành động đó _phải chấm dứt ở quá khứ rồi_.
-
-&nbsp;
-
-&nbsp;
+> Present perfect phải dính tới *hiện tại*; còn past simple thường có thời gian cụ thể, hoặc hành động đó *phải chấm dứt ở quá khứ rồi*.

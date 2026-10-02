@@ -1,7 +1,6 @@
 ---
 title: Paternal and Maternal
-author: admin
-type: post
+description: Từ tiếng Anh để phân biệt ông bà nội và ông bà ngoại: paternal và maternal.
 date: 2015-02-06T03:13:28+00:00
 url: /paternal-and-maternal/
 categories:
@@ -19,17 +18,9 @@ tags:
   - phia ngoai
   - phia noi
   - tieng anh
-
 ---
-Trong tiếng Anh, như nhiều bạn đã biết là có 2 từ &#8220;grand father&#8221; (grandpa, grand-dad) và &#8220;grand mother&#8221; (grandma)  để chỉ &#8220;ông nội, ông ngoại&#8221; và &#8220;bà nội, bà ngoại&#8221;, nhưng mà không có từ để chỉ riêng  phía nhà ngoại hay nội như người Việt mình. (ít nhất là đến lúc này , bản thân mình chưa tìm ra được từ nào)
+Trong tiếng Anh, như nhiều bạn đã biết, chỉ có hai từ "grandfather" (grandpa, granddad) và "grandmother" (grandma) để chỉ cả ông nội lẫn ông ngoại, bà nội lẫn bà ngoại. Không có từ riêng chỉ phía nội hay phía ngoại như người Việt mình (ít nhất đến giờ mình chưa tìm ra).
 
-Chính vì lẽ đó, họ dùng 2 từ sau để bổ sung, làm rõ nghĩa. Các bạn có thể dùng từ này để hỏi ông bà của 1 ai đó là ở phía nội hay phía ngoại của họ: **Paternal** & **Maternal**
+Vì vậy, họ dùng thêm hai từ sau để làm rõ nghĩa. Bạn có thể dùng chúng để hỏi ông bà của ai đó thuộc phía nội hay phía ngoại: **paternal** (bên nội, phía cha) và **maternal** (bên ngoại, phía mẹ).
 
-&nbsp;
-
-
-![paternal_maternal.png](/wp-content/uploads/2015/02/paternal_maternal.png)
-
-
- [1]: ../wp-content/uploads/2015/02/paternal_maternal.png
- [2]: ../wp-content/uploads/2015/02/maternal_and_paternal.png
+![Sơ đồ paternal và maternal](/wp-content/uploads/2015/02/paternal_maternal.png)
