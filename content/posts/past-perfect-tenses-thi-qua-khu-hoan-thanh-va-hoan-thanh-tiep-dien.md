@@ -1,7 +1,6 @@
 ---
 title: Past perfect tenses
-author: admin
-type: post
+description: Thì quá khứ hoàn thành và quá khứ hoàn thành tiếp diễn, cách phân biệt với quá khứ đơn và hiện tại hoàn thành.
 date: 2012-11-30T17:48:12+00:00
 url: /past-perfect-tenses-thi-qua-khu-hoan-thanh-va-hoan-thanh-tiep-dien/
 categories:
@@ -15,124 +14,93 @@ tags:
   - qua khu hoan thanh tiep dien
   - so sanh cac thi
   - tenses comparison
-
 ---
-Mới nhậu về, vì chưa xỉn nên mình post bài cho mọi người ^\___^ hehe
+Mới nhậu về, vì chưa xỉn nên mình post bài cho mọi người ^_^ hehe
 
-<span style="color: #800000;"><strong>A. Past perfect</strong> </span>:
+## A. Past perfect
 
-Form  : had + PP (Past Participle)
+Form: **had + PP** (Past Participle)
 
-_Adam **was** sad because his aunt **had died**_
+*Adam **was** sad because his aunt **had died**.*
 
-_I **couldn&#8217;t** go as I **hadn&#8217;t bought** a ticket. _(as ở đây mang nghĩa là because nhé, tôi không đi được vì tôi chưa mua vé)
+*I **couldn't** go as I **hadn't bought** a ticket.* (as ở đây nghĩa là because: tôi không đi được vì chưa mua vé.)
 
-_How long **had** the animals **been** without food and water?_
+*How long **had** the animals **been** without food and water?*
 
-Chúng ta dùng quá khứ hoàn thành khi nói về một hành động hay trạng thái **xảy ra trước** một điều gì trong **quá khứ .** Hành động xảy ra trước **phải kết thúc trước khi** hành động xảy ra sau diễn ra
+Ta dùng quá khứ hoàn thành khi nói về một hành động hay trạng thái **xảy ra trước** một điều gì đó trong **quá khứ**. Hành động xảy ra trước **phải kết thúc trước khi** hành động sau diễn ra.
 
-So sánh 2 câu sau các bạn sẽ thấy sự khác biệt giữa **present perfect và past perfect** :
+So sánh hai câu sau để thấy sự khác biệt giữa **present perfect** và **past perfect**:
 
-_The floor **is** clean.  I**&#8216;ve washed** it._
+*The floor **is** clean. I**'ve washed** it.*
 
-_The floor **was** clean. I**&#8216;d washed** it_
+*The floor **was** clean. I**'d washed** it.*
 
-<span style="color: #800000;"><strong>B.<em> </em>Past simple and past perfect</strong></span>
+## B. Past simple and past perfect
 
-Past simple : hiện tại đơn được dùng khi ta nói về một hành động riêng lẻ nào đó  trong quá khứ, hoặc một chuỗi các hành động liền mạch nhau (hết cái này tới ngay cái kia, nhanh gọn)
+**Past simple** được dùng khi nói về một hành động riêng lẻ trong quá khứ, hoặc một chuỗi hành động liền mạch (hết cái này tới ngay cái kia):
 
-_This bike is new. I **bought** it <span style="text-decoration: underline;">last week </span>_
+*This bike is new. I **bought** it last week.*
 
-_When the bomb **went** off, the building **collapsed**_
+*When the bomb **went** off, the building **collapsed**.*
 
-Còn khi hành động này tiếp diễn hành động kia, nhưng phải có sự chấm dứt hoàn toàn của hành động xảu ra trước, hành động **xảy ra trước **sẽ dùng **past perfect**
+Còn khi hành động này nối tiếp hành động kia, nhưng hành động xảy ra trước đã chấm dứt hoàn toàn, thì hành động **xảy ra trước** dùng **past perfect**.
 
-Ngoài ra, ta có cấu trúc sau :
+Ngoài ra có các cấu trúc:
 
-_When  + had + PP, simple past : _
+- *When + had + PP, simple past*: *When Max **had typed** the message, he **sent** it.* (Ở đây **bắt buộc** dùng *had typed*: gõ xong mới gửi được, đúng không?)
+- *After + simple past **hoặc** past perfect, simple past*: *After Max **typed** / **had typed** the message, he **sent** it.* (Nhờ chữ *after* nên có thể dùng *typed* thay vì *had typed*, người đọc vẫn hiểu.)
 
-When Max **had typed** the message, he **sent** it.
+So sánh:
 
-(ở đây **bắt buộc** dùng **had typed **, gõ xong thì mới gửi được đúng không ? )
+*When I **arrived**, the meeting **began**.* (Lúc tôi đến thì cuộc họp bắt đầu.)
 
-và
+*When I **arrived**, the meeting **had begun**.* (Lúc tôi tới thì cuộc họp đã diễn ra rồi.)
 
-_After simple past **hoặc** past perfect, simple past : _
+Ta dựa vào nghĩa của câu để dùng ngữ pháp cho đúng.
 
-_After Max **typed** / **had typed** the message, he **sent** it_
+## C. The past perfect continuous
 
-(Trong trường hợp này, nhờ chữ **After **nên ta có thể dùng **typed thay vì had typed **người đọc vẫn hiểu nghĩa của câu này)
+Đây là thì "quá khứ hoàn thành tiếp diễn". Đừng bị rối bởi nhiều tense, hãy tách ra: quá khứ + hoàn thành + tiếp diễn.
 
-Tiếp,
+Nó diễn tả một hành động **trong quá khứ**, **kéo dài** tới **một thời điểm** trong quá khứ, nhưng bắt buộc **phải kết thúc trước hiện tại**.
 
-So sánh 2 ví dụ sau :
+*When she **came** home, I **had been looking** for the key.*
 
-_When I **arrived**,  the meeting **began**_ (lúc tôi đến thì cuộc họp bắt đầu)
+Việc tôi tìm chìa khóa diễn ra trước khi cô ấy về. Có thể cô ấy nói chìa khóa do cô giữ nên tôi không cần tìm nữa; cũng có thể cô ấy la lên và bắt tôi tìm tiếp. Vì vậy hành động đó có thể dừng lại **hoặc** tiếp tục sau khi "cô ấy về".
 
-_When I **arrived**, the meeting **had begun**_ (lúc tôi tới thì cuộc họp diễn ra rồi)
+So sánh với *hiện tại hoàn thành tiếp diễn*: diễn tả hành động bắt đầu trong **quá khứ**, **kéo dài đến hiện tại** và **có thể tiếp tục trong tương lai**.
 
-Ở đây ta cũng dựa vào nghĩa của câu để dùng ngữ pháp cho đúng .
+*I **have been waiting** for you since... forever.*
 
-<span style="color: #800000;"><strong>C. The past perfect continuous :</strong></span>
+Chú ý: hoàn thành và hoàn thành tiếp diễn **rất giống nhau**; nhờ chữ "tiếp diễn" mà nó nhấn mạnh hơn **tính liên tục của hành động**.
 
-Đây là thì &#8220;quá khứ hoàn thành tiếp diễn&#8221;
+## D. Comparison of tenses
 
-Các bạn đừng bị rối bởi nhiều tenses nhé
+*I**'m** tired. I**'ve been working.*** (Có thể hiện tại vẫn đang làm tiếp.)
 
-Hãy phân tích nó ra
+*I **was tired**. I**'d been working**.* (Hiện tại không làm nữa, nhưng trong quá khứ có làm. Có bạn sẽ hỏi sao không dùng quá khứ tiếp diễn; theo mình, "I was working" không hợp vì câu trước đã là *I was tired* rồi.)
 
-quá khứ
+*The volunteers **had been collecting** money all morning.* (Hành động quyên góp **có thể diễn ra tiếp**, nhưng buổi sáng đó **đã qua rồi**. Nếu viết "have been collecting" thì lúc nói **vẫn đang là buổi sáng**. Đó là khác biệt giữa present perfect continuous và past perfect continuous.)
 
-hoàn thành
+*The volunteers **had collected** hundreds of dollars.* (Đây là **kết quả** của việc quyên góp: tính đến lúc đó họ đã quyên được chừng đó, còn lúc nói họ không quyên góp nữa.)
 
-tiếp diễn
+*When I saw Alice, she **was playing** golf.* (Tôi thấy cô ấy **đang chơi** golf, tức là giữa cuộc chơi.)
 
-Vậy nó diễn tả một hành động **trong quá khứ**, **kéo dài** tới **một thời điểm** trong **quá khứ,** ** . **Nhưng bắt buộc **phải hoàn thành  trước hiện tại .**
+Nhưng:
 
-_When she **came** home, I **had been looking** for the key_
+*When I **saw** Alice, she **had been playing** golf.* (Sách Oxford giải thích: "I saw her after the game", tức là cô ấy đã chơi xong.)
 
-Việc tôi tìm chiếc chìa khóa diễn ra trước khi cô ấy về, có thể lúc cô ấy về thì cô ấy sẽ nói chìa khóa do cô ấy giữ. Vậy là tôi không cần tìm nữa, hoặc cũng có thể cô ấy hét vào mặt tôi và bắt tôi tìm tiếp . Chính vì vậy mới nói hành động đó có thể dừng lại _hoặc tiếp tục diễn ra, sau khi &#8220;cô ấy về&#8221;_ (she came home)
+Ta có thể dùng quá khứ hoàn thành với *before* và *until*:
 
-So sánh với _hiện tại hoàn thành tiếp diễn_ nhé : diễn tả một hành động trong **quá khứ, ****kéo dài đến** **hiện tại, có thể** **tiếp tục trong tương lai**
+*I felt tired before I **started / had started**.*
 
-_I **have been waiting** for you since &#8230; forever_
+*We didn't want to stop until we **finished / had finished** the job.*
 
-*Chú ý là quá khứ/ hiện tại hoàn thành **rất giống** quá khứ/hiện tại hoàn thành tiếp diễn, điểm khác nhau đó là nhờ chữ &#8220;tiếp diễn&#8221; mà nó nhấn mạnh hơn **tính liên tục của hành động**.
+Cả hai thì đều dùng được.
 
-<span style="color: #800000;"><strong>D. Comparison of tenses :</strong></span>
+## Tóm tắt
 
-So sánh 2 câu sau :
+- **Hiện tại hoàn thành** và **hiện tại hoàn thành tiếp diễn**: bắt đầu trong quá khứ, kéo dài tới hiện tại, có thể tiếp tục trong tương lai hoặc vừa kết thúc ở hiện tại.
+- **Quá khứ hoàn thành** và **quá khứ hoàn thành tiếp diễn**: bắt đầu trong quá khứ, kéo dài tới một thời điểm trong quá khứ, thường chấm dứt trước thời điểm ấy (đôi khi vẫn tiếp tục), nhưng phải chấm dứt trước hiện tại.
 
-I**&#8216;m** tired. I**&#8216;ve been working** (có thể hiện tại vẫn đang làm tiếp)
-
-_I **was tired**. I&#8217;**d been working**_ (hiện tại không làm nữa, nhưng trong quá khứ thì có làm, sẽ có bạn hỏi tại sao không dùng quá khứ tiếp diễn, theo mình thì quá khứ tiếp diễn &#8220;I was working&#8221; không phù hợp, bởi vì câu trước đó đã là **I was tired** rồi, nếu là I&#8217;m tired thì chắc ổn hơn )
-
-_ The volunteers **had been collecting** money all morning _(hành động quyên góp tiền **có thể diễn ra tiếp**, tuy nhiên các bạn cần hiểu là cái buổi sáng đó **nó qua rồi, **nếu ở đây mình viết là &#8220;have been collecting&#8221; &#8230; thì các bạn cần hiểu lúc mình nói thế &#8211; **thì vẫn đang là buổi sáng **=> đây chính là sự khác biệt giữa present perfect continuous và past perfect continuous)
-
-_The volunteers **had collected** hundreds of dollars _(Đây là **kết quả **của hành động quyên góp, có thể họ còn quyên góp tiếp, nhưng ít ra thì thống kê đến hiện tại họ đã quyên góp được chừng đó, và hiện tại thì họ đang &#8230; nghỉ ngơi &#8211; chẳng hạn, nói chung là họ không quyên góp vào lúc nói câu này)
-
-When I saw Alice, she **was playing** golf (câu này không có gì bàn cãi, trong quá khứ tôi thấy Alice **đang chơi** golf, tức là tôi thấy cô ấy &#8220;giữa&#8221; cuộc chơi)
-
-Nhưng :
-
-_When I **saw** Alice, she **had been playing** golf_ (sách Oxford giải thích là &#8220;I saw her after the game&#8221; &#8211; tôi thấy cô ấy sau trận golf, tức là cô ấy chơi golf xong rồi )
-
-Chúng ta có thể dùng quá khứ hoàn thành với before và until :
-
-_I felt tired <span style="text-decoration: underline;">before</span> I **started / had started**_
-
-_We didn&#8217;t want  to stop <span style="text-decoration: underline;">until</span> we **finished / had finished** the job_
-
-Cả 2 thì đều dùng được.
-
-&nbsp;
-
-Mình túm lại cái đống phía trên :
-
-Hiện tại hoàn thành & hiện tại hoàn thành tiếp diễn : bắt đầu trong quá khứ, kéo dài tới hiện tại, có thể tiếp tục trong tương lai hoặc vừa mới kết lúc ở hiện tại.
-
-Quá khứ hoàn thành và quá khứ hoàn thành tiếp diễn : bắt đầu trong quá khứ, kéo tài tới một thời điểm trong quá khứ, thông thường là chấm dứt trước thời điểm ấy &#8211; nhưng đôi lúc sẽ tiếp tục diễn ra. Nhưng phải chấm dứt trước hiện tại.
-
-Các bạn cố gắng đọc lại ví dụ để nắm rõ.
-
-Bài này mình thấy rất khó, nếu có gì sai sót rất mong mọi người comment giùm nhé. Chúc các bạn ngủ ngon !
+Hãy đọc lại các ví dụ để nắm rõ. Bài này mình thấy rất khó, nếu có sai sót mong mọi người góp ý. Chúc các bạn ngủ ngon!

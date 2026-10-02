@@ -11,7 +11,7 @@ tags:
   - thi toefl
   - trai niem
 ---
-> **Update (2026):** Bài viết năm 2015. Lệ phí ($185), định dạng thi (hơn 4 tiếng) và bảng quy đổi điểm TOEFL–IELTS đã thay đổi; ETS cũng đã rút ngắn bài thi iBT từ năm 2026. Hãy xem thông tin mới nhất trên trang chính thức của ETS.
+> **Update (2026):** Bài viết năm 2015. Lệ phí ($185), định dạng thi (hơn 4 tiếng) và bảng quy đổi điểm TOEFL–IELTS đã thay đổi. Hãy xem thông tin mới nhất trên trang chính thức của ETS.
 
 Tương tự bài trước về chuyện thi TOEIC: [Tự luyện thi TOEIC](/tu-luyen-thi-toeic/).
 

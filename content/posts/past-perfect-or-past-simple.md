@@ -1,7 +1,6 @@
 ---
 title: Past Perfect or Past Simple?
-author: admin
-type: post
+description: Sau "after" nên dùng V-ing hay "having + V3"? Câu trả lời từ một người bạn Mỹ và sách Painless Grammar.
 date: 2015-02-24T01:45:50+00:00
 url: /past-perfect-or-past-simple/
 categories:
@@ -16,22 +15,12 @@ tags:
   - past perfect
   - past simple
   - qua khu
-
 ---
-Which one is CORRECT? Let&#8217;s see the answer from my friend (he&#8217;s American). Các bạn sẽ thấy &#8220;nói&#8221; và &#8220;viết&#8221; đôi khi cũng khác nhau &#8211; hay những dạng bất quy tắc trong ngôn ngữ , và thực ra trong đời sống hàng ngày thì người Mỹ họ hướng tới cái đơn giản hơn &#8211; ở đây là dạng thông dụng: sau _after thì V-ing._
+Which one is CORRECT? Let's see the answer from my friend (he's American). Bạn sẽ thấy "nói" và "viết" đôi khi khác nhau, và ngôn ngữ cũng có những dạng bất quy tắc. Trong đời sống hằng ngày, người Mỹ hướng tới cái đơn giản hơn; ở đây là dạng thông dụng: sau *after* thì dùng V-ing.
 
-1. Marshall&#8217;s and David&#8217;s fingers were nearly frostbitten **after playing** in the snow for three hours. (câu này mình sao chép y nguyên từ &#8220;Painless Grammar&#8221; của Rebecca Elliott, Barron&#8217;s)  
-OR  
-2. Marshall&#8217;s and David&#8217;s fingers were nearly frostbitten **after having played** in the snow for three hours.
+1. Marshall's and David's fingers were nearly frostbitten **after playing** in the snow for three hours. (Câu này mình chép nguyên từ "Painless Grammar" của Rebecca Elliott, Barron's.)
+2. Marshall's and David's fingers were nearly frostbitten **after having played** in the snow for three hours.
 
-**Answer: (**You don&#8217;t know how much I love the answer &#8211; learning a language is about accepting new things, even if it sounds strange)
+**Answer:** (Bạn không biết mình thích câu trả lời này đến mức nào: học ngôn ngữ là chấp nhận những điều mới, kể cả khi nghe có vẻ lạ.)
 
-&nbsp;
-
-
-![eng.jpg](/wp-content/uploads/2015/02/eng.jpg)
-
-
-&nbsp;
-
- [1]: ../wp-content/uploads/2015/02/eng.jpg
+![Câu trả lời của người bạn Mỹ](/wp-content/uploads/2015/02/eng.jpg)
