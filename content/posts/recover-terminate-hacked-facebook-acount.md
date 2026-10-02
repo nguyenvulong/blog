@@ -1,7 +1,6 @@
 ---
 title: Recover/Terminate hacked facebook acount
-author: admin
-type: post
+description: Ghi chú nhanh các trang cần dùng để khôi phục hoặc xóa tài khoản Facebook bị hack.
 date: 2019-03-13T11:54:30+00:00
 url: /recover-terminate-hacked-facebook-acount/
 categories:
@@ -12,17 +11,19 @@ tags:
   - recover
 
 ---
-RECOVER
+> **Update (2026):** Facebook thường xuyên thay đổi các trang trợ giúp, nên một số đường dẫn dưới đây có thể đã khác. Nếu không vào được, hãy tìm "Facebook Help Center" và chọn mục tài khoản bị xâm nhập.
 
-  1. facebook.com//hacked
-  2. facebook.com/login/identify
-  3. facebook.com/help/delete_account
+## Recover
 
-RIP
+1. `facebook.com/hacked`
+2. `facebook.com/login/identify`
+3. `facebook.com/help/delete_account`
 
-  1. https://www.facebook.com/help/contact/295309487309948?helpref=faq_content 
-  2. (with disabled account, you must remember old email) https://www.facebook.com/help/contact/logout?id=183000765122339
+## Rip (tài khoản bị hack nặng)
 
-Note
+1. Mẫu liên hệ của Facebook cho tài khoản bị xâm nhập (trong Help Center).
+2. Với tài khoản đã bị vô hiệu hóa, bạn phải nhớ email cũ để dùng mẫu liên hệ tương ứng.
 
-  1. Better use your own device (?)
+## Note
+
+- Nên dùng thiết bị của chính mình (?)

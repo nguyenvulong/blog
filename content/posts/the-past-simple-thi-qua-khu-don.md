@@ -1,7 +1,6 @@
 ---
 title: The past simple
-author: admin
-type: post
+description: Thì quá khứ đơn trong tiếng Anh: dạng động từ, phủ định, nghi vấn, cách dùng và các trạng từ thời gian.
 date: 2012-11-14T17:22:05+00:00
 url: /the-past-simple-thi-qua-khu-don/
 categories:
@@ -13,90 +12,71 @@ tags:
   - time expression
   - trang tu qua khu
   - trang tu tan suat
-
 ---
-<span style="text-decoration: underline;"><strong>Form :</strong></span>
+## Form (dạng)
 
-<span style="color: #800000;"><strong>A. Động từ chuyển về dạng quá khứ</strong></span>
+### A. Chuyển động từ về dạng quá khứ
 
-Chúng ta có 2 loại động từ
+Có 2 loại động từ:
 
-&#8211; Động từ có quy tắc : regular verbs, ta thêm -ed vào đuôi. Ví dụ : finish => finished
+- **Động từ có quy tắc** (regular verbs): thêm -ed vào đuôi. Ví dụ: finish => finished.
+- **Động từ bất quy tắc** (irregular verbs): tùy động từ mà có dạng quá khứ khác nhau. Ví dụ: buy => bought.
 
-&#8211; Động từ bất quy tắc : irregular verbs, tùy vào động từ mà có dạng ở quá khứ khác nhau. Ví dụ : buy => bought
+Với động từ bất quy tắc ta tra bảng phụ lục, thường có 3 cột; cột thứ 2 là cột cần quan tâm trong bài này.
 
-Thường thì động từ loại bất quy tắc ta sẽ có 1 bảng phụ lục để tra cứu, bảng này thường có 3 cột, và cột thứ 2 chính là cột chúng ta cần quan tâm trong bài này . Ví dụ
+![Bảng động từ bất quy tắc](/wp-content/uploads/2012/11/irregular_verbs-769x1024.jpg)
 
+- _We **finished** our meal and **walked** home_
+- _When they **saw** the fire, they **ran** away_
 
-![irregular_verbs-769x1024.jpg](/wp-content/uploads/2012/11/irregular_verbs-769x1024.jpg)
+### B. Phủ định và nghi vấn
 
+Thể phủ định dùng didn't hoặc did not:
 
-_We **finished** our meal and **walked** home_
+- _We **didn't** <u>go</u> to the cinema together._
+- _**Did** they <u>finish</u> their meal?_
 
-_When they **saw** the fire, they **ran** away_
+Hai động từ trên trở về nguyên mẫu vì trước nó đã có trợ động từ did.
 
-<span style="color: #800000;"><strong>B. Negative  & Question </strong></span>
+### C. Dạng quá khứ của động từ
 
-Thể phủ định negative chúng ta dùng didn&#8217;t hay did not
+Dù chủ ngữ số ít hay số nhiều, regular và irregular verbs đều giống nhau. Ví dụ ở hiện tại đơn ta có "washes" (số ít) và "wash" (số nhiều), còn ở quá khứ chỉ có "washed".
 
-We **didn&#8217;t** <span style="text-decoration: underline;">go</span> to the cinema together .
+Ngoại lệ duy nhất là động từ BE:
 
-**Did** they <span style="text-decoration: underline;">finish</span> their meal ?
+- _I **was** late this morning_
+- _You **were** late this morning_
 
-2 động từ chuyển về nguyên mẫu khi trước nó là trợ động từ did nhé  các bạn .
+Khi có was/were thì không dùng did/didn't:
 
-<span style="color: #800000;"><strong>C. Dạng quá khứ của động từ</strong></span>
+- _I **wasn't** hungry at lunch_
+- _**Were** you tired last night?_
 
-dù là số nhiều hay ít, thì regular verbs / irregular verbs đều giống nhau cả.
+## Use (cách dùng)
 
-Ở hiện tại đơn thì số ít ta dùng &#8220;washes&#8221;, số nhiều thì &#8220;wash&#8221; chẳng hạn, còn ở quá khứ ta  dùng &#8220;washed&#8221;
+### D. Diễn tả hành động trong quá khứ
 
-Chỉ có một trường hợp ngoại lệ duy nhất đó là động từ BE :
+- _I **bought** this coat yesterday_
+- _I **saw** the film three weeks ago_
+- _When **did** the train arrive?_
 
-I **was** late this morning
+Chú ý các trạng từ như yesterday, three weeks ago... thường xuất hiện cùng past simple.
 
-You w**ere** late this morning
-
-Và khi có were/was thì không có did/didn&#8217;t :
-
-_I **wasn&#8217;t** hungry at lunch_
-
-_**Were** you tired last night ?_
-
-**<span style="text-decoration: underline;">Use :</span>**
-
-<span style="color: #800000;"><strong>D. Past simple dùng để diễn tả hành động ở quá khứ</strong></span>
-
-_I **bought** this coat yesterday_
-
-_I **saw** the film three weeks ago_
-
-_When **did** the train arrive?_
-
-Chú ý sự xuất hiện của các trạng từ : yesterday, three week ago &#8230; trong past simple
-
-Quá khứ  đơn xuất hiện nhiều trong những câu chuyện :
+Quá khứ đơn cũng xuất hiện nhiều trong truyện kể:
 
 _The princess once **walked** into a wood and **sat** down by a stream._
 
-<span style="color: #800000;"><strong>E. Quá khứ đơn còn nói về những chuỗi hành động trong quá khứ</strong></span>
+### E. Chuỗi hành động và trạng thái trong quá khứ
 
-những hành động này lặp lại một thời gian trong quá khứ, đến hiện tại thì không.
+Quá khứ đơn nói về những hành động lặp lại trong một khoảng thời gian ở quá khứ, đến hiện tại thì không còn:
 
-_I often **visited** this place as a child._
+- _I often **visited** this place as a child._
+- _He **went** to the Job Center several times._
 
-_He **went** to the Job Center several times._
+Nó cũng diễn tả trạng thái của thứ gì đó/ai đó trong quá khứ:
 
-Quá khứ đơn còn diễn đạt &#8220;trạng thái 0 hiện trạng của thứ gì đó/ ai đó&#8221;
+- _The party last week **was** great_
+- _The Romans **had** a huge empire_
+- _I **believed** in fairies when I was little_
 
-_The party last week **was** great_
-
-_The Romans **had** a huge empire_
-
-_I **believed** in fairies when I was a little_
-
-> Một số từ chỉ thời gian hay được dùng trong Past Simple : yesterday, day/week/month ago, last week/year/month &#8230;, the other day/week, once, then, next, after that .
-
-&nbsp;
-
- [1]: ../wp-content/uploads/2012/11/irregular_verbs.jpg
+> Một số từ chỉ thời gian hay dùng với past simple: yesterday, day/week/month ago, last week/year/month..., the other day/week, once, then, next, after that.

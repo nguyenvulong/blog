@@ -1,11 +1,8 @@
 ---
 title: 'Digital Ocean Review : best cheap cloud VPS'
-author: admin
-type: post
+description: A 2013 review of DigitalOcean, highlighting its fast provisioning, simple control panel and pay-as-you-go pricing.
 date: 2013-05-26T08:47:31+00:00
 url: /digital-ocean-review-best-cheap-cloud-vps/
-al2fb_facebook_exclude:
-  - 1
 categories:
   - English
   - IT
@@ -20,37 +17,30 @@ tags:
   - good vps service
 
 ---
-This one is by far the best VPS cloud service I&#8217;ve ever used
+> **Update (2026):** This review dates from 2013. DigitalOcean's pricing, data-center regions, available distributions and payment options have changed a lot since then; check [digitalocean.com](https://www.digitalocean.com) for current details. The link below is the author's referral link.
 
-<span style="color: #ff0000;"><strong>Website :</strong> </span><a href="https://m.do.co/c/c8e2bfb40925" target="_blank">WWW.DIGITALOCEAN.COM</a>
+This is by far the best cloud VPS service I've ever used.
 
-Free registration, after that you will be able to see the Control Panel as a glance .
+**Website:** [digitalocean.com](https://m.do.co/c/c8e2bfb40925)
 
-These are some hightlighted features I&#8217;ll take you through :
+Registration is free, and afterwards you can look around the control panel right away. Here are some highlights.
 
+![DigitalOcean control panel overview](/wp-content/uploads/2013/05/do_1-1024x686.jpg)
 
-![do_1-1024x686.jpg](/wp-content/uploads/2013/05/do_1-1024x686.jpg)
+- **Distributions:** the most popular ones are available: Arch, CentOS, Debian, Ubuntu and Fedora (x86 and x64).
+- **Locations:** three data centers, in New York, San Francisco and Amsterdam.
 
-  2. Five most popular distros : Arch, CentOS, Debian, Ubuntu và Fedora (x86 and x64)
-  3. 3 Servers reside in New York, San Francisco and  Amsterdam .
+![DigitalOcean data-center and image options](/wp-content/uploads/2013/05/do_5-300x66.jpg)
 
-![do_5-300x66.jpg](/wp-content/uploads/2013/05/do_5-300x66.jpg)
+![DigitalOcean droplet size options](/wp-content/uploads/2013/05/do_2-300x101.jpg)
 
+![DigitalOcean droplet settings](/wp-content/uploads/2013/05/do_3-300x231.jpg)
 
-![do_2-300x101.jpg](/wp-content/uploads/2013/05/do_2-300x101.jpg)
+- **Backups:** back up whenever you want; automatic daily backups are also available, with no hidden fee.
+- **Speed and billing:** it takes about half a minute to initialize a VPS. Create as many servers as you want (the default limit is five, which you can raise for free). You are charged only for what you use, and when you destroy a VPS the unused money stays in your account.
 
+![DigitalOcean droplet list](/wp-content/uploads/2013/05/do_4-300x140.jpg)
 
-![do_3-300x231.jpg](/wp-content/uploads/2013/05/do_3-300x231.jpg)
+- **Payment:** credit card or PayPal, fast and secure.
 
-  7. Anytime backup whenever you want to, they also offer automatic backup every day for you, totally no hidden fee .
-  8. Takes approximately half minute to initialize your VPS.  Create as many server as you want to (default is five, but you can increase this limitation for free) . They charge you for what you use . When you destroy your VPS, your money is safe-kept
-
-![do_4-300x140.jpg](/wp-content/uploads/2013/05/do_4-300x140.jpg)
-
- 10. Paying through Credit card or Paypal, very fast and secure.And there will be much much more for you to find out at : **Website :** <a href="https://m.do.co/c/c8e2bfb40925" target="_blank">WWW.DIGITALOCEAN.COM</a>
-
- [1]: ../wp-content/uploads/2013/05/do_1.jpg
- [2]: ../wp-content/uploads/2013/05/do_5.jpg
- [3]: ../wp-content/uploads/2013/05/do_2.jpg
- [4]: ../wp-content/uploads/2013/05/do_3.jpg
- [5]: ../wp-content/uploads/2013/05/do_4.jpg
+There is much more to find out on the [DigitalOcean website](https://m.do.co/c/c8e2bfb40925).

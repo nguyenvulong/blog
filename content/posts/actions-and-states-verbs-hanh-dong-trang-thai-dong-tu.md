@@ -1,7 +1,6 @@
 ---
 title: Actions and states
-author: admin
-type: post
+description: Phân biệt động từ hành động (action verb) và động từ trạng thái (state verb) trong tiếng Anh, kèm ví dụ.
 date: 2012-12-10T15:42:17+00:00
 url: /actions-and-states-verbs-hanh-dong-trang-thai-dong-tu/
 categories:
@@ -14,82 +13,58 @@ tags:
   - state verb
 
 ---
-**<span style="color: #800000;">A. So sánh giữa : Action Verb và State Verb</span>**
+## A. So sánh Action Verb và State Verb
 
-Động từ chỉ hành động : Liên quan đến sự vật/ hiện tượng đang xảy ra, một số động từ có ý nghĩa thông báo, hoặc liên quan đến suy nghĩ (như từ decide : quyết định &#8211; từ này thuộc về suy nghĩ con người)
+**Động từ chỉ hành động** liên quan đến sự vật, hiện tượng đang xảy ra; một số có ý nghĩa thông báo, hoặc liên quan đến suy nghĩ (như *decide*: quyết định).
 
-_We **played** football_
+- We **played** football.
+- I**'m buying** a CD.
+- You must **decide** soon.
 
-_I**&#8216;m buying** a CD_
+Chơi, mua, quyết định... đều là **hành động**.
 
-_You must **decide** soon_
+**Động từ chỉ trạng thái** thể hiện ý tưởng, ý kiến về điều gì đó, hoặc trạng thái, tính chất cố hữu của sự vật (nguyên văn là "staying the same").
 
-Chơi, mua, quyết định,  &#8230; đều là những **hành động**
+- I **know** the answer.
+- It **belongs** to me.
+- We **need** some help.
 
-Động từ chỉ trạng thái thể hiện ý tưởng, ý kiến về điều gì đó, và trạng thái tính chất của sự vật cố hữu (nguyên văn &#8220;staying the same&#8221;, không biết mình dịch là cố hữu có đúng không nữa @_@)
+Động từ hành động có thể ở dạng continuous (tiếp diễn), còn động từ trạng thái thì rất ít khi:
 
-_I **know** the answer_
+- We**'re decorating** the house: chúng tôi đang trang trí căn nhà.
+- ~~We**'re owning** the house~~: cách viết sai, vì **own** là state verb; chỉ cần nói *We own the house*.
 
-_It** belongs** to me_
+Chỉ một số ít state verbs được dùng ở dạng continuous:
 
-_We **need** some help_
+- I**'m loving** this holiday (cảm xúc nhất thời, nên nếu ai đó nói "I'm loving you" thì bạn cẩn thận nhé ^_^).
 
-Động từ chỉ hành động có thể  ở dạng &#8220;continuous&#8221; (tiếp diễn), còn động từ trạng thái thì rất ít khi :
+Một số động từ có thể dùng cả hai dạng: *feel, hurt, lie, look, wear*.
 
-_We**&#8216;re decorating** the house_ &#8211; chúng tôi đang trang trí căn nhà
+- I**'m feeling** depressed.
+- I **feel** depressed.
 
-<del><em>We<strong>&#8216;re owning</strong> the house</em> &#8211;</del> chúng tôi đang sở hữu căn nhà là cách viết sai, vì **own **là State verb, chỉ cần we own the house là đủ .
+Với việc nghe, nhìn (hearing, seeing), ta thường dùng thêm động từ đặc biệt *can*:
 
-Chỉ một số ít state verbs được dùng dạng continuous :
+- I **can see** a light.
+- We **could hear** the voice outside the window.
 
-_I**&#8216;m loving** this holiday_ (cảm xúc nhất thời, thế nên ai đó mà nói &#8220;I&#8217;m loving you&#8221; là bạn cẩn thận nhé ^_^ )
+Tuy nhiên nếu hành động đã hoàn toàn chấm dứt thì dùng past simple:
 
-Một số động từ có thể  ở 2 dạng :
+- I **heard** the discussion.
 
-feel, hurt, lie, look, wear
+## B. Động từ nhiều nghĩa: vừa là Action Verb, vừa là State Verb
 
-I_**&#8216;m feeling** depressed._
-
-_I **feel** depressed._
-
-***Với việc nghe, nhìn (hearing, seeing), chúng ta thường dùng thêm động từ đặc biệt &#8220;can&#8221; : **
-
-_I **can see** a light_
-
-_We **could hear** the voice outside the window_
-
-tuy nhiên nếu hành động hoàn toàn chấm dứt thì ta dùng Past simple :
-
-_I **heard** the discussion._
-
-<span style="color: #800000;"><strong> B. Động từ nhiều nghĩa có thể vừa là Action Verb và State Verb</strong></span>
-
-_We&#8217;re **having** lunch now (eat)_
-
-_We **have** a big kitchen (possess, own)_
-
-_We&#8217;re **thinking** about it (deciding)_
-
-_I **think** you&#8217;re right (believe)_
-
-_They&#8217;re **expecting** some news (waiting for it)_
-
-_They **expect** so (believe)_
-
-_Nurses **care** for the sick (look for, chăm sóc)_
-
-_I don&#8217;t **care** who knows (have no feelings)_
-
-_He was **looking** at Amy (directing his eyes at = đưa mắt nhìn ai đó)_
-
-_This room **looks** lovely (appearance, vẻ ngoài)_
-
-_Would you like to **taste** the soup ? (nếm thử)_
-
-_It **tasted** like water. (có mùi vị )_
-
-_Let&#8217;s **measure** the door (đo lường)_
-
-_It&#8217;s **measured** 2 meters  (độ dài ..)_
-
-&#8230;
+- We're **having** lunch now (eat).
+- We **have** a big kitchen (possess, own).
+- We're **thinking** about it (deciding).
+- I **think** you're right (believe).
+- They're **expecting** some news (waiting for it).
+- They **expect** so (believe).
+- Nurses **care** for the sick (chăm sóc).
+- I don't **care** who knows (have no feelings).
+- He was **looking** at Amy (đưa mắt nhìn ai đó).
+- This room **looks** lovely (vẻ ngoài).
+- Would you like to **taste** the soup? (nếm thử)
+- It **tasted** like water. (có mùi vị)
+- Let's **measure** the door. (đo lường)
+- It **measures** 2 meters. (độ dài)

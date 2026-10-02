@@ -1,13 +1,8 @@
 ---
 title: Cách sử dụng động từ ở đầu câu
-author: admin
-type: post
+description: Bốn dạng của động từ đứng đầu câu khi không có chủ ngữ (V-ing, V-ed/p.p, to-inf, bare-inf) và cách nhận biết từng dạng.
 date: 2013-01-10T17:40:02+00:00
 url: /cach-su-dung-dong-tu-o-dau-cau/
-wpdiscuz_post_rating:
-  - 4.7
-wpdiscuz_post_rating_count:
-  - 3
 categories:
   - English
   - Tips
@@ -15,51 +10,50 @@ tags:
   - dong tu dau cau
 
 ---
-*chủ từ = chủ ngữ
+_Chủ từ = chủ ngữ._
 
-Trong tiếng Anh động từ chỉ chia thì khi nó có chủ từ, cho nên khi động từ đầu câu &#8211; nếu không có chủ từ thì ta **không thể chia thì** mà chỉ có thể nằm một trong các hình thức sau: **to-inf (động từ nguyên mẫu có to), Ving , p.p (quá khứ phân từ), bare-inf. (Động từ nguyên mẫu không to )**
+Trong tiếng Anh, động từ chỉ chia thì khi nó có chủ từ. Vì vậy khi động từ đứng đầu câu mà không có chủ từ, ta **không thể chia thì** mà chỉ có thể dùng một trong các hình thức: **to-inf** (nguyên mẫu có to), **V-ing**, **p.p** (quá khứ phân từ) hoặc **bare-inf** (nguyên mẫu không to).
 
-**1)  Passive / Active Participle**
+## 1) Phân từ chủ động / bị động
 
-**Mang nghĩa chủ động : V-ing**  
-Seeing the dog, I ran away (Thấy con chó, tôi bỏ chạy)  
-Cách nhận dạng :  
-Chỉ là một cụm động từ mang nghĩa chủ động, **chủ từ hiểu ngầm của nó cũng chính là chủ từ của mệnh đề đi sau &#8211; Cuối cụm luôn có dấu phẩy**.
+**Chủ động: V-ing**
 
-**  
-** **Mang nghĩa bị động : V-cột3/ed**  
-Built in 1900, the house is now still in good condition.  
-(Được xây vào năm 1900, căn nhà giờ đây vẫn còn tốt)  
-Cách nhận dạng :  
-Chỉ là một cụm động từ mang nghĩa bị động, chủ từ hiểu ngầm của nó cũng chính là chủ từ của mệnh đề đi sau &#8211; Cuối cụm luôn có dấu phẩy.
+- _Seeing the dog, I ran away._ (Thấy con chó, tôi bỏ chạy.)
 
-**2) V-ing**
+Cách nhận dạng: đó là một cụm động từ mang nghĩa chủ động, chủ từ ngầm hiểu của nó chính là chủ từ của mệnh đề phía sau, và **cuối cụm luôn có dấu phẩy**.
 
-Studying English is difficult. (Việc học TA thì khó )  
-Cụm này có chức năng làm chủ từ cho động từ phía sau.  
-Studying English là chủ từ của is
+**Bị động: V3/V-ed**
 
-Cách nhận dạng :  
-Sau cụm từ **luôn có động từ chia thì. **
+- _Built in 1900, the house is still in good condition._ (Được xây vào năm 1900, căn nhà đến nay vẫn còn tốt.)
 
-**3) To-inf. **
+Cách nhận dạng: cụm động từ mang nghĩa bị động, chủ từ ngầm hiểu cũng là chủ từ của mệnh đề sau, cuối cụm có dấu phẩy.
 
-To study English is difficult  
-Cách nhận dạng :  
-Giống như cụm Ving làm chủ từ (Hai cấu trúc này có thể thay thế nhau.)  
-&#8211; Mang nghĩa &#8220;để&#8221; = in order to.  
-To pass the exam, he worked very hard.  
-=> sau dấu phẩy đưa ra cách thức để thực hiện **: ** ở đây cách thức là _work hard_, còn mục đích là _pass the exam_
+## 2) V-ing làm chủ từ
 
-**4) Bare-inf:  
-**  
-Duy nhất một trường hợp là câu mệnh lệnh.  
-Raise your hands! (Giơ tay lên!)  
-Cách nhận dạng :  
-Phía sau toàn bộ câu không có động từ chia thì, thường có dấu chấm cảm ở cuối.
+- _Studying English is difficult._ (Việc học tiếng Anh thì khó.)
 
-&nbsp;
+"Studying English" là chủ từ của "is". Cách nhận dạng: sau cụm này **luôn có động từ chia thì**.
 
-Tham khảo tại : http://forum.englishtime.us/default.aspx?g=posts&t=9381
+## 3) To-inf
 
-Có chỉnh sửa bổ sung đôi chút cho phù hợp.
+- _To study English is difficult._
+
+Cách nhận dạng: giống V-ing làm chủ từ (hai cấu trúc này có thể thay thế nhau).
+
+Ngoài ra, to-inf còn mang nghĩa "để" (= in order to):
+
+- _To pass the exam, he worked very hard._
+
+Sau dấu phẩy là cách thức thực hiện (work hard), còn mục đích là _pass the exam_.
+
+## 4) Bare-inf
+
+Chỉ có một trường hợp là câu mệnh lệnh:
+
+- _Raise your hands!_ (Giơ tay lên!)
+
+Cách nhận dạng: phía sau không có động từ chia thì, thường có dấu chấm than ở cuối.
+
+---
+
+Tham khảo: forum.englishtime.us (đã chỉnh sửa, bổ sung cho phù hợp).

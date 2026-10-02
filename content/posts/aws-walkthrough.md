@@ -1,7 +1,6 @@
 ---
 title: AWS walkthrough
-author: admin
-type: post
+description: Quick notes on getting started with AWS, plus a warning about hidden SageMaker Studio notebook charges.
 date: 2020-06-23T10:44:08+00:00
 url: /aws-walkthrough/
 categories:
@@ -12,27 +11,20 @@ tags:
   - walkthrough
 
 ---
-Projects galore >.<, you need to log in to the **[management console][1]** to try em out
+> **Update (2026):** These notes are from 2020. AWS console layouts, free-tier terms and SageMaker Studio (since reworked) have changed, so check the current AWS documentation and pricing pages.
 
+Projects galore. You need to log in to the [AWS management console](https://console.aws.amazon.com/) to try them out.
 
-![image-1024x844.png](/wp-content/uploads/2020/06/image-1024x844.png)
+![AWS console project list](/wp-content/uploads/2020/06/image-1024x844.png)
 
+Tons of hands-on tutorials can be found [here](https://aws.amazon.com/getting-started/hands-on/).
 
-Tons of hands-on tutorials can be found **[here][2]**
+A free instance (with an attached IP address) can be created easily using [Lightsail](https://aws.amazon.com/lightsail/).
 
-Free instance (& attached IP address) can be created at ease using [**lightsail**][3] 
+![Creating a Lightsail instance](/wp-content/uploads/2020/06/image-1.png)
 
+![Lightsail instance details](/wp-content/uploads/2020/06/image-2.png)
 
-![image-1.png](/wp-content/uploads/2020/06/image-1.png)
+## A warning about charges
 
-
-
-![image-2.png](/wp-content/uploads/2020/06/image-2.png)
-
-
-
-
-
-
-A bit confusion can cost you money. They charge you for the notebook instance **inside** Amazon SageMaker Studio BUT the Notebook instances tab won&#8217;t show any running notebook. Make sure to delete an app & user inside Amazon SageMaker Studio to avoid unexpected charge caused by notebook instance running inside it. Check the two photos below: notebook instance charge occurred but there is no notebook instance visible in the second photo.
-
+A bit of confusion can cost you money. You are charged for the notebook instance **inside** Amazon SageMaker Studio, but the "Notebook instances" tab won't show any running notebook. Make sure to delete the app and user inside Amazon SageMaker Studio to avoid unexpected charges from a notebook instance still running there. In the two photos above, a notebook instance charge occurred, yet no notebook instance is visible in the second photo.

@@ -1,35 +1,24 @@
 ---
 title: Khó xử
-author: admin
-type: post
+description: Truyện cười về chàng triệu phú chọn vợ giữa ba cô gái với ba cách tiêu tiền khác nhau.
 date: 2013-10-01T16:34:27+00:00
 url: /kho-xu/
-al2fb_facebook_link_id:
-  - 100423586784297_219588031534518
-al2fb_facebook_link_time:
-  - 2013-10-01T16: 34:30+00:00
-al2fb_facebook_link_picture:
-  - post=..//?al2fb_image=1
 categories:
   - Cuộc đời qua đôi mắt
 tags:
   - tinh yeu
   - truyen cuoi
-
 ---
-Dựa theo ý để viết lại vì đọc lâu rồi cũng chả nhớ  chi tiết thế nào :
+*Mình viết lại theo ý vì đọc lâu rồi, không nhớ chi tiết.*
 
-1 chàng triệu phú đẹp zai khoai to phân vân chọn vợ, đó 3 cô gái xinh đẹp.  
-Anh ấy quyết định cho mỗi nàng $10000 để xem họ chi tiêu thế nào :
+Một chàng triệu phú đẹp trai phân vân chọn vợ giữa ba cô gái xinh đẹp. Anh quyết định đưa mỗi nàng 10.000 đô để xem họ chi tiêu thế nào:
 
-&#8211; Cô thứ nhất phắn thẳng vào salon, make up các kiểu, làm thêm vài bộ cánh mới và nói : &#8220;Em yêu anh, em muốn làm anh hãnh diện trong mắt bạn bè vì có 1 người bạn gái xinh đẹp như em&#8221;
+- Cô thứ nhất vào thẳng salon, trang điểm đủ kiểu, sắm thêm vài bộ cánh mới và nói: "Em yêu anh, em muốn anh hãnh diện trước bạn bè vì có người bạn gái xinh đẹp như em."
+- Cô thứ hai vốn giản dị nên mua vài bộ vest cho anh, kèm mấy món bồi bổ sức khỏe, và nói: "Tính em đơn giản, em chỉ muốn chăm sóc anh thôi."
+- Cô thứ ba thuộc hàng cao thủ, ném tiền vào cổ phiếu; một thời gian sau tiền đã gấp đôi, cổ phiếu còn đang lên giá. Nàng quả quyết: "Tiền bạc với em là chuyện nhỏ, quan trọng là anh thôi!"
 
-&#8211; Cô thứ hai tính vốn giản dị &#8230; nên mua vài bộ Vest cho anh chàng kia, kèm với mấy món ngọc dương đông trùng hạ thảo tráng dương &#8230; cô nói &#8220;Tính em đơn giản, em chỉ muốn chăm sóc anh thôi&#8221;
+Ba cô khiến chàng trai vô cùng khó xử, vì người nào cũng biết nghĩ, biết tính toán.
 
-&#8211; Cô thứ ba thuộc hàng Lý Mạc Sầu, ném tiền vào cổ phiếu, một thời gian cô này đã kiếm được gấp đôi, chưa kể số cổ phiếu đang lên giá, nàng quả quyết &#8220;Tiền bạc với em là chuyện nhỏ, quan trọng là anh thôi, anh Khoai ạ !&#8221;
+Sau một hồi đấu tranh nội tâm dữ dội, anh quyết định chọn cô nàng có...
 
-3 cô này khiến chàng trai vô cùng khó xử. Người nào cũng biết nghĩ, biết tính toán &#8230;
-
-Và sau 1 hồi đấu tranh nội tâm rất dữ dội, anh chàng quyết định chọn cô nàng có &#8230;.
-
-&#8230;. bộ ngực to nhất trong 3 cô =))
+...bộ ngực to nhất trong ba cô =))

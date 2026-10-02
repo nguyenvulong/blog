@@ -1,7 +1,6 @@
 ---
 title: Giấc mộng vô hình – Lynk Lee
-author: admin
-type: post
+description: Giới thiệu ca khúc "Giấc mộng vô hình" của Lynk Lee, bài hát về một mối tình đã xa như giấc mơ mùa đông.
 date: 2012-11-18T01:46:57+00:00
 url: /giac-mong-vo-hinh-lynk-lee/
 categories:
@@ -11,9 +10,6 @@ tags:
   - lynk lee
 
 ---
-<p style="text-align: center;">
-</p>
+"Giấc mộng vô hình" là ca khúc của Lynk Lee, nói về một mối tình đã xa tầm tay, giờ chỉ còn như một giấc mơ mùa đông, nhưng nỗi nhớ vẫn không nguôi.
 
-<p style="text-align: center;">
-  Có giấc mơ vô hình anh đang mơ<br /> Anh mơ một chiều êm đềm<br /> Có giấc mơ anh tưởng như vu vơ<br /> Ngày nào được cầm tay em<br /> Ngày xưa ấy đã xa tầm tay<br /> giờ đây vụt bay cùng theo áng mây<br /> Những phút giây tìm đâu<br /> những ánh mắt thơ ngây tìm đâu<br /> giây phút vô hình&#8230;..<br /> Em giờ chỉ như một giấc mơ mùa đông<br /> đã đi thật xa cùng băng giá<br /> Vẫn riêng anh quạnh hiu những nỗi nhớ kéo về<br /> Hình như là mơ&#8230;<br /> Wow..ngày tháng như gió bay về trời<br /> những dấu yêu ngày ta đã trao<br /> Nhớ em nhiều<br /> anh vẫn nhớ thật nhiều<br /> hỡi em, anh nhớ em trong từng giây phút<br /> Giấc mộng vô hình<br /> Em chỉ như một giấc mộng vô hình
-</p>
+Bài hát có thể nghe trên YouTube hoặc các nền tảng nhạc trực tuyến bằng cách tìm "Giấc mộng vô hình Lynk Lee". (Bài gốc có kèm video và lời bài hát, không đăng lại ở đây vì lý do bản quyền.)

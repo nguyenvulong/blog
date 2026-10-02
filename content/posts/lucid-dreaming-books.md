@@ -1,7 +1,6 @@
 ---
 title: Lucid Dreaming Books
-author: admin
-type: post
+description: Tóm tắt và dịch lại các cuốn sách về giấc mơ sáng suốt (lucid dreaming).
 date: 2016-11-20T12:39:49+00:00
 url: /lucid-dreaming-books/
 categories:
@@ -13,47 +12,45 @@ tags:
   - lucid dreaming
 
 ---
-Ở đây mình sẽ đọc và dịch tóm tắt lại các quyển sách liên quan:
+Ở đây mình sẽ đọc và dịch tóm tắt lại các quyển sách liên quan.
 
-1. [Lucid Dreaming: Lucid dreams: A Beginner’s Guide On How To Control Your Dreams With Different Techniques &#8211; Austin Knight ][1]
+## 1. Lucid Dreams: A Beginner's Guide On How To Control Your Dreams With Different Techniques – Austin Knight
 
-**11 yếu tố cho thấy bạn là người có &#8220;tiềm năng&#8221; để thực hiện giấc mơ sáng suốt: **
+[Sách trên Amazon](https://www.amazon.com/Lucid-Dreaming-Beginners-Different-Techniques-ebook/dp/B01M7WHQ73)
 
-  * Là người có những mơ mộng cụ thể, tức là dễ dàng tưởng tượng ra mọi thứ một cách chi tiết
-  * Có khả năng tỉnh dậy 1 cách tự nhiên, không cần đến đồng hồ báo thức
-  * Có khả năng nhớ lại hầu hết (những) giấc mơ tối hôm trước
-  * Có nhiều giấc mơ gay cấn
-  * Đã từng có &#8220;giấc mơ tỉnh táo&#8221; trong quá khứ
-  * Có khả năng đánh thức bản thân khi gặp ác mộng
-  * Thiền đều đặn nhiều lần 1 tuần
-  * Có nhật ký ghi chép các giấc mơ
-  * Chơi nhiều thể loại Game nhập vai góc nhìn thứ nhất
-  * Từng trải niệm bóng đè (sleep paralysis), tức là tỉnh giấc nhưng cơ thể không cử động được
-  * Có khát khao muốn kiểm soát được giấc mơ của bản thân
+**11 yếu tố cho thấy bạn có "tiềm năng" thực hiện giấc mơ sáng suốt:**
 
-**Cách để &#8220;tỉnh táo&#8221; khi nằm mơ** 
+- Hay mơ mộng cụ thể, tức là dễ dàng tưởng tượng mọi thứ một cách chi tiết
+- Có thể tỉnh dậy tự nhiên, không cần đồng hồ báo thức
+- Nhớ lại được hầu hết các giấc mơ tối hôm trước
+- Có nhiều giấc mơ gay cấn
+- Đã từng có "giấc mơ tỉnh táo" trong quá khứ
+- Có thể tự đánh thức mình khi gặp ác mộng
+- Thiền đều đặn nhiều lần một tuần
+- Có nhật ký ghi chép giấc mơ
+- Chơi nhiều game nhập vai góc nhìn thứ nhất
+- Từng trải qua bóng đè (sleep paralysis), tức là tỉnh giấc nhưng cơ thể không cử động được
+- Khao khát kiểm soát giấc mơ của bản thân
 
-  * Ngủ đủ giấc (7-9 tiếng)
-  * Có nhật ký ghi chép các giấc mơ đều đặn
-  * Sử dụng vitamine B6 (không nhất thiết, nên tham khảo với bác sĩ)
+**Cách để "tỉnh táo" khi nằm mơ:**
 
-Ngoài ra, bạn nên luyện tập khả năng thức dậy lúc đang mơ bằng cách hẹn giờ báo thức sau khi đi ngủ khoảng 4.5- &#8211; 5 tiếng. Làm như vậy bạn sẽ dễ dàng nhớ ra là đang mơ gì để ghi chép lại. Tuy nhiên không nên thực hiện liên tục vì nó ảnh hưởng tới sức khỏe lâu dài.  
-Cách khác là sử dụng &#8220;Fitbit&#8221; hay &#8220;Neuroon sleep mask&#8221;, những thiết bị này nhận diện được sóng não của bạn và sẽ báo cho bạn khi bạn đang nằm mơ.
+- Ngủ đủ giấc (7–9 tiếng)
+- Ghi nhật ký giấc mơ đều đặn
+- Dùng vitamin B6 (không bắt buộc, nên hỏi ý kiến bác sĩ)
 
-2.  [Exploring the World of Lucid Dreams &#8211; Stephen LaBerge][2]
+Ngoài ra, bạn có thể luyện thức dậy lúc đang mơ bằng cách hẹn báo thức sau khi đi ngủ khoảng 4,5–5 tiếng. Làm vậy sẽ dễ nhớ và ghi lại giấc mơ hơn. Tuy nhiên không nên làm liên tục vì ảnh hưởng đến sức khỏe lâu dài.
 
-<đang đợi sách>
+Cách khác là dùng các thiết bị như Fitbit hay Neuroon sleep mask, nhận diện sóng não và báo cho bạn khi đang nằm mơ.
 
-&nbsp;
+## 2. Exploring the World of Lucid Dreaming – Stephen LaBerge
 
-**Một số thuật ngữ tiếng Anh: **
+[Sách trên Amazon](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X)
 
-REM: Rapid Eye Movement  
-NREM: Non Rapid Eye Movement
+_(đang đợi sách)_
 
-&nbsp;
+## Một số thuật ngữ tiếng Anh
 
-Bài viết này sẽ được cập nhật từ từ &#8230;
+- REM: Rapid Eye Movement
+- NREM: Non-Rapid Eye Movement
 
- [1]: https://www.amazon.com/Lucid-Dreaming-Beginners-Different-Techniques-ebook/dp/B01M7WHQ73/ref=sr_1_10?s=books&ie=UTF8&qid=1479630316&sr=1-10&keywords=lucid+dreaming
- [2]: https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X/ref=sr_1_1?ie=UTF8&qid=1479645489&sr=8-1&keywords=Exploring+the+World+of+Lucid+Dreams-Stephen+LaBerge
+Bài viết sẽ được cập nhật dần…

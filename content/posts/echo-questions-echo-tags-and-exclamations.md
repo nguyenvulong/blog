@@ -1,7 +1,6 @@
 ---
 title: Echo questions, echo tags, and exclamations
-author: admin
-type: post
+description: Cách dùng câu hỏi vọng lại (echo questions), echo tags và câu cảm thán trong tiếng Anh.
 date: 2012-10-25T11:40:04+00:00
 url: /echo-questions-echo-tags-and-exclamations/
 categories:
@@ -16,94 +15,79 @@ tags:
   - exclamation
 
 ---
-Echo là tiếng vọng lại.
+Echo là tiếng vọng lại. Echo questions và echo tags có thể hiểu là người nghe "hỏi lại" điều gì đó. Phần này mình không dịch tên sang tiếng Việt mà giữ nguyên.
 
-Echo questions, echo tags &#8230; có thể hiểu là người nghe &#8220;hỏi lại&#8221; điều gì đó, đi vào bài các bạn sẽ thấy. Mấy phần này mình không dịch sang tiếng Việt mà để nguyên là &#8220;Echo questions&#8221; &#8230;
+## A. Echo questions
 
-<span style="color: #800000;"><strong>A. Echo questions :</strong></span>
+Chúng ta dùng echo questions khi chưa hiểu rõ hoặc còn nghi ngờ điều gì đó. Bạn nâng giọng ở từ hỏi (question word):
 
-Chúng ta sử dụng echo questions khi chưa hiểu rõ điều gì đó hoặc còn nghi ngờ.  Bạn nâng giọng lên ở từ hỏi (question words) :
+_I often eat bits of wood._ (tao đã từng ăn vài miếng gỗ)
+_– **What** do you eat?_ (hoặc: _you eat **what?**_) (mày ăn cái gì cơ @,@)
 
-_I often eat bits of wood. _(tao đã từng ăn vài miếng gỗ )
+_My father knew Oprah Winfrey._
+_– What did he know?_ (hoặc: _he knew **who?**_)
 
-_&#8211; **What** do you eat? (_hoặc _: you eat **what?** ) _(mày ăn cái gì cơ @,@ )
+_Did you see the naked lady?_ (câu này mình lấy nguyên từ Oxford, chữ "naked" các bạn tự dịch nhé)
+_– Did I see **what?**_
 
-_My father knew Oprah Winfrey?_
+## B. Echo tags
 
-_&#8211; What did he know? (_hoặc _: he knew who?)_
+Hơi giống question tags, chỉ khác là người **phản hồi** mới là người dùng tag:
 
-_Did you see the naked lady?_ (câu này mình bê nguyên từ Oxford, chữ &#8220;naked&#8221; các bạn tự dịch nhé)
+_I**'m** leaving my job._
+_– Oh, **are you?**_
 
-_&#8211; Did I see **what?**_
+_The printer **doesn't** work._
+_– **Doesn't** it? Oh dear._ (thật vậy à, ôi trời)
 
-<span style="color: #800000;"><strong>B. Echo tags :</strong></span>
+Các bạn để ý thể khẳng định/phủ định của động từ trong 2 ví dụ trên. Echo tags biểu lộ sự quan tâm đến người nói.
 
-Hơi giống questions tag, chỉ có điều người response (người trả lời, phản hồi) mới là người dùng questions tag :
+Đôi khi chúng thể hiện sự nghi ngờ hoặc thất vọng:
 
-_I**&#8216;m** leaving my job_
+_I'm leaving my job._
+_– You aren't**, are you**?_ (nghi ngờ)
 
-_&#8211; Oh, **are you?**_
-
-_The printer **doesn&#8217;t** work._
-
-_&#8211; **Doesn&#8217;t** it? Oh dear_ (thật vậy à, ôi trời ạ )
-
-Các bạn để ý thể (phủ định &#8211; khẳng định) của các động từ được dùng trong 2 ví dụ trên .
-
-Echo tags biểu lộ sự quan tâm đến người nói.
-
-Và đôi khi thể hiện sự nghi ngờ, thất vọng như ví dụ sau :
-
-_I&#8217;m leaving my job. _
-
-_&#8211; You aren&#8217;t**, are you**?_ (nghi ngờ)
-
-_The printer doesn&#8217;t work_
-
-_&#8211; It does, **doesn&#8217;t it?** I&#8217;ve just been using it ._ (nghi ngờ cái máy chưa hỏng)
+_The printer doesn't work._
+_– It does, **doesn't it?** I've just been using it._ (nghi ngờ cái máy đã hỏng)
 
 _Max won the prize._
+_– He didn't, **did he**?_ (không mong đợi Max trúng giải)
 
-_&#8211; He didn&#8217;t, **did he**?_ (không mong  đợi Max trúng giải thưởng)
+Echo tags chia làm 2 loại là negative tag và positive tag như các bạn đã thấy: _did he_ là positive tag, _didn't he_ là negative tag.
 
-Echo tags chia làm 2 loại là Negative tag và Positive tag như các bạn đã thấy ở trên, ví dụ **did he **là positive tag; **didn&#8217;t he** là negative tag .
+Negative tag còn dùng để phản hồi một câu khẳng định (positive statement):
 
-Negative tag còn được dùng để phản hồi lại 1 câu khẳng định (positive statement) :
+_The music was great!_
+_– Yes, **wasn't it**?_ (cả hai người đều đồng ý là nhạc rất hay)
 
-_The music was great !_
+## C. Exclamations
 
-_Yes, **wasn&#8217;t it**? _(cả  2 người đều đồng ý là nhạc rất hay)
+Đây là những từ biểu cảm (bộc lộ cảm xúc): _Oh no!_, _Lovely!_, _You idiot!_, _Stop!_ Có thể có dấu chấm than (exclamation mark) hoặc không.
 
-<span style="color: #800000;"><strong>C. Exclamations :</strong></span>
-
-Đây là từ biểu cảm (tức là bộc lộ cảm xúc) : Oh no !, Lovely!, You idiot !, Stop!
-
-Có thể có dấu chấm cảm (exclamation mark &#8211; !), hoặc không.
-
-_How awful !_
+_How awful!_
 
 _How nice to see you._
 
-_Look at the plants &#8211; how they&#8217;ve grown !_(nhìn những cái cây đó, chúng lớn chưa kìa !)
+_Look at the plants – how they've grown!_ (nhìn những cái cây đó, chúng lớn chưa kìa!)
 
-Sau **how **có thể là 1 tính từ, trạng từ hay 1 câu Subject + Verb .
+Sau **how** có thể là một tính từ, một trạng từ hoặc một mệnh đề Subject + Verb.
 
-Sau **what **có thể là mạo từ (article) **a, **hoặc không, hoặc 1 noun phrase :
+Sau **what** có thể là mạo từ **a**, hoặc không có, hoặc một cụm danh từ:
 
-_**What a** surprise !_
+_**What a** surprise!_
 
-_**What** **a** good idea._
+_**What a** good idea._
 
-_**What** nonsense you talk ._
+_**What** nonsense you talk._
 
-Một số câu cảm thán (exclamations) có thể xuất hiện dưới dạng phủ định :
+Một số câu cảm thán có dạng phủ định:
 
-_**Aren&#8217;t** you lucky_ (không phải bạn may mắn quá sao )
+_**Aren't** you lucky_ (không phải bạn may mắn quá sao)
 
-_**Don&#8217;t** you look smart !_ (không phải là mày khôn quá đó sao !) = mày rất  khôn.
+_**Don't** you look smart!_ (trông bạn thông minh quá đó!)
 
-> Bạn có thể dùng **echo tag** để thể hiện sự đồng tình khi tán dóc :
-> 
-> _Lovely day !_
-> 
-> _&#8211; Beautiful, **isn&#8217;t it?**_
+> Bạn có thể dùng **echo tag** để thể hiện sự đồng tình khi tán gẫu:
+>
+> _Lovely day!_
+>
+> _– Beautiful, **isn't it?**_

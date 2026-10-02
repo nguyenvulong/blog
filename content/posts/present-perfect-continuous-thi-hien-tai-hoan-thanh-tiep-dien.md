@@ -1,7 +1,6 @@
 ---
 title: The present perfect continuous
-author: admin
-type: post
+description: Cấu trúc, cách dùng của thì hiện tại hoàn thành tiếp diễn và so sánh với hiện tại hoàn thành.
 date: 2012-11-24T18:15:54+00:00
 url: /present-perfect-continuous-thi-hien-tai-hoan-thanh-tiep-dien/
 categories:
@@ -14,56 +13,44 @@ tags:
   - so sanh hien tai hoan thanh tiep dien
 
 ---
-<span style="color: #800000;"><strong>A. Form</strong></span>
+## A. Form
 
-Thì hiện tại hoàn thành tiếp diễn có dạng như sau : ** have/has + been + V-ing**
+Thì hiện tại hoàn thành tiếp diễn có dạng: **have/has + been + V-ing**
 
-_The game **has been going** on for ages_
+- *The game **has been going** on for ages.*
+- *How long **have you been working** here?*
 
-_How long **have you been working** here?_
+## B. Use
 
-<span style="color: #800000;"><strong>B. Use</strong></span>
+Thì này dùng cho hành động bắt đầu trong quá khứ và kéo dài liên tục đến hiện tại. Nó khác hiện tại hoàn thành ở chỗ nhấn mạnh tính liên tục của hành động:
 
-Hiện tại hoàn thành tiếp diễn sử dụng  cho hành động ở quá khứ kéo dài liên tục đến hiện tại, nó khác hiện tại hoàn thành ở việc nhấn mạnh sự liên tục của hành động đó :
+*Where **have you been**? I**'ve been waiting** here for half an hour.* (đã đợi liên tục nửa tiếng rồi)
 
-_Where **have you been**? I**&#8216;ve been waiting** here for half an hour._
+Hành động này có thể tiếp tục kéo dài trong tương lai:
 
-(đợi liên lục nửa tiếng rồi )
+*I**'ve been waiting** for her. I**'ve been waiting** ages.* (I am still waiting, chán thật!)
 
-Hành động này có thể tiếp tục kéo dài trong tương lai :
+Hành động cũng có thể vừa mới kết thúc:
 
-_I**&#8216;ve been waiting** for her. I**&#8216;ve been waiting** ages . _(I am still waiting &#8211; holyshit !)
+*I'm hot because I**'ve been running**.* (mới ngừng chạy cách đây không lâu)
 
-Hành động đó cũng có thể vừa mới kết thúc tức thì :
+*for/since* cũng được dùng với thì này:
 
-_I&#8217;m hot because I**&#8216;ve been running** ._
+*We**'ve been living** here for six months.*
 
-(I stopped running a short time ago, mới ngừng chạy thôi)
+## C. Present perfect or present perfect continuous?
 
-_**for/since **_****cũng được áp dụng trong Present perfect continuous :
+**Present perfect** dùng để:
 
-_We**&#8216;ve been living** here for six months._
+- Nói về kết quả của hành động: *I**'ve washed** the car, it looks a lot cleaner now.*
+- Nói về **lượng** (how much / how many): *I**'ve written** 10 pages.*
+- Nói về số lần của hành động: *I**'ve tried** to call her at least 7 times.* (yes, I did)
+- Diễn tả trạng thái cho đến hiện tại: *My friend **has been** in the hospital for a month.*
 
-<span style="color: #800000;"><strong>C. Present perfect or Present perfect continuous :</strong></span>
+**Present perfect continuous** dùng để:
 
-  * Present perfect :
+- Nói về hành động kéo dài liên tục tới hiện tại.
+- Nói về khoảng thời gian bao lâu (how long).
+- Nói về hành động lặp lại: *I**'ve been calling** her every day.*
 
-Là kết quả của một hành động : _I**&#8216;ve washed** the car, it looks a lot cleaner now._
-
-Nói về **lượng : **how much/ how many : _I**&#8216;ve written** 10 pages_
-
-Nói về số lượng các hành động : _I**&#8216;ve tried** to call her at least 7 times  _(yes, I did )
-
-Diễn tả trạng thái cho đến thời điểm hiện tại : _My friend **has been** in the hospital  for a month_
-
-  * Present perfect continuous :
-
-Là hành động kéo dài liên tục tới hiện tại
-
-Nói về thời gian bao lâu : how long
-
-Nói về những hành động lặp lại : _I**&#8216;ve been calling** her every day._
-
-**Không** _diễn tả trạng thái  _(như ví dụ của &#8220;My friend &#8230;&#8221; thì trạng thái là **has been in the hospital**, chúng ta không dùng được <del><strong>has been being</strong></del> &#8230;)
-
-&nbsp;
+Thì này **không** diễn tả trạng thái. Như ví dụ "My friend..." ở trên, trạng thái là *has been in the hospital*, ta không dùng được ~~has been being~~.

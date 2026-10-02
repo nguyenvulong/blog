@@ -1,7 +1,6 @@
 ---
 title: Answering questions
-author: admin
-type: post
+description: Cách trả lời các câu hỏi thường gặp trong tiếng Anh: khi nào dùng câu ngắn, yes/no, và khi nào cần thêm thông tin.
 date: 2012-10-23T17:53:28+00:00
 url: /answering-questions-tra-loi-cau-hoi/
 categories:
@@ -11,68 +10,55 @@ tags:
   - answer question english
 
 ---
-Bài hôm nay chúng ta đi qua phần trả lời các câu hỏi thường gặp
+Bài hôm nay chúng ta đi qua phần trả lời các câu hỏi thường gặp.
 
-(hôm nay tính &#8220;cúp&#8221; rồi mà áy náy ghê, viết xong đi ngủ liền : &#8221;>, đuối quá T_T )
+## A. Một số câu trả lời chỉ cần một từ hoặc một cụm từ
 
-<span style="color: #800000;"><strong>A. Một số câu trả lời đôi khi chỉ cần một từ hoặc 1 cụm từ</strong></span>
+Tuy nhiên cũng có những câu trả lời cần đầy đủ thông tin hơn, nên sẽ dài hơn.
 
-Tuy nhiên cũng có những câu trả lời cần đầy đủ thông tin hơn => phải dài hơn .
+- What color is your car? - *White.*
+- When is your exam? - *Next Sunday.*
+- How is Lucy? - *Oh, a lot better, thank you. She'll be back at work next week.*
 
-_What color is your car? &#8211; White_
+"My car is white" là câu trả lời dài dòng, dư thừa. Nhưng để lịch sự bạn có thể nói **It's white.**
 
-_When is your exam? &#8211; Next Sunday =)_
+## B. Đôi khi chỉ cần yes/no là ổn
 
-_How is Lucy? &#8211; Oh, a lot better, thank you. She&#8217;ll be back at work next week._
+Nhưng một câu trả lời ngắn gọn như sau thì hay hơn:
 
-My car is white là câu trả lời dài dòng, dư thừa. Nhưng để lịch sự bạn có thể nói **It&#8217;s white . **
+- Is it raining? - Yes, **it is.**
+- Can Alice swim? - No, **she can't.**
 
-<span style="color: #800000;"><strong>B.  Đôi khi chúng ta chỉ cần yes/no là ổn,</strong></span>
+Với thì đơn (simple tense) ta dùng trợ động từ *do* hoặc *to be*:
 
-nhưng một câu trả lời ngắn gọn như thế này thì hay hơn :
+- Do you like it? - Yes, **I do.**
+- Did we succeed? - No, **we didn't.**
 
-_Is it raining? &#8211; Yes, **it is.**_
+## C. Không nhất thiết phải trả lời yes/no
 
-_Can Alice swim? &#8211; No, she can&#8217;t_
+- Am I the winner? - **Of course** you are.
+- Did you fail? - **I'm afraid** I did.
 
-Với thì đơn (simple tense) thì chúng ta dùng trợ động từ do/ hoặc to-be :
+Chúng ta thường thêm thông tin hoặc một bình luận ngay sau câu trả lời:
 
-_Do you like it? &#8211; Yes, I do_
+- Were you late? - Yes, **I missed the bus.**
+- Did Carl get the job he wanted? - No, he didn't, **unfortunately.**
+- Have you seen the film? - Yes, I have. **I really enjoyed it.**
 
-_Did we succeed? &#8211; No, we didn&#8217;t_
+## D. Không dùng yes/no cho lời yêu cầu, đề nghị, mời hoặc gợi ý
 
-<span style="color: #800000;"><strong>C. Không nhất thiết phải trả lời yes/no cho câu hỏi :</strong></span>
+(request, offer, invitation, suggestion.) Đây không chỉ là câu hỏi thông tin bình thường mà còn mang ý nghĩa yêu cầu, đề nghị. Ví dụ:
 
-_Am I the winner? &#8211; **Of course** you are_
+- Can I use your phone? - **Of course.** (người này muốn mượn điện thoại nên hỏi xin phép)
+- Would you like a sweet? - Yes, **please.** (sweet: kẹo)
+- Would you like to come to my party? - Yes, **I'd love to. Thank you very much.**
+- Shall we have a coffee? - **Good idea.** (chứ không phải *yes, we shall*, nghe rất vô duyên)
 
-_Did you fail? &#8211; **I&#8217;m afraid** I did _
+Khi từ chối, cần giải thích rõ ràng (phép lịch sự mà):
 
-Chúng ta thường thêm thông tin, hoặc 1 bình luận ngay sau câu trả lời :
+- Can I use your phone? - **Sorry, someone's using it at the moment.**
+- Would you like to come to my party? - **I'd love to, but I'll be away this weekend.**
 
-_Were you late? Yes, **I missed the bus.**_
-
-_Did Carl get the job he wanted? &#8211; No, he didn&#8217;t, **unfortunately**_
-
-_Have you seen the film? &#8211; Yes, I have. **I really enjoyed it.**_
-
-<span style="color: #800000;"><strong>D. Không thể dùng một câu trả lời yes/no cho một  (request, offer, invitation, suggestion)</strong></span>
-
-Bởi vì đây  không chỉ là câu hỏi về thông tin bình thường, mà còn mang ý nghĩa như yêu cầu, đề nghị. Ví dụ
-
-_Can I use your phone? &#8211; **Of course**_ (Người này có ý muốn mượn điện thoại vì đang cần, nên hỏi xin phép)
-
-_Would you like a sweet? &#8211; Yes, **please**_ (sweet : kẹo)
-
-_Would you like to come to my party? &#8211; Yes**, I&#8217;d love to. Thank you very much .**_
-
-_Shall we have a coffee? &#8211; **Good idea. **_(Chứ không phải là **yes, we shall **nghe rất vô duyên )
-
-Và khi đó là 1 câu từ chối, thì cần có giải thích rõ ràng (phép lịch sự mà)
-
-_Can I use your phone? &#8211; **Sorry, someone&#8217;s using it at the moment.**_
-
-_Would you like to come to my party? &#8211; **I&#8217;d love to, but I&#8217;ll be away this weekend.**_
-
-> Việc thêm thông tin cho câu trả lời nhiều khi  rất cần thiết, nếu không có những thông tin này thì câu trả lời trở nên vô dụng :
-> 
-> Is that watch new? &#8211; Yes, it is. **I bought it last week.**
+> Việc thêm thông tin cho câu trả lời nhiều khi rất cần thiết; nếu không, câu trả lời trở nên vô dụng:
+>
+> Is that watch new? - Yes, it is. **I bought it last week.**

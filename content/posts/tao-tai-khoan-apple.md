@@ -1,7 +1,6 @@
 ---
 title: Tạo tài khoản Apple
-author: admin
-type: post
+description: Cách tạo Apple ID không cần nhập thẻ tín dụng/ghi nợ để dùng App Store (ghi chú từ năm 2014).
 date: 2014-06-08T07:38:23+00:00
 url: /tao-tai-khoan-apple/
 categories:
@@ -15,16 +14,11 @@ tags:
   - iphone
   - itunes
   - the tin dung
-
 ---
-Mới chuyển qua sử dụng thiết bị của Apple, mọi thứ đều ổn ngoại trừ 1 điều khá khó chịu cho người dùng mới như mình, đó là vấn đề **phải nhập thông tin thẻ tín dụng (credit card) hay ghi nợ (debit card) để có thể sử dụng được AppStore.** Lý do như ở dưới đây:
+> **Update (2026):** Bài viết này từ năm 2014; giao diện và quy trình của Apple đã thay đổi nhiều. Hiện nay Apple ID thường được tạo trực tiếp trên thiết bị hoặc tại appleid.apple.com, và phương thức thanh toán có thể được chọn "None"/bỏ trống tùy khu vực. Hãy làm theo hướng dẫn mới nhất của Apple.
 
+Mới chuyển sang dùng thiết bị của Apple, mọi thứ đều ổn ngoại trừ một điều khá khó chịu cho người dùng mới như mình: **phải nhập thông tin thẻ tín dụng (credit card) hay thẻ ghi nợ (debit card) mới dùng được App Store.**
 
-![HT2534-FMIP_payment_option_none---en.png](http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT2534/en_US/HT2534-FMIP_payment_option_none---en.png)
+Theo Apple, nếu bạn đã tạo Apple ID tại [appleid.apple.com](https://appleid.apple.com) thì bắt buộc phải nhập thông tin thẻ VISA, Master... để dùng dịch vụ App Store hay đăng ký iTunes. Nếu việc đổi email không quan trọng với bạn, nên đăng ký Apple ID mới thông qua việc đăng ký tài khoản iTunes, khi đó sẽ có lựa chọn **None** cho phương thức thanh toán.
 
-
-&nbsp;
-
-  * **Nếu bạn đã tạo AppleID** tại: <a href="https://appleid.apple.com" target="_blank"><strong>https://appleid.apple.com</strong></a> thì bạn bắt buộc phải nhập thông tin thẻ VISA, Master &#8230; để có thể sử dụng dịch vụ của AppStore hay đăng ký iTunes. Nếu việc đổi email với ban không quan trọng, thì bạn nên đăng ký AppleID mới theo cách phía trên (bằng cách thông qua đăng ký tài khoản iTunes)
-
-Update 2014 July: Mình thấy lựa chọn None **đã xuất hiện trở lại.**
+**Update tháng 7/2014:** mình thấy lựa chọn **None** đã xuất hiện trở lại.

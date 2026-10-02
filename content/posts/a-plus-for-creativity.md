@@ -1,7 +1,6 @@
 ---
 title: A plus for creativity
-author: admin
-type: post
+description: Một bài làm thông minh và sáng tạo, cho thấy ra đề chặt chẽ không phải chuyện dễ.
 date: 2014-07-04T04:35:20+00:00
 url: /a-plus-for-creativity/
 categories:
@@ -11,14 +10,6 @@ tags:
   - creative answers
 
 ---
-Một bài làm rất thông minh và sáng tạo
+Một bài làm rất thông minh và sáng tạo. Nó cho thấy ra một cái đề bài chặt chẽ không phải là dễ.
 
-Cho thấy, ra 1 cái đề  bài chặt chẽ không phải là dễ
-
-&nbsp;
-
-
-![10442564_10152510555179481_2720789580166501121_n.jpg](/wp-content/uploads/2014/07/10442564_10152510555179481_2720789580166501121_n.jpg)
-
-
- [1]: ../wp-content/uploads/2014/07/10442564_10152510555179481_2720789580166501121_n.jpg
+![Một bài làm sáng tạo được điểm A+](/wp-content/uploads/2014/07/10442564_10152510555179481_2720789580166501121_n.jpg)

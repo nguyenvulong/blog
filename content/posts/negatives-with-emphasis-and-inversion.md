@@ -1,7 +1,6 @@
 ---
 title: Negatives with emphasis and inversion
-author: admin
-type: post
+description: Cách nhấn mạnh câu phủ định và phép đảo ngữ sau các từ phủ định trong tiếng Anh.
 date: 2012-10-16T16:23:40+00:00
 url: /negatives-with-emphasis-and-inversion/
 categories:
@@ -13,70 +12,65 @@ tags:
   - dao vi tri
   - inversion clause
   - negative phrase
-
 ---
-Bài này nói về việc nhấn mạnh tính phủ định, cũng như phép đảo câu :
+Bài này nói về việc nhấn mạnh tính phủ định, cũng như phép đảo ngữ.
 
-<span style="color: #800000;"><strong>A. Phủ định nhấn mạnh (emphatic negative)</strong></span>
+## A. Phủ định nhấn mạnh (emphatic negative)
 
-Chúng ta sẽ nhấn mạnh chữ NOT hoặc nhấn mạnh trợ động từ nếu nó dính với **n&#8217;t : **
+Ta nhấn mạnh chữ **NOT**, hoặc nhấn mạnh trợ động từ nếu nó dính với **n't**:
 
-_I did **NOT** take your mobile _
+*I did **NOT** take your mobile.*
 
-_I **DIDN&#8217;T** take your mobile_
+*I **DIDN'T** take your mobile.*
 
-Các bạn sẽ dùng &#8220;lực&#8221; mạnh hơn khi nhấn (stress) những từ trên.
+Khi nói, bạn sẽ nhấn (stress) mạnh hơn ở những từ trên.
 
-Chúng ta còn dùng **at all **để nhấn mạnh sự phủ định :
+Ta còn dùng **at all** để nhấn mạnh sự phủ định:
 
-_We don&#8217;t like our new boss_ **_at all_  **(Chúng tôi chả thích lão chủ mới **một tý nào** &#8211; tạm dịch như thế)
+*We don't like our new boss **at all**.* (Chúng tôi chẳng thích lão chủ mới một tí nào.)
 
-_In no time at all, the tour was over_ (Chưa gì thì chuyến đi đã kết thúc rồi &#8211; **no time **mang nghĩa như _**short time** _tức là cái gì đó diễn ra rất nhanh, họ cường điệu lên thành **no time**)
+*In **no time at all**, the tour was over.* (Chưa gì chuyến đi đã kết thúc rồi. **No time** mang nghĩa như *short time*, tức là diễn ra rất nhanh; người ta cường điệu lên thành "no time".)
 
-Ngoài ra còn có một số dạng phủ định như sau :
+Một số dạng phủ định khác:
 
-_The event did not go well **by any means** (_nghĩa là nghĩ đủ đường rồi mà chả thấy nó hay ở chỗ nào =))_)_
+*The event did not go well **by any means**.* (Chẳng có chỗ nào hay cả.)
 
-_I&#8217;m not **in the least** hungry _(tôi chả thấy đói một chút nào cả)
+*I'm not **in the least** hungry.* (Tôi chẳng thấy đói chút nào.)
 
-_Her son&#8217;s visits were **far from** frequent (_Chuyến  ghé thăm của con trai bà ấy thật bất ngờ, &#8220;far from frequent&#8221; : Không như thường lệ, bình thường thằng này chả về thăm mẹ nó gì cả )
+*Her son's visits were **far from** frequent.* (Con trai bà ấy hiếm khi về thăm; "far from frequent" là hoàn toàn không thường xuyên.)
 
-Sử dụng absolutely trước no, nobody, nowhere, ..
+Dùng **absolutely** trước no, nobody, nowhere...:
 
-There was absolutely nowhere to park
+*There was absolutely nowhere to park.*
 
-**Whatever** hoặc **whatsoever** phía sau **nothing** hoặc **none**, hay phía sau **no + noun**
+**Whatever** hoặc **whatsoever** đứng sau **nothing**, **none**, hay sau **no + noun**:
 
-_There&#8217;s nothing **whatever** we can do about it  _(chúng ta chả làm được gì đâu)
+*There's nothing **whatever** we can do about it.* (Chúng ta chẳng làm được gì đâu.)
 
-_I have no sympathy **whatsoever **_** **(dù sao thì tôi cũng chẳng động lòng)
+*I have no sympathy **whatsoever**.* (Dù sao tôi cũng chẳng động lòng.)
 
-<span style="color: #800000;"><strong>B. Đảo ngữ sau câu phủ định (Inversion after a negative phrase)</strong></span>
+## B. Đảo ngữ sau câu phủ định (inversion after a negative phrase)
 
-Đảo ngữ là việc thay đổi trật tự các thành phần trong câu. Điều này  xảy ra khi câu chứa no, never, neither, nor, seldome, rarely, hardly và only
+Đảo ngữ là thay đổi trật tự các thành phần trong câu. Nó xảy ra khi câu bắt đầu bằng no, never, neither, nor, seldom, rarely, hardly và only.
 
-EG :
+*Under no circumstances **should you** travel alone.* (Dù thế nào cũng không được đi du lịch một mình.)
 
-**Under no circumstances** _<span style="text-decoration: underline;">should you</span> travel alone_ (dù thế nào thì cũng không được đi du lịch 1 mình nhé)
+Tương đương: *You should not travel alone under any circumstances.*
 
-=> _You should not travel alone under **any** circumstances_
+*Never in my life **have I** seen such things.*
 
-_Never in my life have I seen such things._
+*The electricity had been disconnected, nor **was there** any water.*
 
-The electricity had been disconnected &#8211; **nor** was there any water.
+*Only in summer **is it** hot enough to swim.*
 
-_**Only in summer** is it hot enough to swim._
+Cụm từ chứa **not** nhiều khi cũng tham gia:
 
-Cụm từ chứa **Not **nhiều khi cũng tham gia &#8230;
+*Not until the following Monday **was I** able to see a doctor.* (Đến thứ Hai tuần sau tôi mới được gặp bác sĩ.)
 
-_**Not until the following Monday** was I able to see a doctor_  (phải đến thứ 2 tới tôi mới được gặp bác sĩ)
+Nếu động từ ở thì đơn (simple tense), ta dùng trợ động từ **do**:
 
-Nếu động từ ở dạng _thì đơn_ (simple tense), ta dùng trợ động từ là **do : **
+*Seldom **do we** have any visitors.* = *We seldom have any visitors.*
 
-_Seldom do we have any visitors = We seldom have any visitors_
+*Only once **did my attention** wander.* (Chỉ có một lần tôi bị mất tập trung.)
 
-_Only once did my attention wander _(đã có lúc tâm hồn tôi như treo ngược cành cây &#8211; mất tập trung ý mà)
-
-> Cách đảo ngữ sau các từ phủ định được dùng khá &#8220;formal&#8221; (trang trọng, lịch sự), trừ &#8220;no way&#8221; lại mang ý  thân mật, suồng sã : _**No way** can we get there on time ._
-
-&nbsp;
+> Đảo ngữ sau các từ phủ định khá trang trọng (formal), trừ **no way** mang ý thân mật: *No way can we get there on time.*

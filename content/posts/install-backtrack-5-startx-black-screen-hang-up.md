@@ -1,15 +1,8 @@
 ---
 title: Install Backtrack 5 startx black screen hang up
-author: admin
-type: post
+description: Cách xử lý lỗi màn hình đen khi chạy startx sau khi cài BackTrack 5 R3 từ USB.
 date: 2013-07-16T04:44:32+00:00
 url: /install-backtrack-5-startx-black-screen-hang-up/
-al2fb_facebook_link_id:
-  - 100423586784297_196639183829403
-al2fb_facebook_link_time:
-  - 2013-07-16T04: 44:37+00:00
-al2fb_facebook_link_picture:
-  - post=../wp-content/uploads/2013/07/bt-boot-300x187.jpg
 categories:
   - IT
   - Linux
@@ -17,43 +10,40 @@ tags:
   - black screen backtrack
   - install backtrack
   - startx black screen
-
 ---
-Cài đặt Backtrack 5, bị treo sau khi &#8220;startx&#8221;
+> **Update (2026):** BackTrack 5 đã ngừng phát triển từ lâu; người kế nhiệm là Kali Linux (cũng có thể dùng Parrot OS). Chỉ nên xem bài này như ghi chép lịch sử.
 
-I encountered this problem whilst I was installing Backtrack 5 R3 using USB (multiboot)
+Cài đặt BackTrack 5 bị treo (màn hình đen) sau khi chạy `startx`.
 
-Well, I did google it and really found some helps, but after all I had to fix it myself
+I encountered this problem while installing BackTrack 5 R3 from a USB stick (multiboot). I googled it and found some help, but in the end I had to fix it myself.
 
-If you have googled and try this** <span style="color: #ff0000;">but not sucess :</span>**
+If you have already tried the following and it **did not work**:
 
-  1. Edit the file /etc/default/grub
-  2. Find the line: GRUB\_CMDLINE\_LINUX_DEFAULT=&#8221;text splash nomodeset vga=791&#8243;
-  3. Change it to: GRUB\_CMDLINE\_LINUX_DEFAULT=&#8221;quiet splash i915.modeset=1 vga=791&#8243;
-  4. Save and close the file.
-  5. Run update-grub to refresh grub.
-  6. Reboot
+1. Edit the file `/etc/default/grub`.
+2. Find the line: `GRUB_CMDLINE_LINUX_DEFAULT="text splash nomodeset vga=791"`
+3. Change it to: `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash i915.modeset=1 vga=791"`
+4. Save and close the file.
+5. Run `update-grub` to refresh GRUB.
+6. Reboot.
 
-I guess you got stuck in step 5, you **could not update grub**
+I guess you got stuck at step 5 and **could not update GRUB**.
 
+![BackTrack boot menu](/wp-content/uploads/2013/07/bt-boot-300x187.jpg)
 
-![bt-boot-300x187.jpg](/wp-content/uploads/2013/07/bt-boot-300x187.jpg)
+At the boot menu, move the cursor to the top entry (BackTrack Text) and press `TAB` to edit it. A command line appears; replace
 
+```
+text splash nomodeset vga=791
+```
 
-move your cursor to the top, BackTrack Text and press TAB to edit
+with
 
-**<span style="color: #ff0000;">A command line appears, all you have to do is replace</span>**
+```
+quiet splash i915.modeset=1 vga=791
+```
 
-&#8220;text splash nomodeset vga=791&#8221;
+Press ENTER and you are all set.
 
-by this one :
+Just remember: **after the installation finishes**, edit `/etc/default/grub`, run `update-grub`, then `startx`.
 
-&#8220;quiet splash i915.modeset=1 vga=791&#8221;
-
-ENTER, and you&#8217;re all set
-
-just remember one thing, <span style="color: #ff0000;">after installation finishes, edit <strong>/etc/default/grub </strong><span style="color: #000000;">and</span> <strong>update-grub , then startx . </strong></span>
-
-By the way, the default password for **root is toor**
-
- [1]: ../wp-content/uploads/2013/07/bt-boot.jpg
+By the way, the default password for root is `toor`.

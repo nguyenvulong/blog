@@ -1,7 +1,6 @@
 ---
 title: The empty subject there
-author: admin
-type: post
+description: Cách dùng câu bắt đầu bằng "there" (không có chủ ngữ thực): there + be, there + to be, participle và các động từ văn chương.
 date: 2012-11-04T14:13:49+00:00
 url: /the-empty-subject-there-clause-khong-chu-ngu-bat-dau-there/
 categories:
@@ -14,98 +13,72 @@ tags:
   - khong co chu ngu
   - there clause
   - there subject
-
 ---
-Câu bắt đầu bằng **there,** không có chủ ngữ.
+Câu bắt đầu bằng **there** không có chủ ngữ thực sự.
 
-<span style="color: #800000;"><strong>A. Để chỉ ra sự tồn tại của thứ gì đó</strong></span>
+## A. Chỉ ra sự tồn tại của thứ gì đó
 
-ta dùng **there + be**
+Ta dùng **there + be**:
 
-_**There&#8217;s** hot water in the kettle_ (có nước nóng trong bình)
+- _**There's** hot water in the kettle_ (có nước nóng trong bình)
+- _**There are** some letters for you_
+- _**There was** an accident here last week_
+- _**There were** ten people in the queue_
+- _**There must have been** a power cut_
 
-_**There are** some letters for you_
+Động từ **be** phải hòa hợp (agree) và chia thì theo danh từ phía sau. Ví dụ **ten people** + last week thì be => **were**.
 
-_**There was** an accident here last week_
+Tuy nhiên trong văn nói thân mật có thể nói: _There's some letters_.
 
-_**There were** ten people in the queue_
+## B. Câu phủ định và nghi vấn dùng bình thường với there
 
-_**There must have been** a power cut_
+- _**There isn't** any hot water._
+- _**Are there** any letters for me?_
+- _**What is there** to do in this place?_
 
-Động từ **be **phải (agree) &#8220;chia thì&#8221; theo danh từ phía sau
+Dùng **no**: _There's **no** hot water._
 
-Ví dụ **ten people **thì **be => were (**last week)
+Câu hỏi đuôi: _There's enough time, **isn't there?**_
 
-Tuy nhiên trong informal speech thì có thể là : **There&#8217;s some letters**
+## C. There + to be / being
 
-<span style="color: #800000;"><strong>B. Câu phủ định và nghi vấn được sử dụng bình thường với there</strong></span>
+Dạng này được dùng nhiều trong văn chương:
 
-_**There isn&#8217;t** any hot water?_
+- _I didn't expect **there to be** such a crowd_ (tôi không ngờ ở đó lại đông người thế này)
+- _I love the idea of **there being** life forms elsewhere in the universe_ (tôi thích ý nghĩ có sự sống ở đâu đó trong vũ trụ)
 
-_**Are there** any letters for me?_
+Khi nào dùng to be / being? **Expect** đi với **to** ở câu 1; câu 2 có giới từ (preposition) **of** nên động từ ở dạng -ing, tức being. Nhớ theo nguyên tắc này sẽ rất dễ.
 
-_**What is there** to do in this place?_
+## D. There + passive/active participle
 
-Dùng **no : **
+- _There's someone **waiting** for you_ = Someone is waiting for you
+- _There was a van **parked** by the house_ = A van was parked by the house
 
-_There&#8217;s **no** hot water._
-
-Câu hỏi đuôi : _There&#8217;s enough time, **isn&#8217;t there?**_
-
-<span style="color: #800000;"><strong>C. There + to be / be-ing</strong></span>
-
-Được dùng trong văn chương nhiều ở dạng này :
-
-_I didn&#8217;t expect **there to be** such a crowd_
-
-(tôi không trông đợi ở đó lại đông người thế này)
-
-_I love the ideas of **there being** life forms elsewhere in the universe._
-
-(tôi thích cái suy nghĩ rằng có sự sống ở đâu đó trong vũ trụ)
-
-Khi nào thì to be/ being? Các bạn để ý : **expect** phải đi với **to **ở câu 1 còn câu 2 có giới từ (preposition ) **of**, thì động từ + ing, do đó nó là be-ing. Nhớ theo nguyên tắc này sẽ rất dễ .
-
-<span style="color: #800000;"><strong>D.There + passive/ active participle</strong></span>
-
-_There&#8217;s someone **waiting** for you_
-
-_= Someone is waiting for you_
-
-_There was a van **parked** by the house_
-
-_= A van was parked by the house_
-
-Nếu **hành động riêng lẻ đã chấm dứt (single complete action) **, thì chúng ta không dùng participle :
+Nếu là **một hành động riêng lẻ đã chấm dứt (single complete action)** thì không dùng participle:
 
 _**There was** a noise **that woke** me up_
 
-Cái tiếng động đã đánh thức tôi dậy rồi, do đó hành động đánh thức đã chấm dứt. Vì vậy ta không thể dùng : <del>There was a noise waking me up</del>
+Tiếng động đã đánh thức tôi rồi, hành động đã kết thúc, nên không thể nói ~~There was a noise waking me up~~.
 
-Và khi **đại từ quan hệ (relative pronoun) **không đóng vai trò  chủ ngữ, thì ta cũng không dùng Participle ở đây :
+Khi **đại từ quan hệ (relative pronoun)** không đóng vai trò chủ ngữ thì cũng không dùng participle:
 
-_There&#8217;s something **that** I need to do _(các bạn để ý, câu này có nghĩa là **I need to do something, **do đó **that **(thay thế cho something) không phải là chủ ngữ của câu)
+_There's something **that** I need to do_ (nghĩa là _I need to do something_, nên _that_ thay cho _something_ không phải chủ ngữ).
 
-Do vậy : _<del>There&#8217;s something needing to do </del>_ **là sai.**
+Do đó ~~There's something needing to do~~ là **sai**.
 
-<span style="color: #800000;"><strong>E. Sau there  nhiều loại động từ  được chấp nhận</strong></span>
+## E. Sau there có thể dùng nhiều loại động từ
 
-nhưng mang nghĩa formal & literary style (tức là trang trọng và văn vẻ)
+Mang nghĩa trang trọng và văn vẻ (formal & literary):
 
-_Nearby **there stands** an ancient tower_
+- _Nearby **there stands** an ancient tower_
+- _**There** now **follows** a short interval_
 
-_**There** now **follows** a short interval_
+Các động từ đó gồm: appear, arise, arrive, come, enter, exist, follow, lie, live, occur, remain, sit, stand, result, take place...
 
-Các động từ đó là : appear, arise, arrive, come, enter, exist, follow, lie, live, , occur, remain, sit, stand, result, take place &#8230;
+Giữa there và động từ có thể dùng: appear, seem, chance, happen, prove, tend, turn out, use...
 
-Giữa there & verb có thể dùng : appear, seem, chance, happen, prove, tend, turn out, use &#8230;
+- _**There seems to be** no truth in the story_
 
-_**There seems to be** no truth in the story_
-
-> Hãy ghi nhớ, để diễn tả thứ gì đó tồn tại, hãy dùng there :
-> 
-> <del><strong>There&#8217;s</strong> a bus service</del>
-> 
-> chứ không phải <del>A bus service is</del>
-
-&nbsp;
+> Hãy ghi nhớ: để diễn tả thứ gì đó tồn tại, hãy dùng there.
+>
+> **There's** a bus service, chứ không phải ~~A bus service is~~.

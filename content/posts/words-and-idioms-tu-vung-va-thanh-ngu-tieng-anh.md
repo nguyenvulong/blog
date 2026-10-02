@@ -1,7 +1,6 @@
 ---
 title: 'Words and Idioms : Từ vựng và thành ngữ Tiếng Anh'
-author: admin
-type: post
+description: Mục lục loạt bài thành ngữ tiếng Anh thường gặp, biên soạn lại từ chương trình Words and Idioms của VOA Tiếng Việt.
 date: 2012-12-23T06:11:28+00:00
 url: /words-and-idioms-tu-vung-va-thanh-ngu-tieng-anh/
 fbImage:
@@ -17,38 +16,22 @@ tags:
   - words and idioms
 
 ---
-Đài VOA Tiếng Việt (tức Voice Of America) có chương trình dạy tiếng Anh rất hay, trong đó có loạt bài viết về thành ngữ thường gặp.
+Đài VOA Tiếng Việt (Voice of America) có chương trình dạy tiếng Anh rất hay, trong đó có loạt bài về các thành ngữ thường gặp. Mình biên soạn lại ngắn gọn để các bạn dễ theo dõi hơn.
 
-Mình sẽ biên soạn lại ngắn gọn để các bạn dễ theo dõi hơn tại đây.
+Lưu ý: nội dung gốc thuộc bản quyền của VOA, xin vui lòng trích nguồn đầy đủ nếu sao chép. Xin cảm ơn.
 
-Chú ý toàn bộ bài viết thuộc bản quyền của VOA &#8211; xin vui lòng trích nguồn đầy đủ nếu sao chép. Xin cảm ơn .
+![Words and Idioms](/wp-content/uploads/2012/12/words-and-idioms.jpg)
 
-Danh mục bài viết :
+## Danh mục bài viết
 
-
-![words-and-idioms.jpg](/wp-content/uploads/2012/12/words-and-idioms.jpg)
-
-
-1. <a href="..//throw-in-the-towel-cry-uncle/" target="_blank">Throw in the towel, Cry Uncle</a>
-
-2. <a href="..//jazz-up-bells-and-whistles/" target="_blank">Jazz up, Bells and whistles</a>
-
-3. <a href="..//get-ones-act-together-roll-with-the-punches/" target="_blank">Get one&#8217;s act together, Roll with the punches</a>
-
-4. <a href="..//leave-someone-holding-the-bag-pull-the-plug/" target="_blank">Leave someone holding the bag, Pull the plug</a>
-
-5. <a href="..//get-it-off-ones-chest-spill-ones-guts/" target="_blank">Get it off one&#8217;s chest, Spill one&#8217;s guts</a>
-
-6. [Show one the gropes, Clue one in][1]
-
-7. <a href="..//dump-on-someone-give-one-the-cold-shoulder/" target="_blank">Dump on someone, Give one the cold shoulder</a>
-
-8. <a href="..//the-whole-ball-of-wax-everything-but-the-kitchen-sink/" target="_blank">The whole ball of wax, Everything but the kitchen sink</a>
-
-9. <a href="..//wired-a-basket-case/" target="_blank">Wired, A basket case</a>
-
-10. <a href="..//under-the-weather-sick-as-a-dog/" target="_blank">Under the weather, Sick as a dog</a>
-
-11. <a href="..//get-down-to-brass-tacks-get-down-to-the-nitty-gritty/" target="_blank">Get down to brass tacks, Get down to the nitty-gritty</a>
-
- [1]: ..//show-one-the-ropes-clue-one-in/
+1. [Throw in the towel, Cry Uncle](/throw-in-the-towel-cry-uncle/)
+2. [Jazz up, Bells and whistles](/jazz-up-bells-and-whistles/)
+3. [Get one's act together, Roll with the punches](/get-ones-act-together-roll-with-the-punches/)
+4. [Leave someone holding the bag, Pull the plug](/leave-someone-holding-the-bag-pull-the-plug/)
+5. [Get it off one's chest, Spill one's guts](/get-it-off-ones-chest-spill-ones-guts/)
+6. [Show one the ropes, Clue one in](/show-one-the-ropes-clue-one-in/)
+7. [Dump on someone, Give one the cold shoulder](/dump-on-someone-give-one-the-cold-shoulder/)
+8. [The whole ball of wax, Everything but the kitchen sink](/the-whole-ball-of-wax-everything-but-the-kitchen-sink/)
+9. [Wired, A basket case](/wired-a-basket-case/)
+10. [Under the weather, Sick as a dog](/under-the-weather-sick-as-a-dog/)
+11. [Get down to brass tacks, Get down to the nitty-gritty](/get-down-to-brass-tacks-get-down-to-the-nitty-gritty/)

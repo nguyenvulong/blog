@@ -1,5 +1,6 @@
 +++
 title = "Thông tin chi tiết về loại visa"
+description = "Cách xem loại visa chi tiết (ví dụ F-2-71, D-2-2) trên Socinet thay vì chỉ thấy F-2 hay D-2 trên thẻ người nước ngoài."
 
 date = "2025-08-06"
 updated = "2025-08-06"
@@ -11,7 +12,7 @@ tags=["visa","korea","kiip"]
 comment = true
 +++
 
-Như mọi người đã biết là loại visa trên thẻ người nước ngoài (외국인등록증) thường ghi ngắn gọn, ví dụ
+Loại visa trên thẻ người nước ngoài (외국인등록증) thường được ghi ngắn gọn, ví dụ:
 
 - D-2-2 là visa du học hệ đại học, D-2-3 là hệ thạc sĩ, D-2-4 là hệ tiến sĩ --> trên thẻ chỉ ghi D-2
 - F-2-71 là phụ thuộc của F-2-7, trong khi F-2-3 là phụ thuộc của một số loại F-5, ví dụ F-5-10, F-5-15 --> trên thẻ chỉ ghi F-2.
@@ -26,7 +27,9 @@ Hôm rồi mình có thử vào lại Socinet, tính đăng ký đi học thêm 
 Ở đây mình chụp 2 hình, một cái là trước khi cập nhật, và một cái là sau khi cập nhật.
 Tư cách lưu trú đã chuyển từ F-1-12 sang F-2-71. Sau này nếu có đổi sang F-2-3 thì mình đảm bảo là trên Socinet cũng sẽ đổi theo.
 
-![socinet-xuandieu-1.png](/socinet-xuandieu-1.png) ![socinet-xuandieu-2.png](/socinet-xuandieu-2.png)
+![Socinet trước khi cập nhật: tư cách lưu trú F-1-12](/socinet-xuandieu-1.png)
+
+![Socinet sau khi cập nhật: tư cách lưu trú F-2-71](/socinet-xuandieu-2.png)
 
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: How did I fail the TOEFL iBT
-author: admin
-type: post
+description: Trải nghiệm thi TOEFL iBT lần đầu tại Hàn Quốc năm 2015, vì sao mình thấy kết quả chưa như mong muốn và kế hoạch cải thiện.
 date: 2015-11-01T10:11:07+00:00
 url: /how-did-i-fail-the-toefl-ibt/
 categories:
@@ -11,75 +10,74 @@ tags:
   - sach toefl
   - thi toefl
   - trai niem
-
 ---
-&nbsp;
+> **Update (2026):** Bài viết năm 2015. Lệ phí ($185), định dạng thi (hơn 4 tiếng) và bảng quy đổi điểm TOEFL–IELTS đã thay đổi; ETS cũng đã rút ngắn bài thi iBT từ năm 2026. Hãy xem thông tin mới nhất trên trang chính thức của ETS.
 
-Tương tự bài trước, về chuyện thi TOEIC: <a href="..//tu-luyen-thi-toeic/" target="_blank">..//tu-luyen-thi-toeic/</a>  
-Vậy là sau **3 năm** trời thì mình cũng chính thức thi TOEFL iBT vào ngày 24/10/2015, phía dưới là số điểm mình đạt được:
+Tương tự bài trước về chuyện thi TOEIC: [Tự luyện thi TOEIC](/tu-luyen-thi-toeic/).
 
+Vậy là sau **3 năm** thì mình cũng chính thức thi TOEFL iBT vào ngày 24/10/2015. Dưới đây là số điểm mình đạt được:
 
-![t1.png](/wp-content/uploads/2015/11/t1.png)
+![Bảng điểm TOEFL iBT](/wp-content/uploads/2015/11/t1.png)
 
+So sánh *tương đối* với IELTS (theo [ETS](https://www.ets.org/toefl/institutions/scores/compare/)):
 
-So sánh _tương đối_ với IELTS (<a href="https://www.ets.org/toefl/institutions/scores/compare/" target="_blank">https://www.ets.org/toefl/institutions/scores/compare/</a>)
+![So sánh điểm TOEFL iBT với IELTS](/wp-content/uploads/2015/11/compareIELTS.png)
 
+Sau đây mình sẽ thuật lại toàn bộ **trải nghiệm** với kỳ thi này. Đây chỉ là một bài phân tích, tâm sự thuần túy chứ không có gì cao siêu, nhưng mình sẽ cố gắng để không làm người đọc mất thời gian vô ích.
 
-![compareIELTS.png](/wp-content/uploads/2015/11/compareIELTS.png)
+## 1. Cái tiêu đề
 
+Mình cho rằng bản thân đã "FAIL". Dù trước đó chưa thi thử TOEFL iBT bao giờ, mình luôn cho rằng mình phải đạt khoảng 90-100. Nhưng ngay sau khi làm bài xong, mình đã dự đoán kết quả chỉ nằm trong khoảng 80-90.
 
-<p style="text-align: center;">
-  Sau đây mình sẽ thuật lại toàn bộ <strong>trải niệm</strong> đối với kỳ thi này. Xin lưu ý rằng đây chỉ là 1 bài phân tích, tâm sự thuần túy chứ không có gì cao siêu cả, tuy nhiên mình sẽ cố gắng để không làm người đọc mất thời gian vô ích.
-</p>
+## 2. Lý do thi
 
-**Thứ nhất** **là cái tiêu đề**, mình cho rằng bản thân đã &#8220;FAIL&#8221;, vì dù rằng trước đó chưa thi thử TOEFL iBT bao giờ, mình luôn cho rằng bản thân phải đạt được số điểm trong khoảng 90-100. Nhưng ngay sau khi làm bài xong, mình đã dự đoán kết quả chỉ nằm trong khoảng 80-90 mà thôi.
+Lần thi này là để **apply học bổng PhD** của trường. Yêu cầu là từ 80 điểm trở lên nên về căn bản là đã đạt chỉ tiêu. Lý do còn lại (đáng lẽ NÊN là quan trọng nhất) là để **kiểm tra thực lực bản thân**.
 
-**Thứ hai là lý do thi, **lần thi này là để **apply cho 1 học bổng PhD** của trường. Vì yêu cầu là 80 điểm trở lên nên về căn bản là đã đạt chỉ tiêu. Lý do còn lại (_đáng lẽ lý do này NÊN là quan trọng nhất, mình sẽ giải thích phía dưới_) đó là để **kiểm tra thực lực bản thân.**
+## 3. Chuẩn bị
 
-**Thứ ba là việc chuẩn bị cho kỳ thi, **mình nhận được yêu cầu phải thi TOEFL iBT vào thứ 6 ngày 16/10/2015, tức là khoảng 1 tuần trước khi thi. Ngoài việc làm phần <a href="https://www.ets.org/Media/Tests/TOEFL/pdf/SampleQuestions.pdf" target="_blank">Sample test của ETS</a> , thì hầu như mình **không chuẩn bị gì cả. **Lúc làm thử phần Reading trong sample, mình sai quá nửa T_T
+Mình nhận được yêu cầu phải thi TOEFL iBT vào thứ Sáu 16/10/2015, tức là khoảng một tuần trước ngày thi. Ngoài việc làm [sample test của ETS](https://www.ets.org/Media/Tests/TOEFL/pdf/SampleQuestions.pdf), mình **hầu như không chuẩn bị gì**. Lúc làm thử phần Reading trong sample, mình sai quá nửa T_T
 
-Mình **đăng ký online** tại <a href="http://www.ets.org/toefl" target="_blank">http://www.ets.org/toefl</a>, thủ tục rất đơn giản, **chi phí** thi là **$185.  
-** Vì thi tại Hàn Quốc nên cũng hơi bối rối khi tìm địa chỉ và thủ tục trước phòng thi, nhưng xét lại thì vô cùng đơn giản:  
-&#8211; Đến địa điểm thi **đúng giờ** (trước khi thi 30 phút để làm thủ tục)  
-&#8211; Viết vào form cam kết là sẽ **trung thực**, không làm lộ đề &#8230;  
-&#8211; Phải mang theo **CMND hoặc Passport**  
-&#8211; **Mang theo ít đồ ăn** để lúc nghỉ giải lao giữa giờ lấy ra gặm vì thi **hơn 4 tiến**g. Mình thi từ **10h sáng &#8211; hơn 14h chiều**, không mang theo gì cả vì tưởng họ cho bánh ngọt T_T nên hơi hơi đói chút xíu.
+Mình **đăng ký online** trên trang của [ETS](https://www.ets.org/toefl), thủ tục rất đơn giản, **lệ phí** là **$185**. Vì thi tại Hàn Quốc nên mình hơi bối rối khi tìm địa chỉ và thủ tục trước phòng thi, nhưng xét lại thì rất đơn giản:
 
-<p style="text-align: center;">
+- Đến địa điểm thi **đúng giờ** (trước 30 phút để làm thủ tục).
+- Viết vào form cam kết **trung thực**, không làm lộ đề...
+- Phải mang theo **CMND hoặc hộ chiếu**.
+- **Mang theo ít đồ ăn** để gặm lúc nghỉ giải lao, vì thi **hơn 4 tiếng**. Mình thi từ 10h sáng đến hơn 14h chiều, không mang gì vì tưởng họ cho bánh ngọt T_T nên hơi đói.
 
-![IMG_1144-1024x768.jpg](/wp-content/uploads/2015/11/IMG_1144-1024x768.jpg)
+![Phòng thi TOEFL](/wp-content/uploads/2015/11/IMG_1144-1024x768.jpg)
 
-</p>
+## 4. Lúc làm bài
 
-**Thứ tư là lúc làm bài, ai vào trước thì sẽ làm trước** chứ không đợi chờ gì cả. Mọi thứ được thực hiện trên máy tính, mình là người về đầu tiên : ))) Mặc dù đeo tai nghe nhưng sẽ vẫn có tiếng ồn từ các bạn vào sau, hoặc khi tới phần test micro hay phần speaking, **mất tập trung là điều không thể tránh khỏi**, các bạn chú ý.  
-Đề thi rất **dài**, 1 tiếng đầu dành cho Reading bao gồm 3 bài đọc; tiếp theo là phần Listening;  nghỉ giải lao 10 phút và tiếp tục cho phần speaking, rồi tới writing. Với những bạn chưa bao giờ thi thử thì sẽ khá là mệt mỏi (mà chắc ai thi rồi cũng thấy nó mệt thôi, nói chung là **mệt**)  
-Vì chưa bao giờ làm bất kỳ 1 đề TOEFL iBT nào nên mình bị khớp ở phần nói nhiều nhất, và thực sự thì phần nào cũng bị bất ngờ : v  (trừ phần Writing  )
+**Ai vào trước thì làm trước**, không chờ gì cả. Mọi thứ thực hiện trên máy tính, và mình là người về đầu tiên :))) Dù đeo tai nghe vẫn có tiếng ồn từ các bạn vào sau, hoặc khi đến phần test micro và Speaking, nên **mất tập trung là điều không thể tránh khỏi**, các bạn chú ý.
 
-**Thứ năm là kết quả,** sau 1 tuần là có kết quả trên website của ETS. Vì dự đoán trước rồi nên mình không có gì bất ngờ về điểm tổng. Nhưng điều làm mình hơi nhạc nhiên là điểm writing của mình khá thấp ở bài viết số 1 (lúc thi có 2 bài viết tất cả).
+Đề thi rất **dài**: một tiếng đầu dành cho Reading gồm 3 bài đọc; tiếp theo là Listening; nghỉ giải lao 10 phút rồi đến Speaking, sau đó là Writing. Với những bạn chưa bao giờ thi thử thì sẽ khá mệt (mà chắc ai thi cũng thấy mệt thôi).
 
-Chi tiết về việc đánh giá theo thang điểm mình sẽ post ở đây dưới dạng PDF (**hiện tại thì đang chờ ETS cập nhật trên website**). Tuy nhiên bản text thì mình đã có rồi, bạn nào muốn xem luôn thì inbox mình trên facebook nhé.
+Vì chưa từng làm đề TOEFL iBT nào nên mình bị khớp nhiều nhất ở phần nói, và thực sự phần nào cũng có chút bất ngờ (trừ Writing).
 
-**Thứ sáu, nói thêm 1 chút về chuyện thất bại,** nếu nói về chuyện lấy học bổng thì mình hoàn toàn dư điểm, tuy nhiên đó không phải là điều quan trọng nhất. Kỳ thi TOEFL iBT mục đích chính phải là để đánh giá khả năng mình có đủ để tham gia vào môi trường học thuật của các trường dạy bằng tiếng Anh hay không. Số điểm khoảng 100 trở lên là phù hợp hơn cả và mình chưa làm được điều đó. Nhưng thực chất chuyện gì cũng có lý do của nó, và đây là những gì mình có thể nghĩ tới:  
-&#8211; Mình **chưa bao giờ trải qua** 1 kỳ thi thử TOEFL iBT nào cả, cho tới trước khi thi, mình hoàn toàn không hề biết cấu trúc đề thi ra sao. Với đặc thù công việc hiện tại, dù biết là sẽ phải thi trước 1 tuần nhưng mình không thể làm thử bất kỳ 1 bộ đề nào (có lẽ cũng vì thấy trễ quá rồi nên thôi kệ luôn : ))) tới đâu thì tới )  
-&#8211; **Kỹ năng** làm TOEFL, TOEIC hay mấy kỳ thi tiếng Anh **rất quan trọng**. Để có được kỹ năng tốt thì không có gì khác ngoài việc luyện tập, đặc biệt là phần Speaking. Mình tin là với 2 tháng ôn liên tục thì đạt trên 100 điểm không phải chuyện khó khăn lắm. Đây là 1 kỳ thi, và kiến thức đề ra thì có giới hạn, sẽ luôn luôn có chiến thuật để đạt được điểm cao.  
-&#8211; **Vốn từ vựng** của mình **còn yếu,** những năm tháng xem phim, coi youtube không đủ để làm giàu từ vựng chuyên ngành (TOEFL iBT có lượng từ vựng hàn lâm khá lớn)
+## 5. Kết quả
 
-**Thứ bảy, (cuối cùng cũng viết xong) nói 1 chút về kế hoạch, **đây là một số sách mà mình sẽ dành thời gian để làm trong thời gian sắp tới, mặc dù còn nhiều thứ quan trọng hơn là chuyện học tiếng Anh (ví dụ đi chơi bời mua sắm), tuy nhiên cảm giác chưa thực sự thành thạo ngôn ngữ này khiến mình rất khó chịu. Có lẽ 1 năm sau mình sẽ thi thử lần nữa : ))  
-(các bạn có thể xem tại đây http://oxford.edu.vn/goc-tieng-anh/kinh-nghiem-luyen-thi-toefl/nhung-cuon-sach-giup-ban-luyen-thi-toefl-ibt-dat-diem-cao-606.html)
+Sau một tuần là có kết quả trên website của ETS. Vì đã dự đoán trước nên mình không bất ngờ về điểm tổng. Điều làm mình hơi ngạc nhiên là điểm Writing khá thấp ở bài viết số 1 (có 2 bài viết tất cả).
 
-  1. The Official Guide to the New TOEFL iBT
-  2. Delta&#8217;s Key to the Next Generation Toefl Test: Advanced Skill Practice for the Ibt (Delta)
-  3. How to Prepare for the TOEFL iBT (Barron)
-  4. Cracking the TOEFL with Audio CD (Princeton)
-  5. Cambridge Preparation for the TOEFL Test
+Chi tiết về việc đánh giá theo thang điểm thì mình sẽ đăng dưới dạng PDF khi ETS cập nhật trên website. Bản text mình đã có, bạn nào muốn xem thì nhắn tin cho mình.
 
-Trong mấy quyển này thì mình từng đọc được vài trang ở quyển &#8220;The Official Guide to the New TOEFL iBT&#8221; cách đây vài năm, nói chung là rất bổ ích. Các bạn nên mua về làm nhuần nhuyễn thì sẽ thi tốt thôi.
+## 6. Nói thêm về chuyện thất bại
 
-Bài này có lẽ mình sẽ còn cập nhật dài dài để hoàn thiện, cảm ơn các bạn đã theo dõi.
+Nếu chỉ tính chuyện lấy học bổng thì mình dư điểm, nhưng đó không phải điều quan trọng nhất. Mục đích chính của TOEFL iBT là đánh giá khả năng tham gia môi trường học thuật dạy bằng tiếng Anh. Khoảng 100 điểm trở lên là phù hợp hơn cả, và mình chưa làm được. Mình nghĩ có mấy lý do:
 
-**P/S** Mình tính lập cái group để cùng post bài trao đổi kiến thức tiếng Anh, các bạn <a href="https://www.facebook.com/groups/1631244160461360/" target="_blank">đăng ký tại đây nhé</a>
+- Mình **chưa bao giờ thi thử** TOEFL iBT nào, nên hoàn toàn không biết cấu trúc đề. Với đặc thù công việc hiện tại, dù biết trước một tuần mình cũng không thể làm thử bộ đề nào (có lẽ cũng vì thấy trễ quá nên kệ luôn :))).
+- **Kỹ năng làm bài** TOEFL, TOEIC hay các kỳ thi tiếng Anh **rất quan trọng**, và không có gì khác ngoài luyện tập, đặc biệt là Speaking. Mình tin với 2 tháng ôn liên tục thì đạt trên 100 không khó. Đây là một kỳ thi, kiến thức ra đề có giới hạn, và luôn có chiến thuật để đạt điểm cao.
+- **Vốn từ vựng còn yếu.** Những năm xem phim, xem YouTube không đủ để làm giàu từ vựng chuyên ngành (TOEFL iBT có lượng từ vựng học thuật khá lớn).
 
-&nbsp;
+## 7. Kế hoạch
 
- [1]: ../wp-content/uploads/2015/11/t1.png
- [2]: ../wp-content/uploads/2015/11/compareIELTS.png
+Đây là một số sách mình sẽ dành thời gian làm sắp tới. Dù còn nhiều thứ quan trọng hơn chuyện học tiếng Anh (như đi chơi, mua sắm), cảm giác chưa thực sự thành thạo ngôn ngữ này khiến mình khó chịu. Có lẽ một năm sau mình sẽ thi lại :)) Danh sách sách tham khảo thêm trên [Oxford Edu](http://oxford.edu.vn/goc-tieng-anh/kinh-nghiem-luyen-thi-toefl/nhung-cuon-sach-giup-ban-luyen-thi-toefl-ibt-dat-diem-cao-606.html).
+
+1. The Official Guide to the New TOEFL iBT
+2. Delta's Key to the Next Generation TOEFL Test: Advanced Skill Practice for the iBT
+3. How to Prepare for the TOEFL iBT (Barron's)
+4. Cracking the TOEFL with Audio CD (Princeton)
+5. Cambridge Preparation for the TOEFL Test
+
+Trong số này mình từng đọc vài trang của "The Official Guide to the New TOEFL iBT" cách đây vài năm, nói chung rất bổ ích. Các bạn nên mua về làm nhuần nhuyễn thì sẽ thi tốt.
+
+Bài này có lẽ mình sẽ còn cập nhật dài dài, cảm ơn các bạn đã theo dõi.

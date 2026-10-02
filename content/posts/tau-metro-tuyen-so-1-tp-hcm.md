@@ -1,7 +1,6 @@
 ---
 title: Tàu Metro tuyến số 1 TP HCM
-author: admin
-type: post
+description: Vài góp ý về thiết kế tay nắm, ghế ưu tiên và quy hoạch đô thị cho tàu Metro tuyến số 1 TP HCM.
 date: 2015-03-03T07:51:42+00:00
 url: /tau-metro-tuyen-so-1-tp-hcm/
 categories:
@@ -13,22 +12,17 @@ tags:
   - quy hoach
   - tau dien ngam
   - tuyen so 1
-
 ---
-Hình 1 là mô hình Tàu Metro tuyến số 1 của TP HCM, được nhập thiết bị từ Hitachi Nhật Bản.  
-Mình có ý nhỏ cái tay nắm (hành khách đa số phải đứng khi sử dụng) nên làm cái thấp cái cao như hình bên phải (trong tàu điện ngầm của Hàn), mục đích là để người già và trẻ em hoặc những ai chiều cao khiêm tốn có thể nắm lấy dễ dàng.
+Hình 1 là mô hình tàu Metro tuyến số 1 của TP HCM, với thiết bị nhập từ Hitachi (Nhật Bản).
 
+Mình có ý nhỏ về tay nắm (hành khách đa số phải đứng khi đi tàu): nên làm cái thấp cái cao như hình bên phải (tàu điện ngầm ở Hàn), để người già, trẻ em hoặc người có chiều cao khiêm tốn có thể nắm dễ dàng.
 
-![metro-1024x683.jpg](/wp-content/uploads/2015/03/metro-1024x683.jpg)
+![Mô hình tàu Metro tuyến số 1 TP HCM](/wp-content/uploads/2015/03/metro-1024x683.jpg)
 
+Ngoài ra (không biết đã có chưa nhưng hy vọng là có), cần một băng ghế dành riêng cho người già, phụ nữ mang thai và trẻ em. Biết là nhiều bạn sẵn sàng nhường ghế, nhưng thiết kế như vậy vẫn hay hơn, nên học tập các nước phát triển.
 
-Ngoài ra (cái này không biết có không nhưng hi vọng là có), đó là cần 1 băng ghế dành riêng cho người già, phụ nữ mang thai và trẻ em. Biết là nhiều bạn sẵn sàng đứng lên nhường ghế của bản thân, nhưng thiết kế như vậy thì vẫn hay hơn, nên học tập các nước phát triển khác.
+![Nội thất tàu Metro với tay nắm và ghế ngồi](/wp-content/uploads/2015/03/metro2-1024x682.jpg)
 
+Trong tàu điện ngầm nói riêng hay metro nói chung có rất nhiều yếu tố phải quan tâm: từ wifi, bảng thông báo, bản đồ, thậm chí camera. Có lẽ không đáp ứng được hết, nhưng tới đâu hay tới đó.
 
-![metro2-1024x682.jpg](/wp-content/uploads/2015/03/metro2-1024x682.jpg)
-
-
-Trong tàu điện ngầm nói riêng hay &#8220;metro&#8221; nói chung, có rất nhiều yếu tố phải quan tâm: từ wifi, bảng thông báo, bản đồ, thậm chí camera. Có lẽ là không đáp ứng hết nhưng tới đâu hay tới đó.  
-Vấn đề lớn nhất vẫn là cách quy hoạch thành phố lớn như Sài Gòn hay Hà Nội sao cho có thể triển khai thêm nhiều tuyến Metro. Lúc thành công rồi thì sẽ không còn phải lo tới mấy cây cầu &#8220;giải pháp&#8221; như ở Nguyễn Tri Phương &#8211; Thành Thái, Hàng Xanh, &#8230; nữa, dành quỹ đất cho cây xanh để mang lại sức sống cho thành phố &#8211; và cho người dân.
-
- [1]: ../wp-content/uploads/2015/03/metro.jpg
+Vấn đề lớn nhất vẫn là quy hoạch các thành phố lớn như Sài Gòn hay Hà Nội sao cho có thể triển khai thêm nhiều tuyến Metro. Khi thành công, sẽ không còn phải lo tới mấy cây cầu "giải pháp" như ở Nguyễn Tri Phương - Thành Thái, Hàng Xanh... nữa, và quỹ đất được dành cho cây xanh để mang lại sức sống cho thành phố và người dân.

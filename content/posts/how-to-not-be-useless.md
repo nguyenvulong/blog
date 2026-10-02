@@ -1,7 +1,6 @@
 ---
 title: How to not be useless
-author: admin
-type: post
+description: Phân biệt efficiency, effectiveness và efficacy trong công việc và nghiên cứu.
 date: 2015-07-26T15:22:03+00:00
 url: /how-to-not-be-useless/
 categories:
@@ -13,28 +12,20 @@ tags:
   - effectiveness
   - efficacy
   - efficiency
-
 ---
-When you work in a company, you need to be efficient  
-When you research in a laboratory, you need to be effective  
+When you work in a company, you need to be efficient.  
+When you research in a laboratory, you need to be effective.  
 In both cases, efficacy must be achieved.
 
-&#8220;Efficiency is doing things right<span class="text_exposed_show"><br /> Effectiveness is doing the right things&#8221;</span>
+> Efficiency is doing things right.  
+> Effectiveness is doing the right things.
 
-<div class="text_exposed_show">
-  <p>
-    Keep that in mind, and shall you not fail so hard.
-  </p>
-  
-  <p>
-    Read more: <a href="..//effective-efficacious-and-efficient/" target="_blank">..//effective-efficacious-and-efficient/</a>
-  </p>
-</div>
+Keep that in mind, and you shall not fail so hard.
 
-Khi làm việc công ty, thì phải tập trung tới việc tối ưu công việc. Ở công ty mọi thứ thường có tính chất lặp lại, nếu tối ưu được thì sẽ có thời gian để làm chuyện khác (học cái mới & giải trí) => Efficiency
+Read more: [Effective, efficacious and efficient](/effective-efficacious-and-efficient/)
 
-Khi làm việc nghiên cứu, thì phải tập trung tới chiến lược dài hơi hơn, tại nếu sai lầm thì sẽ rất mất thời gian để sửa đổi, thậm chí phải bắt đầu lại từ đầu. Nghiên cứu là để tạo ra cái mới, đạt được kết quả như mong đợi là thứ tối quan trọng, và điều đó chỉ xảy ra khi bạn chọn đúng con đường để đi. => Effectiveness
+- **Efficiency:** Khi làm việc ở công ty, hãy tập trung tối ưu công việc. Mọi thứ ở đó thường lặp lại; tối ưu được thì sẽ có thời gian làm chuyện khác (học cái mới, giải trí).
+- **Effectiveness:** Khi làm nghiên cứu, phải tập trung vào chiến lược dài hơi hơn, vì nếu sai lầm sẽ rất mất thời gian sửa đổi, thậm chí phải bắt đầu lại từ đầu. Nghiên cứu là để tạo ra cái mới, đạt kết quả như mong đợi là tối quan trọng, và điều đó chỉ xảy ra khi bạn chọn đúng con đường.
+- **Efficacy:** Và trong cả 2 trường hợp thì kiểu gì cũng phải xong việc cái đã.
 
-Và trong cả 2 trường hợp thì kiểu quái nào cũng phải xong việc cái đã => Efficacy
-
-If you think I use those 3 words incorrectly, a comment is really welcomed
+If you think I use those 3 words incorrectly, a comment is really welcome.

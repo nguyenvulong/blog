@@ -1,11 +1,8 @@
 ---
 title: fedora 18 sound problem pulseaudio
-author: admin
-type: post
+description: Cách khắc phục lỗi mất âm thanh sau khi cài Fedora 18 KDE bằng cách khởi động lại PulseAudio.
 date: 2013-06-27T16:38:58+00:00
 url: /fedora-18-sound-problem-pulseaudio/
-al2fb_facebook_exclude:
-  - 1
 categories:
   - IT
   - Linux
@@ -15,14 +12,16 @@ tags:
   - pulseaudio
 
 ---
-after installing fedora 18 KDE and have it updated, I got this problem and solved it by workaround :
+> **Update (2026):** Fedora 18 đã hết hỗ trợ từ lâu. Các bản Fedora hiện đại dùng PipeWire thay cho PulseAudio; nếu mất âm thanh, thử `systemctl --user restart pipewire pipewire-pulse wireplumber`.
 
-open command line interface and type :
+After installing Fedora 18 KDE and updating it, I got a sound problem and solved it with this workaround. Open a terminal and run:
 
-pulseaudio -k #to kill the process
+```bash
+# kill the running PulseAudio process
+pulseaudio -k
 
-nohup pulseaudio -vv & > /dev/null # run it again and even you disconnect from the terminal, it still running
+# start it again; nohup keeps it running even if you close the terminal
+nohup pulseaudio -vv > /dev/null 2>&1 &
+```
 
-&nbsp;
-
-well, I have no idea why the reboot didn&#8217;t kill it (or may be it has been respawned after reboot), but anyway it worked and hope it helps : P
+I have no idea why a reboot didn't fix it (maybe PulseAudio was respawned in the same broken state after boot), but anyway it worked. Hope it helps :P

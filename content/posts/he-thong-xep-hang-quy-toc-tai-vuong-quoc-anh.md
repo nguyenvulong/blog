@@ -1,7 +1,6 @@
 ---
 title: Hệ thống xếp hạng quý tộc tại Vương Quốc Anh
-author: admin
-type: post
+description: Tóm tắt thứ bậc quý tộc (Peerage) của Vương quốc Anh kèm cách gọi tiếng Việt và cấu trúc địa lý của UK.
 date: 2014-11-07T15:29:14+00:00
 url: /he-thong-xep-hang-quy-toc-tai-vuong-quoc-anh/
 categories:
@@ -21,28 +20,24 @@ tags:
   - uk
   - united kingdom
   - wales
-
 ---
-This is what we call the &#8220;Peerage&#8221;: http://en.wikipedia.org/wiki/Peerage
+Hệ thống này gọi là [Peerage](https://en.wikipedia.org/wiki/Peerage). Thứ bậc quý tộc tại Vương Quốc Anh (United Kingdom), từ trên xuống dưới (quyền lực giảm dần):
 
-Xếp hạng quý tộc tại Vương Quốc Anh (United Kingdom):
+| Nam | Nữ |
+|---|---|
+| Duke (Công Tước) | Duchess (Nữ Công Tước) |
+| Marquess (Hầu Tước) | Marchioness (Nữ Hầu Tước) |
+| Earl (Bá Tước) | Countess (Nữ Bá Tước) |
+| Viscount (Tử Tước) | Viscountess (Nữ Tử Tước) |
+| Baron (Nam Tước) | Baroness (Nữ Nam Tước) |
 
-Duke &#8211; Duchess: Công Tước &#8211; Nữ Công Tước  
-Marquess &#8211; Marchioness: Hầu Tước &#8211; Nữ Hầu Tước  
-Earl &#8211; Countess: Bá Tước &#8211; Nữ Bá Tước  
-Viscount &#8211; Viscountess: Tử Tước &#8211; Nữ Tử Tước  
-Baron &#8211; Baroness: Nam Tước &#8211; Nữ Nam Tước
+Ngoài ra còn có Baronet, người có chức vị và được gọi là "Sir" kèm tên, và Knight/Dame (Kỵ sĩ nam/nữ). Cả hai đều không thuộc thành phần quý tộc.
 
-Từ trên xuống dưới, quyền lực giảm dần.
+**Thông tin thêm**
 
-Ngoài ra còn có Baronet cũng là người có chức vị và có quyền được tước hiệu là  &#8220;Ngài&#8221; khi gọi kèm tên, đồng thời Knight/Dame: Kỵ sĩ (nam, nữ) cũng không thuộc thành phần quý tộc.
+- Vương Quốc Anh (United Kingdom) gồm Bắc Ireland + Great Britain.
+- Great Britain gồm Scotland + England + xứ Wales.
 
-Thông tin thêm:  
-Vương Quốc Anh (United Kingdom) bao gồm Bắc Ireland + Great Britain  
-Great Britain bao gồm Scotland + England + xứ Wales
+Hình từ Wikipedia:
 
-Image from Wikipedia:
-
-
-![300px-British_Isles_Euler_diagram_15.svg.png](http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Isles_Euler_diagram_15.svg/300px-British_Isles_Euler_diagram_15.svg.png)
-
+![Biểu đồ Euler về quần đảo Anh](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Isles_Euler_diagram_15.svg/300px-British_Isles_Euler_diagram_15.svg.png)

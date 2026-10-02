@@ -1,7 +1,6 @@
 ---
 title: The use of statements
-author: admin
-type: post
+description: Bốn loại câu trong tiếng Anh và các chức năng giao tiếp của câu khẳng định, kể cả performative verbs.
 date: 2012-10-14T15:51:53+00:00
 url: /the-use-of-statements/
 categories:
@@ -16,72 +15,51 @@ tags:
   - word use
 
 ---
-<span style="color: #800000;"><strong>A. Có 4 loại câu :</strong></span>
+## A. Bốn loại câu
 
-Câu khẳng định (statement) : đưa ra thông tin
+- Câu khẳng định (statement): đưa ra thông tin. *You took a photo.*
+- Câu hỏi (question): hỏi thông tin. *Did you take a photo?*
+- Câu cầu khiến (imperative): yêu cầu, sai bảo, ra lệnh. *Take a photo.*
+- Câu cảm thán (exclamation): biểu lộ cảm xúc. *What a nice photo!*
 
-_You took a photo_
+## B. Một loại câu có thể mang ý nghĩa của loại khác
 
-Câu hỏi (question) : hỏi thông tin
+Câu khẳng định có thể dùng để hỏi thông tin:
 
-_Did you take a photo?_
+- *I want to hear all your latest news.*
 
-Cầu khiến (imperative) : yêu cầu, sai bảo, ra lệnh
+Câu hỏi có thể mang ý nghĩa cầu khiến:
 
-_Take a photo._
+- *Could you close the window, please?*
 
-Cảm thán (exclamation) : biểu lộ cảm xúc
+## C. Chức năng giao tiếp (communicative functions) của câu khẳng định
 
-_What a nice photo !_
+- Đề nghị làm gì đó: *I can carry that for you.*
+- Cảm ơn: *I'm very grateful.*
+- Ra lệnh: *I'd like you to check these figures.*
 
-<span style="color: #800000;"><strong>B. Ngoài những mục đích sử dụng trên, một số loại câu có thể dùng với ý nghĩa khác </strong></span>
+## D. Performative verbs
 
-Ví dụ như một câu khẳng định có thể mang ý nghĩa hỏi thông tin :
+Một số động từ ở hiện tại đơn (present simple) tự diễn đạt hành động của câu khẳng định, gọi là *performative verbs*:
 
-_I want to hear all your latest news._
+*admit, advise, agree, apologize, guarantee, insist, object, predict, promise, protest, refuse, suggest, warn*
 
-Hay một câu hỏi có thể mang ý nghĩa cầu khiến :
+- *It was my fault. I **apologize**.* (Chính từ *apologize* làm câu này mang nghĩa xin lỗi.)
+- *I **promise** to behave myself.*
+- *I **predict** a close game.*
+- *I **suggest** we all meet later.*
 
-_Could you close the window, please?_
+Các performative verbs mang nghĩa nhấn mạnh và trang trọng hơn:
 
-__**<span style="color: #800000;">C. Có rất nhiều cách sử dụng (communicative functions) của câu khẳng định :</span>**
+- I promise to behave > I'll behave
+- I apologize > I'm sorry
 
-Đề nghị làm gì đó : _I can carry that for you_
+## E. Modal verb đứng trước performative verb
 
-Cảm ơn ai đó : _I&#8217;m very grateful_
+Modal verb (động từ khuyết thiếu) gọi vậy vì nó không đi cùng **to**.
 
-Ra lệnh : I&#8217;d like you to check these figures.
+- *I'**d advise** you to shred the documents.*
+- *I **must insist** we keep to the rules.*
+- *I **can guarantee** you'll enjoy yourself.*
 
-<span style="color: #800000;"><strong>D. Một số động từ ở hiện tại (present simple) đơn diễn tả cách dùng của câu khẳng định &#8211; các động từ này gọi là &#8220;performative verbs&#8221;.</strong></span>
-
-Đó là : Admit, advise, agree, apologize, guarantee, insist, object, predict, promise, protest, refuse, suggest, warn .
-
-EG :
-
-_It was my fault . I **apologize** ._ (từ **apologize** diễn đạt ý của câu này, câu này mang ý nghĩa **xin lỗi**)
-
-_I **promise** to behave myself._
-
-_I **predict** a close game._
-
-_I **suggest** we all meet later_
-
-Những &#8220;perfomative verbs&#8221; này mang nghĩa nhấn mạnh & trang trọng hơn :
-
-I promise to behave **>** I&#8217;ll behave
-
-I apologize **>** I&#8217;m sorry
-
-**<span style="color: #800000;">E. Đôi khi, chúng ta sử dụng <em>modal verb trước performative</em> verb </span>**<span style="color: #000000;">(có nơi gọi là động từ khuyết thiếu vì nó không thể đi cùng <strong>TO</strong>)</span>
-
-_I&#8217;**d advise** you to shred the documents._
-
-_I **must** **insist** we keep to the rules._
-
-_I **can** **guarantee** you&#8217;ll enjoy yourself._
-
-> Việc nắm bắt được một câu khẳng định (statement) được dùng với mục đích như thế nào là điều rất quan trọng. Tức là các bạn cần hiểu được ý nghĩa của loại câu này :
-> 
-> Ví dụ như &#8220;I am going to&#8221; **biểu thị** một **dự định**; &#8220;I think you should &#8230;&#8221; là một lời khuyên ; &#8220;If only&#8230;&#8221; thể hiện một điều mong muốn (Nghe thử bài Soledad &#8211; Westlife nhé !)
-
-&nbsp;
+> Điều quan trọng là nhận ra câu khẳng định được dùng với mục đích gì. Ví dụ: "I am going to" biểu thị một **dự định**; "I think you should ..." là một lời **khuyên**; "If only ..." thể hiện một **mong muốn** (nghe thử bài *Soledad* của Westlife nhé!).

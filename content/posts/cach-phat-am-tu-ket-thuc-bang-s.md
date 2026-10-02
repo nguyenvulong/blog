@@ -1,7 +1,6 @@
 ---
 title: Cách phát âm từ kết thúc bằng S
-author: admin
-type: post
+description: Cách xác định đuôi -s đọc là /s/, /z/ hay /iz/ dựa vào âm kết thúc của từ chứ không phải chữ cái cuối.
 date: 2017-02-25T17:29:01+00:00
 url: /cach-phat-am-tu-ket-thuc-bang-s/
 categories:
@@ -9,27 +8,18 @@ categories:
   - Tips
 
 ---
-&nbsp;
+Phát âm từ kết thúc bằng "s" là một chủ đề khá khó, khó hơn cả phát âm -ed.
 
-Cách phát âm từ kết thúc bằng &#8216;s&#8217;  
-Đây là 1 chủ đề khá khó trong việc phát âm tiếng Anh, khó hơn việc phát âm -ed.  
-Kinh nghiệm của mình (do lười), thì trừ âm /iz/ như &#8220;dishes&#8221;, &#8220;teaches&#8221;, etc. thì /s/ hay /z/ mình phát âm bằng cách &#8220;xì&#8221; ra khá nhẹ vì chính người bản xứ cũng cảm thấy khó phân biệt.
+Kinh nghiệm của mình (do lười): trừ âm /iz/ như "dishes", "teaches", còn /s/ hay /z/ thì mình chỉ "xì" ra khá nhẹ, vì chính người bản xứ cũng khó phân biệt.
 
-Để có thể đọc chuẩn xác, các bạn không dựa vào chữ cái kết thúc của từ, mà phải dựa vào &#8220;ÂM KẾT THÚC&#8221;, hãy nhìn vào hình minh họa, chính âm kết thúc mới là thứ tạo nên cách đọc &#8216;s&#8217; hay &#8216;z&#8217;.  
-Học thuộc không phải là cách đúng, mà bạn phải luyện tập nhiều để thành phản xạ tự nhiên.
+Để đọc chuẩn, đừng dựa vào _chữ cái_ cuối của từ mà hãy dựa vào **âm kết thúc**. Xem hình minh họa bên dưới: chính âm kết thúc quyết định đuôi 's' đọc là /s/ hay /z/. Học thuộc không phải cách đúng; bạn cần luyện nhiều để thành phản xạ tự nhiên.
 
+![Bảng minh họa cách đọc đuôi -s theo âm kết thúc của từ](/wp-content/uploads/2017/02/S_1.jpg)
 
-![S_1.jpg](/wp-content/uploads/2017/02/S_1.jpg)
+Ví dụ: âm kết thúc của "love" là /v/ (chữ cái cuối là "e"). Vì âm kết thúc là /v/ nên 's' ở đây đọc thành /z/.
 
-Ví dụ: âm kết thúc của &#8220;LOVE&#8221; là âm &#8220;V&#8221;, còn chữ kết thúc là chữ &#8220;E&#8221;  
-Và vì âm kết thúc là &#8220;V&#8221;, nên &#8216;s&#8217; ở đây chuyển thành &#8216;z&#8217;.
+Tham khảo thêm:
 
-Tham khảo thêm tại đây:
-
-1. https://www.youtube.com/watch?v=BU6FoC9Rzyg  
-2. https://www.youtube.com/watch?v=GUpQOmkSRUo
-
-Bonus:  
-3. https://www.youtube.com/watch?v=IOfEQjlKH64
-
- [1]: ../wp-content/uploads/2017/02/S_1.jpg
+1. <https://www.youtube.com/watch?v=BU6FoC9Rzyg>
+2. <https://www.youtube.com/watch?v=GUpQOmkSRUo>
+3. Bonus: <https://www.youtube.com/watch?v=IOfEQjlKH64>

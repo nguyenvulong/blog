@@ -1,7 +1,6 @@
 ---
 title: Apple và sản phẩm liên quan
-author: admin
-type: post
+description: Ghi chú nhanh về cổng sạc iPad, kiểm tra hàng chính hãng, phụ kiện MFi, AppleCare+ và cách xử lý lỗi cài lại macOS.
 date: 2020-09-26T05:02:09+00:00
 url: /apple-va-san-pham-lien-quan/
 categories:
@@ -13,25 +12,19 @@ tags:
   - sạc apple
 
 ---
-iPad Air 4 năm 2020 sẽ theo bước Macbook (từ 2016) để sử dụng cáp sạc cổng USB-C
+> **Cập nhật (2026):** Các thông tin về dòng iPad ở dưới là của năm 2020. Các liên kết hỗ trợ của Apple có thể đã đổi địa chỉ.
 
-trong khi đó mặt hàng bình dân hơn là The New iPad 2020 thì vẫn dùng cổng Lightning.
+iPad Air 4 (2020) sẽ theo bước MacBook (từ 2016) để dùng cổng sạc USB-C, trong khi mẫu bình dân hơn là iPad (thế hệ 8, 2020) vẫn dùng cổng Lightning.
 
+## Liên kết hữu ích
 
+- Kiểm tra sản phẩm chính hãng Apple: <https://support.apple.com/en-us/HT204566>
+- Tra cứu phụ kiện được chứng nhận MFi (tương thích với sản phẩm Apple): <https://mfi.apple.com/account/accessory-search>
+- Mua AppleCare+: <https://mysupport.apple.com/add-coverage/producttypes>
+- Hard reset (force restart) iPhone: <https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios>
 
-Kiểm tra sản phẩm chính hãng Apple[: https://support.apple.com/en-us/HT204566][1]
+## Lỗi khi cài lại macOS
 
-Tra cứu danh mục các phụ kiện đượ chứng nhận MFi (tương thích với sản phẩm của Apple): <s> <https://mfi.apple.com/MFiWeb/getAPS> </s><a href="https://mfi.apple.com/account/accessory-search" target="_blank" rel="noreferrer noopener">https://mfi.apple.com/account/accessory-search</a>
+Cài lại macOS đôi khi dính lỗi ["El Capitan" installer loop: "no packages were eligible for install"](https://apple.stackexchange.com/questions/394259/mac-stuck-in-el-capitan-installer-loop-no-packages-were-eligible-for-install).
 
-Mua AppleCare+ <a rel="noreferrer noopener" href="https://mysupport.apple.com/add-coverage/producttypes" target="_blank">https://mysupport.apple.com/add-coverage/producttypes</a>
-
-Hard Reset (Force reset): https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios 
-
-
-
-Cài lại MacOS đôi khi sẽ dính lỗi này: [“El Capitan” installer loop: “no packages were eligible for install”][2]
-
-cách xử lý là bật Terminal lên, &#8220;date 0615123417&#8221; để chỉnh ngày về 2017, tháng 6. Như thế các gói phần mềm sẽ được xác thực (valid) &#8211; khởi động lại máy và tiếp tục quá trình cài đặt.
-
- [1]: https://support.apple.com/en-us/HT204566
- [2]: https://apple.stackexchange.com/questions/394259/mac-stuck-in-el-capitan-installer-loop-no-packages-were-eligible-for-install
+Cách xử lý: mở Terminal và gõ `date 0615123417` để chỉnh ngày về tháng 6 năm 2017. Như thế các gói phần mềm sẽ được xác thực (valid). Khởi động lại máy và tiếp tục quá trình cài đặt.

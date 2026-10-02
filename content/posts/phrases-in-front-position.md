@@ -1,7 +1,6 @@
 ---
 title: Phrases in front position
-author: admin
-type: post
+description: Khi nào một cụm từ khác (adverbial, object, complement) đứng trước chủ ngữ, và khi nào xảy ra đảo ngữ.
 date: 2012-11-03T18:08:25+00:00
 url: /phrases-in-front-position/
 categories:
@@ -16,86 +15,73 @@ tags:
   - vi tri adverbial
 
 ---
-Như chúng ta đã biết chủ ngữ (subject) thì **thường **hay đứng ở đầu câu :
+Như chúng ta đã biết, chủ ngữ (subject) **thường** đứng ở đầu câu:
 
-Zí zụ : **you** are so beautiful :x (that&#8217;s true, believe me ^^ )
+*You are so beautiful.* (that's true, believe me ^^)
 
-Nhưng mà đôi khi có thể một cụm từ khác lại đứng trước cả chủ ngữ, ta nói cụm từ đó (phrase) chiếm ưu thế hơn (more prominent)
+Nhưng đôi khi một cụm từ khác (phrase) đứng trước cả chủ ngữ. Khi đó ta nói cụm từ ấy được nhấn mạnh hơn (more prominent).
 
-<span style="color: #800000;"><strong>A. Adverbial in front position:</strong></span>
+## A. Adverbial in front position
 
-Nhắc lại 1 chút là adverbial thì có thể một từ đơn hay cụm từ, nó bao hàm adverb &#8211; chỉ có một từ đơn bổ nghĩa cho tính từ, động từ mà thôi.
+Nhắc lại một chút: adverbial có thể là một từ đơn hoặc một cụm từ, còn adverb chỉ là một từ đơn bổ nghĩa cho tính từ, động từ.
 
-Khi adverbial đứng đầu câu :
+Ví dụ khi adverbial đứng đầu câu:
 
-_Adam hasn&#8217;t come. **Maybe** he&#8217;s forgotten._
+- *Adam hasn't come. **Maybe** he's forgotten.*
+- *I didn't lock the car. **Luckily** it's still there.*
 
-_I didn&#8217;t lock the car. **Luckily** it&#8217;s still there_
+Các trạng từ chỉ thời gian (adverbials of time) đứng đầu câu thường dùng để chỉ ra một chuỗi các sự kiện:
 
-Các trạng từ về thời gian (adverbials of time) đứng ở đầu câu sẽ thường có tác dụng chỉ ra 1  chuỗi các sự kiện :
+*__First__ you mix the sand and the cement, and **then** you add water.* (Đầu tiên bạn trộn cát với xi măng, sau đó thêm nước vào.)
 
-_**First** you mix the sand and the cement, and **then** you add water._
+Trạng từ chỉ cách thức (manner) đứng đầu câu thường làm câu văn thêm văn vẻ:
 
-Đầu tiên bạn trộn các với lại xi-măng, sau đó thì thêm nước vào .
+*__Slowly__ the sun sank into the Pacific.* (Mặt trời từ từ lặn xuống Thái Bình Dương, rất lãng mạn.)
 
-Trạng từ chỉ điệu bộ (manner) khi đứng ở đầu câu thường được dùng cho câu chữ nó văn vẻ 1 tý:
+## B. Inversion after an adverbial
 
-_**Slowly** the sun sank into the Pacific_
+Sau adverbial ở đầu câu, đôi khi có đảo ngữ giữa chủ ngữ và động từ:
 
-(Mặt trời nặng nề lặn xuống Thái Bình Dương &#8230; rất lãng mạn : x)
+- ***Outside the house** was a large van.*
+- ***On the table** lay a newspaper.*
 
-<span style="color: #800000;"><strong>B. Inversion after an adverbial : </strong></span>
+Hai câu trên đảo vị trí subject và verb. Điều này xảy ra với các động từ chỉ địa điểm và chuyển động: sit, stand, lie, be, become, go...
 
-Ta nói về sự đảo ngữ sau khi dùng trạng từ ở đầu câu
+Nếu có hai động từ (một trợ động từ và một động từ chính) thì **không** đảo ngữ:
 
-_**Outside the house** <span style="text-decoration: underline;">was a large van</span>_
+*Outside two men were talking.* (không phải ~~Outside were talking two men~~)
 
-_**On the table**_ <span style="text-decoration: underline;">lay a newspaper</span>
+## C. Inversion after here/there
 
-2 câu trên có sự đảo ngữ của Subject & verb.
+Đưa *here/there* lên đầu câu và đảo ngữ nhằm thu hút sự chú ý của người nghe vào một điều gì đó (draw attention to something):
 
-Điều này xảy ra với các động từ liên quan tới địa điểm và di chuyển : sit, stand, lie, be, become, go ..
+- ***Here** is an announcement.*
+- ***There** goes the bus, look.*
 
-Nếu có 2 động từ thì chúng **không** đảo chỗ cho chủ ngữ  :
+Mẫu câu này dùng các động từ ở thì hiện tại đơn: go, be, come.
 
-_**Outside** two men were talking_
+Sẽ **không** đảo ngữ nếu chủ ngữ là **đại từ** (pronoun):
 
-chứ không phải  <del>Outside were talking two men</del>
+- *Where's my bag? **Here it is.*** (không phải *here is it*, vì *it* là đại từ)
+- *The kids are back. **Here they come.*** (Chúng nó đây rồi, *they* là đại từ)
 
-<span style="color: #800000;"><strong>C. Inversion after here/there :</strong></span>
+## D. Object and complement
 
-Mục đích của việc đưa here/there lên đầu  câu và thực hiện đảo ngữ đó là để lôi kéo sự chú ý của người nghe đến thứ gì đó (draw attention to something) :
+Complement (đọc là KOM-pli-ment, bổ ngữ) khá khó hiểu; các bạn cứ tạm coi nó là thành phần bổ sung nghĩa cho câu, có thể là tính từ hay danh từ. Ví dụ *The money keeps him happy* (tiền làm anh ta vui), tính từ "happy" chính là complement.
 
-_**Here** is an announcement_
+Ta có thể đưa object hay complement lên đầu câu để nhấn mạnh và liên kết với câu trước đó:
 
-_**There** goes the bus, look_
+*Do you prefer cats or dogs?*
+*— **Dogs** I love, but **cats** I can't stand.* (chó, mèo liên quan tới câu **hỏi** phía trước)
 
-Chúng ta dùng các verb ở hiện tại đơn cho mẫu câu này : go, be,  come.
+Lưu ý: trong bài thi TOEIC, dạng câu này là câu bẫy, bắt đầu bằng *do you* nhưng **không phải** là câu hỏi yes/no. Sau này mình sẽ có bài riêng về vấn đề này.
 
-Sẽ không có sự đảo ngữ NẾU chủ ngữ là một **đại từ** (pronoun) :
+*The scheme has many good points. **One advantage** is the low cost.*
 
-_Where&#8217;s my bad? **Here it is**_ (chứ không phải here is it, vì it là pronoun)
+**One advantage** liên kết về nghĩa với **many good points**.
 
-_The kids are back. **Here they come**_ (chúng nó đây rồi &#8211; they : pronoun)
-
-<span style="color: #800000;"><strong>D. Object and complement </strong></span>
-
-Túc từ (complement &#8211; đọc là KOM-pli-ment &#8211; cái này khá khó hiểu, các bạn cứ tạm coi túc từ là một kiểu từ chuyên bổ sung nghĩa cho câu, nó có thể là tính từ hay danh từ cũng được : ví dụ như The money keeps him happy &#8211; tiền làm cho anh ta vui, thì adjective &#8220;happy&#8221; chính là túc từ .)
-
-Chúng ta có thể đưa đối tượng (object) hay túc từ lên đầu câu để nhấn mạnh, và liên kết với câu trước đó :
-
-_Do you prefer cats or dogs? _
-
-_&#8211; **Dogs** I love, but **cats** I can&#8217;t stand_ (chó mèo nó liên quan tới câu **hỏi** phía trước)
-
-*Các bạn để ý : khi thi TOEIC dạng câu này là câu bẫy, bắt đầu với **do you **nhưng **không phải là yes/no question .** Sau này mình sẽ có topic về vấn đề này .
-
-_The scheme has many good points. **One advantage** is the low cost._
-
-**One advantage** liên kết nghĩa với **many good points.**
-
-> Không có luật lệ nào ràng buộc từ ngữ đứng ở đầu câu, bạn hoàn toàn có thể nói :
-> 
-> I love dogs, but I can&#8217;t stand cats.
-> 
-> Tùy từ để nhấn mạnh và các nói của bạn.
+> Không có luật lệ nào ràng buộc từ ngữ đứng ở đầu câu, bạn hoàn toàn có thể nói:
+>
+> *I love dogs, but I can't stand cats.*
+>
+> Tùy từ nào bạn muốn nhấn mạnh và cách nói của bạn.

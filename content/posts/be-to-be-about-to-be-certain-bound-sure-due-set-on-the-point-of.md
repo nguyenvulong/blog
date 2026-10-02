@@ -1,19 +1,8 @@
 ---
 title: Be to, be about to, etc
-author: admin
-type: post
+description: Các cấu trúc diễn tả tương lai gần và sự sắp đặt: be to, be about to, be due to, be set to, be bound/sure/certain to.
 date: 2013-06-30T14:57:48+00:00
 url: /be-to-be-about-to-be-certain-bound-sure-due-set-on-the-point-of/
-al2fb_facebook_link_id:
-  - 100423586784297_192215887605066
-al2fb_facebook_link_time:
-  - 2013-06-30T14: 57:52+00:00
-al2fb_facebook_link_picture:
-  - post=..//?al2fb_image=1
-wpdiscuz_post_rating:
-  - 3
-wpdiscuz_post_rating_count:
-  - 2
 categories:
   - English
   - Grammar Dictionary
@@ -33,56 +22,36 @@ tags:
   - was to
 
 ---
-<span style="color: #800000;"><strong>A. Be to được dùng với 2 nghĩa</strong></span>
+## A. Be to có hai nghĩa
 
-**Diễn tả sự sắp đặt (an arrangement) : **
+**Diễn tả sự sắp đặt (an arrangement):**
 
-_The Prime Minister **is to visit** Rome_
+- _The Prime Minister **is to visit** Rome._
+- _The two companies **are to merge** shortly._
 
-_The two companies **are to merge** shortly_
+Trong tiêu đề báo, "be" thường được lược bỏ: _Prime Minister **to visit** Rome_.
 
-Ở lời tựa, cấu trúc này được lược bỏ  &#8220;be&#8221; đi như sau :
+**Mệnh lệnh:**
 
-_Prime Minister **to visit** Rome_ (ví dụ tựa bài báo chẳng hạn)
+- _The teacher says we **are to wait** here._
+- _No one **is to leave** this building._
 
-**Mệnh lệnh : **
+## B. Be about to và be on the point of
 
-_The teacher says we **are to** **wait** here_
+Hai cấu trúc này có nghĩa giống nhau, diễn tả tương lai rất gần:
 
-_No one **is to leave** this building_
+- _The performance **is about to start**._
+- _I'**m on the point of** quitting my job._
 
-<span style="color: #800000;"><strong>B. Be about to and be on the point of</strong></span>
+Nếu muốn nhấn mạnh là _rất_ gần, thêm **just**: _The train **is just about to leave**_ hoặc _The train **is just going to leave**_ (cấu trúc be going to).
 
-2 cấu trúc này có ý nghĩa giống nhau, dùng để diễn tả tương lai gần :
+Chú ý: các cấu trúc này **không đi với mốc thời gian cụ thể**, vì bản thân chúng đã mang nghĩa ước chừng về thời gian:
 
-_The performance **is about to start**_
+- _We're about to leave_ ~~in ten minutes~~
 
-_I**&#8216;m on the point of** quitting **my job**_
+## C. Các cấu trúc khác
 
-Nếu tương lai **rất gần : **chúng ta dùng thêm just :
-
-_The train **is just about to leave** hoặc the train **is just going to leave**_ (cấu trúc be going to)
-
-Chú ý những cấu trúc này **không đi với thời gian : **
-
-_We&#8217;re about to leave <del>in ten minutes</del>_
-
-các bạn có thể nhận xét, những cách dùng này để mang tính ước chừng về thời gian mà thôi .
-
-<span style="color: #800000;"><strong>C. Các cấu trúc khác :</strong></span>
-
-Be due to : nói về 1 sự kiện xảy ra kèm thời gian trong tương lai gần
-
-_The train **is due to leave at 5AM**_
-
-Be set to : nói về những thứ sắp xảy ra theo dự kiến
-
-_Prices are set **to rise once more**_
-
-Be bound/sure/certain to :  khẳng định điều sẽ xảy ra trong tương lai
-
-_The president **is certain to resign**_
-
-Was to/ was about to &#8230; nói về quá khứ và việc xảy ra ngay sau đó (trong quá khứ)
-
-_I **saw** the train **was about to leave**_
+- **Be due to**: sự kiện xảy ra theo lịch, trong tương lai gần. _The train **is due to leave** at 5 AM._
+- **Be set to**: sắp xảy ra theo dự kiến. _Prices are set **to rise** once more._
+- **Be bound/sure/certain to**: khẳng định điều sẽ xảy ra. _The president **is certain to resign**._
+- **Was to / was about to**: nói về quá khứ và việc xảy ra ngay sau đó. _I saw the train **was about to leave**._
