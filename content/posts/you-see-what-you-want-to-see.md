@@ -1,6 +1,6 @@
 ---
 title: You see what you want to see
-description: Quảng cáo kem đánh răng Colgate với thông điệp: thức ăn dính trên răng gây chú ý hơn cả những điều bất thường trên cơ thể.
+description: "Quảng cáo kem đánh răng Colgate với thông điệp: thức ăn dính trên răng gây chú ý hơn cả những điều bất thường trên cơ thể."
 date: 2014-05-25T14:48:53+00:00
 url: /you-see-what-you-want-to-see/
 categories:

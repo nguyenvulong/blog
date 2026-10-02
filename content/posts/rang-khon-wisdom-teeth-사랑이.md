@@ -1,6 +1,6 @@
 ---
 title: Răng Khôn – Wisdom Teeth – 사랑이
-description: Vài điều thú vị về răng khôn: tên gọi trong tiếng Anh, tiếng Hàn và lời khuyên sau khi nhổ răng.
+description: "Vài điều thú vị về răng khôn: tên gọi trong tiếng Anh, tiếng Hàn và lời khuyên sau khi nhổ răng."
 date: 2017-09-27T06:26:50+00:00
 url: /rang-khon-wisdom-teeth-사랑이/
 categories:

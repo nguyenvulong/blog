@@ -1,6 +1,6 @@
 ---
 title: Will and shall
-description: Cách dùng will và shall trong thì tương lai đơn: dự đoán, quyết định tức thời, lời hứa, lời đề nghị.
+description: "Cách dùng will và shall trong thì tương lai đơn: dự đoán, quyết định tức thời, lời hứa, lời đề nghị."
 date: 2012-12-15T12:56:11+00:00
 url: /will-and-shall-thi-tuong-lai-don-future-simple-tense/
 categories:

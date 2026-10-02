@@ -1,6 +1,6 @@
 ---
 title: Questions
-description: Các loại câu hỏi trong tiếng Anh: yes/no, wh-, đảo ngữ với trợ động từ, câu hỏi thân mật và câu hỏi gián tiếp.
+description: "Các loại câu hỏi trong tiếng Anh: yes/no, wh-, đảo ngữ với trợ động từ, câu hỏi thân mật và câu hỏi gián tiếp."
 date: 2012-10-20T04:52:55+00:00
 url: /questions/
 categories:

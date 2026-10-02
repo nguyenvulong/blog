@@ -1,6 +1,6 @@
 ---
 title: DigitalOcean VPS Review
-description: Đánh giá DigitalOcean năm 2013: VPS giá rẻ, tạo server trong vài chục giây, tính tiền theo giờ.
+description: "Đánh giá DigitalOcean năm 2013: VPS giá rẻ, tạo server trong vài chục giây, tính tiền theo giờ."
 date: 2013-05-26T03:07:57+00:00
 url: /digitalocean-vps-review/
 categories:

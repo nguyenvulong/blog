@@ -1,6 +1,6 @@
 ---
 title: Be to, be about to, etc
-description: Các cấu trúc diễn tả tương lai gần và sự sắp đặt: be to, be about to, be due to, be set to, be bound/sure/certain to.
+description: "Các cấu trúc diễn tả tương lai gần và sự sắp đặt: be to, be about to, be due to, be set to, be bound/sure/certain to."
 date: 2013-06-30T14:57:48+00:00
 url: /be-to-be-about-to-be-certain-bound-sure-due-set-on-the-point-of/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Past simple and present perfect: time phrases'
-description: Các từ chỉ thời gian đi với quá khứ đơn và hiện tại hoàn thành: just, already, ever, this week, for, since.
+description: "Các từ chỉ thời gian đi với quá khứ đơn và hiện tại hoàn thành: just, already, ever, this week, for, since."
 date: 2012-11-18T17:01:17+00:00
 url: /past-simple-present-perfect-time-phrases-thoi-gian/
 categories:

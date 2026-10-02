@@ -1,6 +1,6 @@
 ---
 title: Một số lưu ý khi cứu hộ Windows
-description: Vài lưu ý khi mua máy cũ và cứu hộ Windows: BitLocker, USB boot đa năng, GParted và chuẩn UEFI/MBR.
+description: "Vài lưu ý khi mua máy cũ và cứu hộ Windows: BitLocker, USB boot đa năng, GParted và chuẩn UEFI/MBR."
 date: 2020-09-04T06:06:20+00:00
 url: /mot-so-luu-y-khi-cuu-ho-windows/
 categories:

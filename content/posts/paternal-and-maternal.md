@@ -1,6 +1,6 @@
 ---
 title: Paternal and Maternal
-description: Từ tiếng Anh để phân biệt ông bà nội và ông bà ngoại: paternal và maternal.
+description: "Từ tiếng Anh để phân biệt ông bà nội và ông bà ngoại: paternal và maternal."
 date: 2015-02-06T03:13:28+00:00
 url: /paternal-and-maternal/
 categories:

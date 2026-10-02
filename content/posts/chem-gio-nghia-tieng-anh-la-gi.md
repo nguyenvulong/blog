@@ -1,6 +1,6 @@
 ---
 title: Chém gió nghĩa tiếng Anh là gì
-description: "Chém gió" trong tiếng Anh là "shoot the breeze", theo từ điển Cambridge.
+description: "\"Chém gió\" trong tiếng Anh là \"shoot the breeze\", theo từ điển Cambridge."
 date: 2014-10-01T14:38:46+00:00
 url: /chem-gio-nghia-tieng-anh-la-gi/
 categories:

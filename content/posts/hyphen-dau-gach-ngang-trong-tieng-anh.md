@@ -1,6 +1,6 @@
 ---
 title: 'Hyphen – Dấu gạch ngang trong Tiếng Anh'
-description: Cách dùng dấu gạch ngang (hyphen) trong tiếng Anh: giữa các từ ghép, sau tiền tố và khi ngắt từ.
+description: "Cách dùng dấu gạch ngang (hyphen) trong tiếng Anh: giữa các từ ghép, sau tiền tố và khi ngắt từ."
 date: 2013-01-04T04:42:31+00:00
 url: /hyphen-dau-gach-ngang-trong-tieng-anh/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Dump on someone, Give one the cold shoulder
-description: Hai thành ngữ tiếng Anh về thái độ với người khác: chỉ trích gay gắt và đối xử lạnh nhạt.
+description: "Hai thành ngữ tiếng Anh về thái độ với người khác: chỉ trích gay gắt và đối xử lạnh nhạt."
 date: 2013-01-20T04:05:32+00:00
 url: /dump-on-someone-give-one-the-cold-shoulder/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Answering questions
-description: Cách trả lời các câu hỏi thường gặp trong tiếng Anh: khi nào dùng câu ngắn, yes/no, và khi nào cần thêm thông tin.
+description: "Cách trả lời các câu hỏi thường gặp trong tiếng Anh: khi nào dùng câu ngắn, yes/no, và khi nào cần thêm thông tin."
 date: 2012-10-23T17:53:28+00:00
 url: /answering-questions-tra-loi-cau-hoi/
 categories:

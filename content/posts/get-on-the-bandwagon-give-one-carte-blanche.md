@@ -1,6 +1,6 @@
 ---
 title: Get on the bandwagon, Give one carte blanche
-description: Hai thành ngữ tiếng Anh: chạy theo xu hướng đám đông và trao toàn quyền hành động cho ai đó.
+description: "Hai thành ngữ tiếng Anh: chạy theo xu hướng đám đông và trao toàn quyền hành động cho ai đó."
 date: 2013-03-31T04:00:16+00:00
 url: /get-on-the-bandwagon-give-one-carte-blanche/
 categories:

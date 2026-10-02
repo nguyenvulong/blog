@@ -1,6 +1,6 @@
 ---
 title: Hàng hóa Hàn Quốc – FAQ
-description: Câu hỏi thường gặp về dịch vụ order hàng chính hãng Hàn Quốc của Đốt Fake: lấy sỉ, nguồn hàng, thời gian giao.
+description: "Câu hỏi thường gặp về dịch vụ order hàng chính hãng Hàn Quốc của Đốt Fake: lấy sỉ, nguồn hàng, thời gian giao."
 date: 2019-03-03T14:35:36+00:00
 url: /dotfake-faq/
 featured_image: /wp-content/uploads/2019/03/dotfake-850x288.jpg

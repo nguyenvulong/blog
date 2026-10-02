@@ -1,6 +1,6 @@
 ---
 title: More patterns with so
-description: Các mẫu câu với "so" trong tiếng Anh: do so, so trong câu trả lời ngắn, so/that way và the same.
+description: "Các mẫu câu với \"so\" trong tiếng Anh: do so, so trong câu trả lời ngắn, so/that way và the same."
 date: 2012-11-01T11:38:20+00:00
 url: /more-patterns-with-so/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Will, be going to, or the present tense
-description: Chọn giữa will, be going to và thì hiện tại khi nói về tương lai: dự đoán, kế hoạch, ý định và sự kiện có lịch.
+description: "Chọn giữa will, be going to và thì hiện tại khi nói về tương lai: dự đoán, kế hoạch, ý định và sự kiện có lịch."
 date: 2013-05-04T15:55:18+00:00
 url: /will-be-going-to-or-the-present-tense/
 categories:

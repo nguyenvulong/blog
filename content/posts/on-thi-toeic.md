@@ -1,6 +1,6 @@
 ---
 title: Ôn thi TOEIC
-description: Mục lục chuyên mục TOEIC: kinh nghiệm cá nhân, thủ tục dự thi và lịch trình ôn tập.
+description: "Mục lục chuyên mục TOEIC: kinh nghiệm cá nhân, thủ tục dự thi và lịch trình ôn tập."
 date: 2012-12-31T16:06:05+00:00
 url: /on-thi-toeic/
 categories:

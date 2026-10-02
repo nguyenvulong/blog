@@ -1,6 +1,6 @@
 ---
 title: Emphasis
-description: Các cách nhấn mạnh trong tiếng Anh: trọng âm nhấn mạnh, nhấn mạnh động từ, cấu trúc với It và What.
+description: "Các cách nhấn mạnh trong tiếng Anh: trọng âm nhấn mạnh, nhấn mạnh động từ, cấu trúc với It và What."
 date: 2012-11-06T17:07:44+00:00
 url: /emphasis-nhan-manh-tieng-anh/
 categories:
