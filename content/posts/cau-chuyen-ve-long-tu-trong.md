@@ -1,7 +1,6 @@
 ---
 title: Câu chuyện về Lòng Tự Trọng
-author: admin
-type: post
+description: Câu chuyện về hai cha con nghèo trong quán mì và lòng tự trọng giản dị mà cảm động.
 date: 2012-12-04T16:59:13+00:00
 url: /cau-chuyen-ve-long-tu-trong/
 featured_image: /wp-content/uploads/2012/12/parent_child.jpg
@@ -11,11 +10,9 @@ tags:
   - long tu trong
 
 ---
-Truyện này mình sưu tầm :
+Truyện này mình sưu tầm.
 
-
-![parent_child.jpg](/wp-content/uploads/2012/12/parent_child.jpg)
-
+![Hai cha con ăn mì trong quán](/wp-content/uploads/2012/12/parent_child.jpg)
 
 Vào một buổi chiều mùa xuân lạnh lẽo, trước cửa quán xuất hiện hai vị khách lạ, có thể đoán là một người cha và một người con. Người cha bị mù, người con trai đi bên cạnh ân cần dìu cha. Cậu con trai trạc mười tám, mười chín tuổi, quần áo đơn giản, lộ rõ vẻ nghèo túng, nhưng từ cậu lại toát lên nét trầm tĩnh của người có học, dường như cậu vẫn đang là một học sinh.
 
@@ -29,7 +26,7 @@ Hành động và lời nói của hai cha con đã làm chúng tôi rất xúc 
 
 Chúng tôi âm thầm quan sát hai cha con ăn xong, tính tiền, rồi dõi mắt tiễn họ ra khỏi quán. Mãi khi cậu Trương đi thu dọn bát, chúng tôi bỗng nghe cậu kêu lên khe khẽ. Hoá ra, bát của cậu con trai đè lên mấy tờ tiền giấy xếp gọn, vừa đúng giá tiền của một tô thịt bò được viết trên bảng giá của cửa hàng.
 
-Ta vẫn gặp trong cuộc đời nhiều người rất nghèo về vật chất nhưng lại giàu lòng tự trọng. Lòng tự trọng giúp ta có thêm nghị lực để ngẩng cao đầu, vượt qua khó khăn, nghịch cảnh, sống hạnh phúc vì luôn vững tin vào chính mình.  
-Lòng tự trọng với ánh hào quang chói lọi của nó sẽ trở thành lương tri con người
+Ta vẫn gặp trong cuộc đời nhiều người rất nghèo về vật chất nhưng lại giàu lòng tự trọng. Lòng tự trọng giúp ta có thêm nghị lực để ngẩng cao đầu, vượt qua khó khăn, nghịch cảnh, sống hạnh phúc vì luôn vững tin vào chính mình.
 
- [1]: ../wp-content/uploads/2012/12/parent_child.jpg
+Lòng tự trọng với ánh hào quang chói lọi của nó sẽ trở thành lương tri con người.
+

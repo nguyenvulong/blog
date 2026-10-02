@@ -1,7 +1,6 @@
 ---
 title: '[EFLNET] – Từ điển hình ảnh – Animals'
-author: admin
-type: post
+description: Từ vựng tiếng Anh về các loài vật qua hình ảnh, kèm vài ghi chú vui.
 date: 2012-11-11T08:20:46+00:00
 url: /tu-dien-hinh-anh-loai-vat/
 categories:
@@ -14,92 +13,45 @@ tags:
   - tu dien loai vat
 
 ---
+![Các loài vật, phần 1](/wp-content/uploads/2012/11/animal1.jpg)
 
-![animal1.jpg](/wp-content/uploads/2012/11/animal1.jpg)
+- **Antelope**: sơn dương (linh dương)
+- **Baboon**: khỉ đầu chó (châu Phi)
+- **Beaver**: hải ly, sống cả dưới nước lẫn trên cạn, gặm nhấm, biết "xây đập" ngăn nước
+- **Bobcat**: linh miêu (giống mèo này to lắm)
+- **Camel**: lạc đà
 
+![Các loài vật, phần 2](/wp-content/uploads/2012/11/animal2.jpg)
 
-Antelope : Sơn dương (dê núi :&#8221;> )
+- **Caribou**: tuần lộc
+- **Cat**: mèo (méo meo)
+- **Deer**: nai
+- **Dog**: chó (gâu gâu gâu)
+- **Elephant**: voi (con này ở bản Đôn)
+- **Ferret**: chồn
 
-Baboon : Vượn (Châu Phi, khỉ đầu chó &#8230;)
+![Các loài vật, phần 3](/wp-content/uploads/2012/11/animal3.jpg)
 
-Beaver : Hải ly (con này vừa sống dưới nước vừa trên cạn, gặm nhấm, có khả năng &#8220;xây đập&#8221; ngăn nước )
+- **Giraffe**: hươu cao cổ
+- **Groundhog**: Việt Nam quê hương tôi không có con này, tạm gọi là "hải ly đất"
+- **Hippopotamus**: hà mã
+- **Kangaroo**: chuột túi
+- **Lemur**: vượn cáo
+- **Leopard**: báo đốm. Phân biệt với *cheetah* và *jaguar*: hai con này cũng gọi là báo đốm, nhưng cấu tạo cơ thể và nơi sống khác nhau chút ít (có con ở rừng, có con ở đồng cỏ savannah...).
 
-Bobcat : Linh miêu (giống mèo này bự lắm )
+Ngoài ra, *panther* là báo đen. Nhớ ngày xưa chơi Yu-Gi-Oh! có quân bài Panther Warrior.
 
-Camel : Lạc đà
+![Các loài vật, phần 4](/wp-content/uploads/2012/11/animal4.jpg)
 
-&nbsp;
+- **Lion**: sư tử
+- **Monkey**: khỉ (khẹc khẹc khẹc)
+- **Mountain goat**: dê núi
+- **Mountain lion**: sư tử núi
+- **Polar bear**: gấu Bắc Cực. *Polar* nghĩa là một trong hai địa cực (Bắc hoặc Nam), nhưng theo mình biết thì chưa có con gấu nào đưa xuống Nam Cực mà sống sót quay về cả =)) Bạn nam nào có "gấu" thì thử xem nhé.
+- **Rabbit**: thỏ (phương Tây cho rằng *chân thỏ* mang lại may mắn)
 
+![Các loài vật, phần 5](/wp-content/uploads/2012/11/animal5.jpg)
 
-![animal2.jpg](/wp-content/uploads/2012/11/animal2.jpg)
-
-
-&nbsp;
-
-Caribou : Tuần lộc
-
-Cat : Mèo méo meo
-
-Deer : Nai ;;)
-
-Dog : Gấu gấu gấu
-
-Elephant : Con này ở bản Đôn
-
-Ferret : Chồn
-
-
-![animal3.jpg](/wp-content/uploads/2012/11/animal3.jpg)
-
-
-&nbsp;
-
-Giraffe : Hươu cao cổ
-
-Groundhog : Vì Việt Nam quê hương tôi không có con này, nó tạm gọi là con &#8220;hải ly đất&#8221;
-
-Hippopotamus :  Hà mã
-
-Kangaroo : Chuột &#8230; túi
-
-Lemur : Vượn cáo
-
-Leopard : Báo đốm (các bạn phân biệt với cả Cheetah và Jaguar : 2 con này cũng gọi là báo đốm, cấu tạo cơ thể &#8211; nơi sống khác nhau một tý, có con ở rừng, có con ở đồng cỏ Savannah &#8230;)
-
-Ngoài ra : Panther là báo đen . Nhớ ngày xưa chơi game Yugi! Oh (Thần bài ý) , có quân bài Panther Warrior .
-
-
-![animal4.jpg](/wp-content/uploads/2012/11/animal4.jpg)
-
-
-&nbsp;
-
-Lion : Sư tử
-
-Monkey : Khỉ, khẹc khẹc khẹc
-
-Mountain Goat : Dê núi
-
-Mountain Lion : Sư tử núi
-
-Polar Bear : Gấu Bắc Cực (Polar nghĩa là 1 trong 2 địa cực &#8211; Bắc hoặc Nam, tuy nhiên theo mình biết thì chưa có con gấu nào đưa ra Nam Cực mà sống sót quay về cả =)) ) . Bạn nam nào có &#8220;gấu&#8221; thì thử xem nha .
-
-Rabbit : Thỏ (phương Tây họ cho rằng _chân thỏ_ mang lại may mắn đấy)
-
-&nbsp;
-
-
-![animal5.jpg](/wp-content/uploads/2012/11/animal5.jpg)
-
-
-Rhinoceros : Tê giác
-
-Tiger : Hổ (cọp), ông ba mươi (tại sao lại gọi là ông 30 thì mời các bạn Google đọc nhé)
-
-Zebra : Ngựa vằn
-
- [1]: ../wp-content/uploads/2012/11/animal1.jpg
- [2]: ../wp-content/uploads/2012/11/animal2.jpg
- [3]: ../wp-content/uploads/2012/11/animal3.jpg
- [4]: ../wp-content/uploads/2012/11/animal4.jpg
- [5]: ../wp-content/uploads/2012/11/animal5.jpg
+- **Rhinoceros**: tê giác
+- **Tiger**: hổ (cọp), ông ba mươi (tại sao gọi là "ông Ba Mươi" thì mời các bạn Google)
+- **Zebra**: ngựa vằn

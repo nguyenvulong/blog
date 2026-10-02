@@ -1,7 +1,6 @@
 ---
 title: Các trang web hay học tiếng Anh
-author: admin
-type: post
+description: Tuyển tập các trang web, podcast và kênh YouTube miễn phí để học tiếng Anh mà mình đã dùng qua.
 date: 2012-10-30T17:22:06+00:00
 url: /cac-trang-web-hay-hoc-tieng-anh/
 categories:
@@ -17,67 +16,50 @@ tags:
   - website tieng anh
 
 ---
-Web thì rất nhiều, Web hay cũng không ít.  
-Mình thì cũng chưa gặm hết chừng này nhưng mỗi trang đều đã tìm hiểu rồi, mời các bạn xem qua :
+> **Update (2026):** Bài viết từ năm 2012, nhiều đường dẫn bên dưới đã đổi hoặc không còn hoạt động (ví dụ VOA Learning English nay ở learningenglish.voanedu.com, British Council ở learnenglish.britishcouncil.org). Hãy tìm lại theo tên nếu link không mở được.
 
+Web thì rất nhiều, web hay cũng không ít. Mình chưa "gặm" hết chừng này nhưng mỗi trang đều đã tìm hiểu rồi, mời các bạn xem qua.
 
-![i_love_english-300x300.jpg](/wp-content/uploads/2012/10/i_love_english-300x300.jpg)
+![Hình minh họa "I love English"](/wp-content/uploads/2012/10/i_love_english-300x300.jpg)
 
+1. **BBC Learning English**: <https://www.bbc.co.uk/worldservice/learningenglish/>
 
-1. <http://www.bbc.co.uk/worldservice/learningenglish/>
+   Bản tiếng Việt cũng rất hay, mỗi ngày một từ vựng: <https://www.bbc.co.uk/vietnamese/english/>
 
-Đây là bản tiếng Việt, cũng rất hay với chương trình mỗi ngày 1 từ vựng : <a href="http://www.bbc.co.uk/vietnamese/english/" target="_blank" rel="noopener">http://www.bbc.co.uk/vietnamese/english/</a>
+   BBC chắc nhiều bạn biết rồi, họ có rất nhiều bài giảng tiếng Anh cùng khoảng 40 ngôn ngữ khác (<https://www.bbc.co.uk/languages/>). Bài được chia theo các chủ đề gần với cuộc sống, các điểm ngữ pháp quan trọng, và có cả clip cho phép bạn đóng vai nhân vật để tập nói.
 
-Trang BBC chắc nhiều bạn biết rồi, và họ cũng có rất nhiều bài giảng tiếng Anh trong này cùng với các ngôn ngữ khác nữa (<http://www.bbc.co.uk/languages/> 40 ngôn ngữ cả thảy)
+2. **VOA Learning English**: <https://learningenglish.voanews.com/>
 
-Bài được chia thành các chủ đề gần với cuộc sống, cũng như các điểm ngữ pháp quan trọng, hay các clip mà trong đó cho phép bạn đóng vai nhân vật để tập nói .
+   Bản tiếng Việt: <https://www.voatiengviet.com/section/hoc-tieng-anh/2693.html>
 
-2. <http://learningenglish.voanews.com/>
+   Trang của đài VOA (Mỹ), đăng tin hàng ngày và đầu tư nhiều vào transcript: các mục tin đều được thu âm kèm lời tiếng Anh cho bạn đọc. Có điều giọng đọc hơi buồn ngủ T_T. Nếu bạn cũng dễ ngủ như mình thì thử kênh YouTube: <https://www.youtube.com/user/VOALearningEnglish>
 
-và đây là bản tiếng Việt : <a href="http://www.voatiengviet.com/section/hoc-tieng-anh/2693.html" target="_blank" rel="noopener">http://www.voatiengviet.com/section/hoc-tieng-anh/2693.html</a>
+3. **ESLPod**: <http://eslpod.com/>
 
-Trang này của đài VOA Mỹ, họ đăng tin hàng ngày, và đầu tư rất nhiều vào transcript (lời thoại), các mục tin tức đều được thu âm và có phần lời tiếng Anh cho bạn đọc. Có điều giọng đọc hơi buồn ngủ T_T .
+   Một trong những trang podcast rất tuyệt vời, do Jeff McQuillan, một tiến sĩ ngôn ngữ, thực hiện. Mình rất nể ông bởi cách giải thích từ vựng bằng những từ dễ hiểu. Podcast rất nhiều nhưng không có transcript trừ khi bạn mua.
 
-Nếu các bạn là người dễ ngủ như mình thì có thể thử cái này : <http://www.youtube.com/user/VOALearningEnglish>
+   Có nhiều loại: English Café nói về các vấn đề đang diễn ra hoặc một câu chuyện nào đó; ESL Podcast là một đoạn đối thoại ngắn về một chủ đề, sau đó phân tích các từ vựng, cấu trúc được dùng. Đều là tiếng Mỹ thường ngày.
 
-3. <http://eslpod.com/>
+4. **Business English Pod**: <http://businessenglishpod.com/>
 
-Một trong những trang nghe PodCast rất tuyệt vời. Podcast là chương trình dạng radio, ở đây là Jeff McQuillan &#8211; một ông Tiến Sĩ ngôn ngữ. Mình rất nể ông này bởi cách diễn tả khái niệm của các từ vựng thành những từ dễ hiểu. Podcast cực kỳ nhiều nhưng không có transcript trừ khi bạn mua.
+   Cũng là podcast, nhưng do nhiều người làm nên đồ sộ và đầu tư hơn. Giọng đọc nhanh, bài nghe khó hơn, tập trung vào các vấn đề cụ thể, đặc biệt là Business. Cũng không có transcript miễn phí.
 
-Có nhiều loại như English Cafe là những vấn đề đang diễn ra, hay một câu chuyện nào đó. Hoặc là ESL Podcast thì sẽ là 1 đoạn đối thoại về một chủ đề nào đó, ngắn gọn. Và họ sẽ phân tích những từ vựng, cấu trúc được dùng. Đều là tiếng Mỹ thường ngày cả.
+5. **Jennifer ESL** (YouTube): <https://www.youtube.com/user/JenniferESL/videos>
 
-Nhìn chung cũng dễ nghe lắm. Nếu các bạn thấy khó khăn gì thì cứ liên lạc với mình, giả sử không nghe được ở phút thứ mấy, đoạn nào, bài nào. Mình sẽ nghe thử và trả lời ^_^
+   Kênh của một cô tên Jennifer, rất dễ thương và nhiệt tình. Bài giảng dễ nghe, ngữ pháp không khô khan.
 
-4. <http://businessenglishpod.com/>
+6. **Phrasal verbs**: xem [Website hay học phrasal verbs](/website-hay-hoc-phrasal-verbs/).
 
-Cũng là 1 trang về Podcast, trang này được nhiều người làm nên cũng rất đồ sộ và đầu tư hơn trang kia. Giọng đọc nhanh và bài nghe cũng khó hơn. Tập trung vào những vấn đề cụ thể, đặc biệt là về Business.
+7. **English-Test**: <https://www.english-test.net/>
 
-Cũng không có transcript miễn phí nhé. Các bạn ráng nghe, cái này họ nói khá nhanh, nhưng không quá khó đâu.
+   Rất nhiều bài test TOEIC, TOEFL, GMAT, v.v. Ví dụ: <https://www.english-test.net/toeic/listening/>
 
-5. <http://www.youtube.com/user/JenniferESL/videos?sort=dd&flow=list&page=1&view=1>
+8. **Xem phim phụ đề**: studyphim.vn (nay có thể đã ngừng hoạt động).
 
-Đây là Channel của một cô tên Jennifer, rất dễ thương và cực kỳ nhiệt tình. Các bài giảng của cô này rất dễ nghe và bạn sẽ thấy ngữ pháp không quá khô khan đâu.
+9. **British Council**: <https://learnenglish.britishcouncil.org/>
 
-6. Phrasal Verbs : <..//website-hay-hoc-phrasal-verbs/>
+   Trang của Hội đồng Anh, có nhiều app trên iOS và Android để tải về.
 
-7. Vocabulary : <https://www.facebook.com/photo.php?fbid=169763419850313&set=a.100431476783508.910.100423586784297&type=1>
+10. **7ESL**: <https://7esl.com/>
 
-8. English-Test: <a href="http://www.english-test.net/" target="_blank" rel="noopener">http://www.english-test.net/</a>
-
-gồm rất nhiều mẫu test của TOEIC, TOEFL, GMAT, etc
-
-Ví dụ: <a href="http://www.english-test.net/toeic/listening/" target="_blank" rel="noopener">http://www.english-test.net/toeic/listening/</a>
-
-&nbsp;
-
-9. Xem phim phụ đề: <a href="http://www.studyphim.vn/" target="_blank" rel="noopener">http://www.studyphim.vn/</a>
-
-10. British Council, trang của Hội Đồng Anh, có nhiều apps trên cả iOS và android để các bạn tải về: <http://learnenglish.britishcouncil.org/en/>
-
-11. Ngữ pháp, thành ngữ, từ điển bằng hình ảnh [7ESL][2]  
-Trang web nội dung cực kỳ phong phú và miễn phí về một trong những phần khó xơi nhất trong tiếng Anh đó là phrasal verbs và idioms
-
-Bài viết đang tiếp tục bổ sung &#8230;
-
- [1]: ../wp-content/uploads/2012/10/i_love_english.jpg
- [2]: https://7esl.com/
+    Ngữ pháp, thành ngữ, từ điển bằng hình ảnh. Nội dung rất phong phú và miễn phí về một trong những phần khó nhằn nhất của tiếng Anh: phrasal verbs và idioms.

@@ -1,7 +1,6 @@
 ---
 title: Big Data references
-author: admin
-type: post
+description: A short list of websites and free courses for learning Big Data.
 date: 2014-09-13T18:12:29+00:00
 url: /big-data-references/
 categories:
@@ -13,22 +12,14 @@ tags:
   - it course
 
 ---
-Some useful websites & courses to learn Big Data:
+> **Update (2026):** This list dates from 2014. Some of these sites have moved or been absorbed into other products (Big Data University became Cognitive Class, Hortonworks merged into Cloudera), so some links may no longer work.
 
-[1] http://www.columbia.edu/~rsb2162/bigdataeducation.html
+Some useful websites and courses to learn Big Data:
 
-[2] http://bigdatauniversity.com/
-
-[3] https://www.coursera.org/
-
-[4] https://www.udacity.com/
-
-[5] http://apache.org
-
-[6] http://hortonworks.com
-
-[7] http://cloudera.com
-
-&nbsp;
-
-Updating &#8230;
+- [Big Data Education (Columbia University)](http://www.columbia.edu/~rsb2162/bigdataeducation.html)
+- [Big Data University](http://bigdatauniversity.com/)
+- [Coursera](https://www.coursera.org/)
+- [Udacity](https://www.udacity.com/)
+- [Apache Software Foundation](https://apache.org)
+- [Hortonworks](http://hortonworks.com)
+- [Cloudera](https://cloudera.com)

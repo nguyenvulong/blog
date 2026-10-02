@@ -1,8 +1,9 @@
 +++
 title = "Whispers of Tomorrow"
+description = "A short AI-generated poem about the future, technology and hope."
 
 date = "2025-06-24"
-updated = "2025-05-24"
+updated = "2025-06-24"
 
 [taxonomies]
 tags=["poem","tech","generative ai"]
@@ -62,4 +63,4 @@ A world reborn, anew, refined,
 A testament to humankind.
 ```
 
-_ gpt4.1-nano _
+_Written by GPT-4.1 nano._

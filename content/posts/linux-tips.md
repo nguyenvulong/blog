@@ -1,7 +1,6 @@
 ---
 title: Linux Tips
-author: admin
-type: post
+description: Một số mẹo nhỏ về bash, mạng, VirtualBox và quản lý người dùng trên Linux.
 date: 2014-07-16T11:29:38+00:00
 url: /linux-tips/
 categories:
@@ -13,76 +12,62 @@ tags:
   - user guide
 
 ---
-**bash (zsh too) tricks from [tutorialLinux][1]** 
+> **Update (2026):** bài viết cũ. `ifdown`/`ifup` và `/etc/network/interfaces` đã nhường chỗ cho Netplan / NetworkManager / systemd-networkd trên các bản Ubuntu mới. Các dịch vụ proxy/VPN miễn phí bên dưới có thể không còn hoạt động. Gói `virtualbox-guest-dkms` nay thường được thay bằng `virtualbox-guest-utils`.
 
-  * sudo !!: re-run previous command in sudo prepended
-  * ctrl-k ctrl-u ctrl-w ctrl-y cutting/pasting text
-  * less +F /  less then shift-f instead of tail
-  * ctrl-x-e to continue editting shell in a text editor
-  * alt-. to paste previous command&#8217;s argument
-  * reset to reset/unbork your terminal
-  * ctrl-a. ctrl-e to move to the start and end
+## Mẹo bash (zsh cũng dùng được)
 
-[bash search exact string][2] 
+Từ [tutorialLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ):
 
-<span class="s1">echo</span> <span class="s3">&#8220;This island is beautiful&#8221;</span> <span class="s2">| </span><span class="s1">grep</span> <span class="s2">-w<span class="Apple-converted-space">  </span>is</span>
+- `sudo !!`: chạy lại lệnh trước đó với `sudo`
+- `ctrl-k`, `ctrl-u`, `ctrl-w`, `ctrl-y`: cắt/dán văn bản trên dòng lệnh
+- `less +F` (hoặc `less` rồi `shift-f`) thay cho `tail -f`
+- `ctrl-x ctrl-e`: soạn tiếp dòng lệnh trong text editor
+- `alt-.`: dán đối số của lệnh trước
+- `reset`: khôi phục terminal bị lỗi hiển thị
+- `ctrl-a`, `ctrl-e`: về đầu / cuối dòng
 
-[view all available HDD&#8217;s/partitions?][3]
+[Tìm chính xác một từ](https://www.regular-expressions.info/wordboundaries.html) với `grep -w`:
 
-`sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL<br />
-` 
+```bash
+echo "This island is beautiful" | grep -w is
+```
 
-<p class="grid--cell fs-headline1 fl1">
-  <a class="question-hyperlink" href="https://stackoverflow.com/questions/14547631/python-locale-error-unsupported-locale-setting">Python locale error: unsupported locale setting</a>:
-</p>
+[Xem tất cả ổ đĩa/phân vùng](https://askubuntu.com/questions/182446/how-do-i-view-all-available-hdds-partitions):
 
-> export LC_ALL=C
+```bash
+sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
+```
 
-<div class="grid--cell mr16">
-  in fact, this shit can be solved completely if you understand the locale of your host and remote machine. [todo] &#8211; i forgot how it looks like
-</div>
+[Cắt chuỗi con trong bash](https://stackabuse.com/substrings-in-bash/):
 
-**Lock screen: ** &#8216;xscreensaver-command&#8217; -lock
-
-**Free Proxies**
-
-http://www.publicproxyservers.com/
-
-**Free VPN, OpenVPN**
-
-http://www.vpnbook.com/freevpn
-
-**VirtualBox Ubuntu screen resolution resizable: **
-
-sudo apt-get install virtualbox-guest-dkms
-
-**multiple Python versions on any distros**:
-
-use conda or virtualenv
-
-**Repositories Centos Redhat Fedor**a epel: http://www.rackspace.com/knowledge_center/article/install-epel-and-additional-repositories-on-centos-and-red-hat
-
-[**Bash cut string substring**][4]
-
-<pre><code class="language-bash hljs">$ &lt;span class="hljs-built_in">echo&lt;/span> &lt;span class="hljs-string">"abcdefghi"&lt;/span> | cut -c2-6
+```console
+$ echo "abcdefghi" | cut -c2-6
 bcdef
-</code></pre>
+```
 
+![Ví dụ cắt chuỗi con trong bash](/wp-content/uploads/2014/07/bashtrick.png)
 
-![bashtrick.png](/wp-content/uploads/2014/07/bashtrick.png)
+## Locale
 
+[Python locale error: unsupported locale setting](https://stackoverflow.com/questions/14547631/python-locale-error-unsupported-locale-setting):
 
-**Create user, change password remotely**
+```bash
+export LC_ALL=C
+```
 
-http://www.systutorials.com/39549/changing-linux-users-password-in-one-command-line/
+Về lâu dài, lỗi này có thể giải quyết triệt để nếu hiểu locale của máy local và máy remote. [todo]
 
-Reload static ip address (when the old IP adress still persists):  
-<span style="background-color: #f2f4f5; color: #222222; font-family: Monaco, Consolas, 'Andale Mono', 'DejaVu Sans Mono', monospace; font-size: 13px; font-style: normal; font-weight: normal;">sudo ifdown <network interface> && sudo ip addr flush <network interface> && sudo ifup <network interface></span>
+## Khác
 
-https://askubuntu.com/questions/829700/reload-static-ip-ubuntu-16
+- Khoá màn hình: `xscreensaver-command -lock`
+- Proxy miễn phí: <http://www.publicproxyservers.com/>
+- VPN miễn phí, OpenVPN: <https://www.vpnbook.com/freevpn>
+- Đổi độ phân giải màn hình Ubuntu trong VirtualBox: `sudo apt-get install virtualbox-guest-dkms`
+- Nhiều phiên bản Python trên mọi distro: dùng conda hoặc virtualenv.
+- Repo EPEL cho CentOS / RedHat / Fedora: [hướng dẫn của Rackspace](http://www.rackspace.com/knowledge_center/article/install-epel-and-additional-repositories-on-centos-and-red-hat)
+- [Tạo user, đổi mật khẩu từ xa bằng một dòng lệnh](http://www.systutorials.com/39549/changing-linux-users-password-in-one-command-line/)
+- Nạp lại địa chỉ IP tĩnh (khi IP cũ vẫn còn) ([nguồn](https://askubuntu.com/questions/829700/reload-static-ip-ubuntu-16)):
 
- [1]: https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ
- [2]: http://www.regular-expressions.info/wordboundaries.html
- [3]: https://askubuntu.com/questions/182446/how-do-i-view-all-available-hdds-partitions
- [4]: https://stackabuse.com/substrings-in-bash/
- [5]: ../wp-content/uploads/2014/07/bashtrick.png
+```bash
+sudo ifdown <network interface> && sudo ip addr flush <network interface> && sudo ifup <network interface>
+```

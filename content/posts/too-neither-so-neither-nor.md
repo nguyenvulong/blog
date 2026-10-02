@@ -1,7 +1,6 @@
 ---
 title: Too, neither, so, and neither/nor
-author: admin
-type: post
+description: Cách đáp lại bằng too, either, so, neither/nor và me too/me neither để nói "tôi cũng vậy" trong tiếng Anh.
 date: 2012-10-30T16:18:48+00:00
 url: /too-neither-so-neither-nor/
 categories:
@@ -16,71 +15,53 @@ tags:
   - too
 
 ---
-<span style="color: #800000;"><strong>A. Too and either :</strong></span>
+## A. Too và either
 
-Đi sau một số câu phản hồi (response), để đáp lại với ý là điều đó đúng và có gì đó cũng tương tự như thế
+Đứng sau một số câu phản hồi (response) để nói rằng điều đó đúng và có gì đó tương tự.
 
-Positive :
+Khẳng định:
 
-_I&#8217;m falling asleep.  &#8211; I am, **too**_
+- I'm falling asleep. - I am, **too**.
+- I enjoyed the film. - I did, **too**.
 
-Negative :
+Phủ định:
 
-_I haven&#8217;t got a watch . &#8211; I haven&#8217;t, **either**_
+- I haven't got a watch. - I haven't, **either**.
+- Tom can't drive and Emma can't **either**.
+- This pen doesn't work. And this one doesn't **either**.
+- I'm not hungry. - I'm **not either**.
 
-_Tom can&#8217;t drive and Emma can&#8217;t **either**_
+## B. So và neither/nor
 
-_This pen doesn&#8217;t work. And this one **doesn&#8217;t** **either**_
+Các câu trên cũng có thể kết hợp với *so* hay *neither/nor*.
 
-_I enjoyed the film. &#8211; I did, **too**_
+Khẳng định:
 
-_I&#8217;m not hungry. &#8211; I&#8217;m **not either**_
+- I'm falling asleep. - **So am I.**
+- You're beautiful. - **So are you.**
 
-<span style="color: #800000;"><strong>B. So and neither/nor</strong></span>
+Phủ định:
 
-Các câu trên cũng có thể kết hợp với so hay neither nữa :
+- I'm not going. - **Nor am I.**
+- Tom can't drive, and **neither can Emma**.
 
-Positive
+Để ý vị trí của **so** khác *too*; *neither/nor* khác *either*:
 
-_I&#8217;m falling asleep &#8211; **So am I**_
+- So am I = I am, too.
+- Nor am I = I am not either.
 
-_You&#8217;re beautiful &#8211; **So are you  
-**_ 
+## C. Phủ định sau khẳng định, khẳng định sau phủ định
 
-&nbsp;
+Đây là trường hợp phản hồi trái ngược với câu trước, dùng để phản bác ý kiến người khác:
 
-Negative
+- I'm tired. - Well, **I'm not.**
+- We didn't enjoy the film. - Oh, **we did.**
+- You're tired. - No, **I'm not.**
+- I can't sing. - You **can**, you know.
 
-_I&#8217;m not going ~ **Nor am I**_
+Khi phát âm, hãy nhấn mạnh (stress) từ quyết định nghĩa của câu: *I'm*, *we*, *can't* và *can*.
 
-_Tom can&#8217;t drive, and **neither can Emma**_
-
-Các bạn để ý vị trí của **so**_** khác too ; either khác neither.**_
-
-So am I = I am, too
-
-Nor am I = I am not either.
-
-<span style="color: #800000;"><strong>C. Negative after positive; positive after negative</strong></span>
-
-Ở đây chúng ta tìm hiểu về việc sau một câu khẳng định là một phản hồi mang tính phủ định . (Và ngược lại)
-
-_I&#8217;m tired. &#8211; Well, **I&#8217;m not.**_
-
-_We didn&#8217;t enjoy the film. &#8211; Oh,_** _we did_. **(Khi phát âm, các bạn nhấn mạnh (stress) từ &#8220;I&#8217;m&#8221;  và &#8220;we&#8221; vì đây là 2 từ quan trọng quyết định nghĩa của câu)
-
-Dùng với mục đích phản bác ý kiến người khác :
-
-_You&#8217;re tired. &#8211; No, **I&#8217;m not**_
-
-_I can&#8217;t sing. &#8211; You **can**, you know_ (stress ở **can&#8217;t & can)**
-
-&nbsp;
-
-> Trong tiếng Anh thông tục (informal), chúng ta có thể dùng &#8220;me too&#8221; &#8211; tôi cũng thế hay &#8220;me neither&#8221;  &#8211; tôi cũng (không) thế .
-> 
-> _I&#8217;**d love** to go to India_
-> 
-> _&#8211; **Me too**. I **haven&#8217;t** had a holiday this year._
-> 
-> _&#8211; **Me neither**_
+> Trong tiếng Anh thông tục (informal) có thể dùng "me too" (tôi cũng thế) hay "me neither" (tôi cũng không).
+>
+> - I'd love to go to India. - **Me too.** I haven't had a holiday this year.
+> - **Me neither.**

@@ -1,7 +1,6 @@
 ---
 title: Top VPS List
-author: admin
-type: post
+description: Danh sách vài nhà cung cấp VPS mình từng lưu lại năm 2014.
 date: 2014-03-21T08:49:47+00:00
 url: /top-vps-list/
 categories:
@@ -10,17 +9,10 @@ tags:
   - vps
 
 ---
-[www.digitalocean.com][1]  
-[www.iwstack.com][2]  
-[www.atlantic.net][3]
+> **Update (2026):** Danh sách này được lưu từ năm 2014 và có thể đã cũ: RunAbove đã ngừng hoạt động (thuộc OVH, nay là OVHcloud). Hãy kiểm tra lại từng nhà cung cấp trước khi dùng.
 
-[www.runabove.com][4]
-
-<a href="https://www.hostus.us" target="_blank">https://www.hostus.us</a>
-
-&nbsp;
-
- [1]: https://m.do.co/c/c8e2bfb40925
- [2]: http://www.iwstack.com/
- [3]: https://www.atlantic.net/
- [4]: https://www.runabove.com/index.xml
+- [DigitalOcean](https://www.digitalocean.com)
+- [IWStack](http://www.iwstack.com/)
+- [Atlantic.Net](https://www.atlantic.net/)
+- [RunAbove](https://www.runabove.com/) (OVH)
+- [HostUS](https://www.hostus.us)

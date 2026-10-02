@@ -1,7 +1,6 @@
 ---
 title: Questions
-author: admin
-type: post
+description: "Các loại câu hỏi trong tiếng Anh: yes/no, wh-, đảo ngữ với trợ động từ, câu hỏi thân mật và câu hỏi gián tiếp."
 date: 2012-10-20T04:52:55+00:00
 url: /questions/
 categories:
@@ -17,70 +16,52 @@ tags:
   - xin phep tieng anh
 
 ---
-Bài này nói về các loại câu hỏi trong tiếng Anh và cách sử dụng chúng
+Bài này nói về các loại câu hỏi trong tiếng Anh và cách sử dụng chúng.
 
-<span style="color: #800000;"><strong>A. Có 2 loại câu hỏi</strong></span>
+## A. Có hai loại câu hỏi
 
-Yes/No question  : câu trả lời là yes / no; câu hỏi bắt đầu với trợ động từ hoặc động từ to-be
+- **Yes/No question:** câu trả lời là yes hoặc no; câu hỏi bắt đầu bằng trợ động từ hoặc động từ to be.
+- **Wh-question:** bắt đầu bằng từ Wh-: what, when, where, who...
 
-Wh-question : bắt đầu bằng Wh- : what-when-where-who &#8230;
+Ví dụ:
 
-&nbsp;
+- ***Do** you sell magazines?* — *Yes, we do.*
+- ***What** should we do?* — *I don't know.*
 
-_**Do** you sell magazines ? &#8211; **Yes,** we do_
+## B. Trong hầu hết các câu hỏi, chủ ngữ và trợ động từ đảo chỗ cho nhau
 
-_**What** should we do ? &#8211; I don&#8217;t know_
+(Các trường hợp đặc biệt sẽ nói ở bài sau.)
 
-<span style="color: #800000;"><strong>B. Trong hầu hết các câu hỏi luôn có sự đảo chỗ giữa chủ ngữ và trợ động từ :</strong></span>
+- ***Are you** doing a course here?*
+- *Why **has the machine** stopped?*
+- *Where **can we** sit?*
 
-(Trường hợp đặc biệt sẽ nói ở bài tiếp theo)
+Nếu có nhiều hơn một trợ động từ thì chỉ trợ động từ đầu tiên đảo với chủ ngữ:
 
-_**Are you** doing a course here?_
+*__Could I__ have reserved a seat?* (*have* không đảo), chứ không phải ~~Could have I reserved a seat?~~
 
-_Why **has the machine** stopped?_
+Với các thì đơn (hiện tại đơn, quá khứ đơn...), người ta dùng "do" làm trợ động từ:
 
-_Where **can we** sit?_
+- *Do you like walking?*
+- *Where did everyone stay?* (không phải ~~Where stayed everyone?~~)
 
-Nếu có hơn 1 trợ động từ, thì chỉ có 1 trợ động từ đầu tiên là được đảo với chủ ngữ :
+"Be" khá đặc biệt: vừa có thể đứng trước chủ ngữ, vừa có thể đóng vai trợ động từ:
 
-_**Could I** have reserved a seat?_ (have không đảo )
+- ***Is** this cotton?*
+- *Why **were** you late?*
 
-Chứ không phải <del><em>Could have I reserved a seat?</em></del>
+## C. Trong hội thoại thân mật, câu hỏi có thể không đảo ngữ
 
-Trong thì đơn (simple tense : hiện tại đơn, quá khứ đơn &#8230;) người ta dùng &#8220;do&#8221;  làm trợ động từ :
+- ***You were late?*** — *Yes, I'm afraid so.*
+- ***They went which way?*** — *That way.*
 
-_Do you like walking?_
+Cách này khá ít dùng so với nhiều ngôn ngữ khác.
 
-_Where did everyone stay?_
+## D. Câu hỏi gián tiếp (indirect questions)
 
-Không phải : <del>where stayed everyone?</del>
+Để lịch sự hơn, ta có thể hỏi gián tiếp bằng cách thêm một mệnh đề (sub-clause) nối bằng **how** hoặc **if/whether**. Lưu ý *if/whether* ở đây không dịch là "nếu" mà nghĩa là "liệu/có... hay không".
 
-&nbsp;
+- *Could you tell me **how much this costs**?*
+- *I want to know **if** I can book a seat.* (Tôi muốn biết là còn đặt được chỗ ngồi không, khi người nói chưa biết đã hết chỗ hay chưa.)
 
-&#8220;Be&#8221; khá đặc biệt khi vừa có thể đứng trước chủ ngữ (subject) , vừa có thể đóng vai trò là 1 auxiliary verb :
-
-_**Is** this cotton?_
-
-_Why **were** you late?_
-
-<span style="color: #800000;"><strong>C. Trong đời sống thường ngày, câu hỏi có thể không xảy ra sự đảo chỗ của chủ ngữ và động từ :</strong></span>
-
-Informal conversation nhé các bạn :
-
-_**You were late?** &#8211; Yes, I&#8217;m afraid so ._
-
-_**They went which way?** &#8211; That way._
-
-Nói chung là cái này hơi ít dùng so với các ngôn ngữ khác .
-
-<span style="color: #800000;"><strong>D. Câu hỏi gián tiếp (indirect questions)</strong></span>
-
-Chúng ta có thể hỏi 1 cách gián tiếp để lịch sự hơn, bằng cách thêm 1 mệnh đề (sub-clause) kết hợp với các từ nối như **how **hay **if/whether **(if/whether là các từ nối, và  các bạn không dịch là **nếu,** if ở đây nói về thứ gì đó sẽ xảy ra, các bạn xem ví dụ dưới sẽ hiểu)
-
-_Could you tell me **how** **much this costs**? _(nối bằng how)
-
-_I want to know **if** I can book a seat? _(Tôi muốn biết **là** tôi còn có thể đặt chỗ ngồi được không? &#8211; trong trường hợp người này không biết hết chỗ ngồi hay chưa)
-
->  Chúng ta dùng câu hỏi trong nhiều trường hợp khác nhau, không chỉ là để hỏi thông tin mà còn thể hiện một yêu cầu nào đó. (Could you &#8230;?), một  gợi ý nào đó (Shall we &#8230;?), một đề nghị (Can I &#8230;?,  Would you like to &#8230;?), và dùng để xin phép (May I &#8230;?).
-
-&nbsp;
+> Chúng ta dùng câu hỏi trong nhiều trường hợp, không chỉ để hỏi thông tin mà còn để đưa ra yêu cầu (*Could you...?*), gợi ý (*Shall we...?*), đề nghị (*Can I...?*, *Would you like to...?*) và xin phép (*May I...?*).

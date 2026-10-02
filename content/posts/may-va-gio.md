@@ -1,7 +1,6 @@
 ---
 title: Mây và Gió
-author: admin
-type: post
+description: Bài thơ ngắn về cuộc chia tay của mây và gió.
 date: 2014-03-18T04:05:11+00:00
 url: /may-va-gio/
 categories:
@@ -18,8 +17,4 @@ Chân trời màu xám và mây nặng trĩu
 Gió lạnh lùng  
 Mây âm thầm mây hóa mưa rơi
 
-
-![tinhyeu.png](/wp-content/uploads/2014/03/tinhyeu.png)
-
-
- [1]: ../wp-content/uploads/2014/03/tinhyeu.png
+![Mây và gió, minh họa cho bài thơ](/wp-content/uploads/2014/03/tinhyeu.png)

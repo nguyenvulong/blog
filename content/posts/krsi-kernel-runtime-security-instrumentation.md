@@ -1,7 +1,6 @@
 ---
 title: KRSI – Kernel Runtime Security Instrumentation
-author: admin
-type: post
+description: Ghi chú ngắn về KRSI, cho phép gắn chương trình eBPF vào các LSM hook của Linux để thực thi chính sách bảo mật.
 date: 2022-12-08T11:06:30+00:00
 url: /krsi-kernel-runtime-security-instrumentation/
 categories:
@@ -15,50 +14,48 @@ tags:
   - krsi
   - linux
   - security
-
 ---
-KRSI (appeared in Kernel v5.7) stands for Kernel Runtime Security Instrumentation and the target of this patch is to allow users to implement lsm hooks by utilizing bpf compiled code. This gets interesting for a couple of reasons:
+KRSI (Kernel Runtime Security Instrumentation, xuất hiện từ Linux kernel v5.7) cho phép người dùng cài đặt các LSM hook bằng mã BPF đã biên dịch. Điều này thú vị vì hai lý do:
 
-  * _Kernel function call flow mutation_: first application of ebpf where injected code is actually capable reject / blocking the execution of some kernel logic
-  * _Flexibility_: ebpf can be attached / removed on the fly
+- **Thay đổi luồng gọi hàm trong kernel:** đây là ứng dụng đầu tiên của eBPF mà mã được chèn có thể từ chối/chặn việc thực thi một số logic của kernel.
+- **Linh hoạt:** chương trình eBPF có thể được gắn vào/gỡ ra ngay khi hệ thống đang chạy.
 
-**LSM**
+> Lưu ý: trong kernel chính thức, tính năng này hiện được gọi là "BPF LSM".
 
-  * Before, Linux was limited to Discretionary Access Control,
-  * Now, MAC extensions in Linux are implemented as LSMs, and this includes KRSI, SELinux, etc.
+## LSM
 
-## **ENABLE KRSI** {.wp-block-heading}
+- Trước đây Linux chỉ có Discretionary Access Control (DAC).
+- Hiện nay các mở rộng MAC (Mandatory Access Control) trong Linux được cài đặt dưới dạng LSM (Linux Security Modules), bao gồm KRSI, SELinux, v.v.
 
-**BOOT PARAMETER**
+KRSI, do Google đề xuất (KP Singh, 9/2019), cho phép quản trị viên gắn chương trình BPF vào các LSM hook khác nhau, và có thể trả về lỗi để chặn thao tác đó. Nhờ vậy quản trị viên có thể tự định nghĩa chính sách MAC bằng mã tùy ý.
 
-Check current boot parameter `cat /proc/cmdline`
+Kịch bản: các thao tác độc hại được định nghĩa trước sẽ được Falco giám sát và module KRSI thực thi chặn. KRSI phối hợp với eBPF bằng cách gắn chương trình eBPF vào các LSM hook.
 
-Edit the boot parameters `sudo vim /etc/default/grub`
+## Bật KRSI
 
-**Example**:
+Kiểm tra tham số boot hiện tại:
 
-<pre class="wp-block-preformatted">GRUB_CMDLINE_LINUX_DEFAULT="quiet splash foo=bar"</pre>
+```bash
+cat /proc/cmdline
+```
 
-Check LSM config params
+Chỉnh sửa tham số boot:
 
-<pre class="wp-block-preformatted">zgrep CONFIG_LSM= /boot/config-5.12.0-051200-lowlatency
-sudo update-grub</pre>
+```bash
+sudo vim /etc/default/grub
+```
 
-modify `/etc/default/grub`
+Ví dụ:
 
+```
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash foo=bar"
+```
 
-![image.png](https://t3735202.p.clickup-attachments.com/t3735202/10aee96f-5dc1-474f-8e8a-d97f329925fd/image.png)
+Kiểm tra cấu hình LSM, sau đó cập nhật GRUB:
 
+```bash
+zgrep CONFIG_LSM= /boot/config-5.12.0-051200-lowlatency
+sudo update-grub
+```
 
-KRSI is LSMs
-
-Figure: &nbsp;Security Enforcement by KRSI & eBPF
-
-“Kernel Runtime Security Instrumentation,” or KRSI (Google: Singh, 2019 September).
-
-It allowed an administrator to attach BPF programs to the various LSM hooks, and it could also inject an error to block the operation in question. This gave administrators the ability to define their own MAC policies with arbitrary code.
-
-Scenario: pre-defined malicious operations will be monitored by Falco and enforced by KRSI module
-
-How KRSI inter-operate with eBPF: eBPF program is attached to LSM hooks
-
+Sau đó sửa `/etc/default/grub` (thêm `bpf` vào danh sách `lsm=`) rồi chạy lại `update-grub`.

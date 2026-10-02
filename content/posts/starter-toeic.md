@@ -1,7 +1,6 @@
 ---
 title: Starter TOEIC
-author: admin
-type: post
+description: Ghi chú ngữ pháp và một số câu hay vấp khi luyện sách Starter TOEIC (First News).
 date: 2012-12-31T16:05:45+00:00
 url: /starter-toeic/
 categories:
@@ -10,39 +9,32 @@ categories:
 tags:
   - on thi TOEIC
   - starter toeic
-
 ---
-Mình đang dùng Starter TOEIC Third Edition . NXB Trẻ (bản quyền First News)
+Mình đang dùng _Starter TOEIC_ Third Edition, NXB Trẻ (bản quyền First News). Đây là quyển "mở màn" trong loạt sách First News.
 
-Đây là quyển &#8220;mở màn&#8221; trong loạt sách First News.
+Bài viết chia làm 2 phần (các quyển sau mình cũng làm như thế):
 
-Bài viết này mình chia 2 phần (và các quyển kia mình cũng làm như thế)
+1. Điểm nhấn ngữ pháp
+2. Một số câu mình bị "vấp" khi làm sách
 
-  1. Điểm nhấn ngữ pháp
-  2. Một số câu mình bị &#8220;vấp&#8221;, khi làm trong  quyển sách này
+_(Bài viết đang được cập nhật bổ sung, bạn lưu lại link để tiện theo dõi nhé.)_
 
-Bắt đầu nhé ..
+## 1. Grammar
 
-*(bài viết đang cập nhật bổ sung, bạn lưu lại link này để tiện theo dõi nha)
+- Trợ động từ (auxiliary verbs) như **is, have**... đứng trước các động từ dạng -ed/-ing.
+- Trợ động từ như will, do, may, can, must, have to, ought to... đứng trước động từ nguyên mẫu (bare infinitive).
+- Could have / Should have + P.P (động từ cột 3 / -ed): nói về điều không xảy ra hoặc không đúng: _they could have won, but they didn't_.
+- Would mang nghĩa tương tự used to, dùng cho quá khứ.
+- Một số động từ đi kèm cả V-ing lẫn to-infinitive: remember, forget, stop, regret, try.
+- -ing hay -ed: nếu danh từ được nhắc tới là tác nhân (agent) gây ra cảm giác thì dùng -ing: the **tiring** game (trò chơi gây mệt mỏi); còn nếu là đối tượng chịu cảm giác thì dùng -ed: the **tired** players (players mới là đối tượng cần nhắc tới).
+- no và not: no đóng vai trò tính từ, còn not là trạng từ: _no time_ (adj + noun), _not going_ (adv + verb). No và not **không** dùng khi câu đã có các từ mang nghĩa phủ định như hardly, seldom, scarcely, lest, unless.
+- Farther và further: xem [bài về farther và further](/farther-va-further-trong-so-sanh-comparative-superlative/).
 
-&nbsp;
+## 2. Exercise
 
-1. Grammar :
-
-  * Trợ động từ (auxiliary verbs) như **is, have** &#8230; đứng trước các động từ dạng -ed/-ing
-  * Trợ động từ như will, do, may, can, must, have to, ought to &#8230; đứng trước động từ nguyên mẫu (bare infinitive Verb)
-  * Could have / Should have + P.P (Verb cột 3 / ed) : nói về điều không xảy ra hoặc không đúng : _they could have won, but they didn&#8217;t_
-  * Would mang nghĩa tương tự Used to, dùng cho quá khứ .
-  * Một số động từ đi kèm cả V-ing lẫn To-infinity : remember, forget, stop, regret, try
-  * -ing hay -ed : các bạn để ý nếu động từ được nhắc tới đóng vai trò chủ đạo (agent) trong câu thì nó sẽ là dạng -ing : the **tiring** game : trò chơi chán ngán ; còn nếu có đối tượng khác làm chủ đạo thì động từ dạng -ed : the **tired players**: players ở đây mới là đối tượng quan trọng cần nhắc tới .
-  * no và not : no có thể đóng vai trò làm tính từ, còn not thì trạng từ  : no time (adj + noun), not going (adv + verb) . No và not **không được ** sử dụng khi câu đã có những từ như hardly, seldom, scarcely, lest, unless (vì những từ này vốn mang nghĩa phủ định rồi)
-  * Farther và Further : ..//farther-va-further-trong-so-sanh-comparative-superlative/
-
-2. Excercise :
-
-  * Sustainable \___ is a key indicator of the long-term health of the economy. (product, productivity : productivity là đáp án đúng, dựa vào nghĩa sustainable productivity là năng suất kéo dài, tức là không bị giảm về số lượng trong 1 khoảng thời gian)
-  * All I want is **for him** to return safe (vì có cụm từ &#8220;to return&#8221;  nên trước nó phải là 1 Object : him, ở đây dùng **for him **là cách sử dụng đúng với dạng câu này)
-  * He&#8217;s making every possible effort to **best** his opponent : chú ý câu này **best** là động từ. (nghĩa : best = nhỉnh hơn)
-  * When __ (ask) to resign his position, the manager reacted badly (các bạn để ý nghĩa câu này, vế thứ 2 là quá khứ, ngoài ra vế đầu của câu ở dạng bị động : &#8220;khi **được** hỏi về vấn đề từ chức, ông giám đốc phản ứng khó chịu&#8221;, **asked **là đáp án đúng)
-  * Người ta dùng cụm từ &#8220;breach of contract&#8221; khi nói về việc vi phạm hợp đồng.
-  * Pay + attention / attention must be paid (2 từ này đi chung với nhau, gọi là proverb nhé !)
+- _Sustainable ___ is a key indicator of the long-term health of the economy._ (product, productivity): đáp án **productivity**. Sustainable productivity là năng suất kéo dài, tức không giảm về số lượng trong một khoảng thời gian.
+- _All I want is **for him** to return safe._ Vì có "to return" nên trước nó phải có một object (him); dùng **for him** là cách đúng với dạng câu này.
+- _He's making every possible effort to **best** his opponent._ Chú ý **best** ở đây là động từ (best = nhỉnh hơn, đánh bại).
+- _When ___ (ask) to resign his position, the manager reacted badly._ Vế sau ở quá khứ, vế đầu ở dạng bị động ("khi **được** hỏi về việc từ chức, ông giám đốc phản ứng khó chịu"), nên đáp án là **asked**.
+- Cụm "breach of contract" dùng khi nói về việc vi phạm hợp đồng.
+- Pay + attention / attention must be paid: hai từ này đi chung với nhau, đây là một cụm cố định.

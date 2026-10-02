@@ -1,7 +1,6 @@
 ---
 title: Ảo Ảnh
-author: admin
-type: post
+description: Một bài thơ ngắn về cậu bé đi tìm Ảo Ảnh.
 date: 2016-06-29T07:07:03+00:00
 url: /ao-anh/
 categories:
@@ -15,16 +14,17 @@ Cậu bé ngây thơ
 Ảo Ảnh mong manh  
 Vỡ làm trăm mảnh
 
-<div class="text_exposed_show">
-  <p>
-    Tìm hoài không thấy<br /> Tìm đâu tìm đâu<br /> Trên bờ cát trắng<br /> Hay lòng biển sâu
-  </p>
-  
-  <p>
-    Cậu bé tìm mãi<br /> Đôi chân mệt nhoài<br /> Mắt rơm rớm lệ<br /> Mình sai mình sai
-  </p>
-  
-  <p>
-    Ảo Ảnh không thật<br /> Không thật bao giờ<br /> Hãy tìm Ảo Ảnh<br /> Khi mình nằm mơ
-  </p>
-</div>
+Tìm hoài không thấy  
+Tìm đâu tìm đâu  
+Trên bờ cát trắng  
+Hay lòng biển sâu
+
+Cậu bé tìm mãi  
+Đôi chân mệt nhoài  
+Mắt rơm rớm lệ  
+Mình sai mình sai
+
+Ảo Ảnh không thật  
+Không thật bao giờ  
+Hãy tìm Ảo Ảnh  
+Khi mình nằm mơ

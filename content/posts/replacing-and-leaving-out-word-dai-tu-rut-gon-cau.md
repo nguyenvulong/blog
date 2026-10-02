@@ -1,7 +1,6 @@
 ---
 title: Replacing and leaving out words
-author: admin
-type: post
+description: Cách thay thế và lược bỏ từ trong tiếng Anh để tránh lặp từ không cần thiết.
 date: 2012-10-28T02:29:23+00:00
 url: /replacing-and-leaving-out-word-dai-tu-rut-gon-cau/
 categories:
@@ -15,97 +14,65 @@ tags:
   - tu thay the
 
 ---
-Tiếng Anh cũng như tiếng Việt, để cho 1 câu nói hay hơn, chúng ta _tránh lặp từ một cách không cần thiết._
+Tiếng Anh cũng như tiếng Việt, để câu nói hay hơn, chúng ta *tránh lặp từ một cách không cần thiết*.
 
-<span style="color: #800000;"><strong>A. Thay  thế 1 noun phrase bằng 1 pronoun :</strong></span>
+## A. Thay một noun phrase bằng một pronoun
 
-_Where&#8217;s Kirsty? &#8211; **She**&#8216;s late._
+*Where's Kirsty? — **She**'s late.*
 
-<span style="color: #800000;"><strong>B.Chúng ta có thể bỏ danh từ ở </strong></span>
+## B. Có thể bỏ danh từ sau một số từ
 
-Từ chỉ số lượng (number)
+- Từ chỉ số lượng (number): *Have you got a sister? — I've got **two**.* (bỏ *sisters*)
+- Từ chỉ lượng (quantifier): *There's soup here. Would you like **some**?*
+- this/that/these/those: *These shirts are cotton, but **those** aren't.*
+- Tính từ so sánh nhất (superlative): *Which question was the **most difficult**?*
 
-_Have you got a **sister**? &#8211; I&#8217;ve got **two **_(sisters -> bỏ)
+## C. Tránh lặp cấu trúc to + infinitive
 
-Từ chỉ kích thước (quantifier)
+Ta bỏ luôn động từ nguyên mẫu:
 
-_There&#8217;s **soup** here? &#8211; Would you like **some**? _
+- *Would you like **to join** us? — I'd love **to**.* (bỏ *join you*)
+- *I got the job, although I didn't **expect to**.* (bỏ *get the job*)
 
-this/ that/ these/ those
+Tuy nhiên, ta vẫn lặp lại trợ động từ (ở ví dụ dưới là **be**):
 
-_These shirts are cotton, but **those** aren&#8217;t ._
+*I **was** chosen for the job, although I didn't expect to **be**.*
 
-Tính từ so sánh nhất (superlative adjective)
+Sau **like**, **try** và **want** ta bỏ luôn **to**:
 
-_Which question was the **most difficult**?_
+*You can stay as long as you **like**.*
 
-<span style="color: #800000;"><strong>C. Để tránh lặp cấu trúc to + infinitive (động từ nguyên mẫu)</strong></span>
+## D. Động từ chính (main verb) cũng có thể bị bỏ
 
-Ta bỏ luôn Verb-inf :
+*Arsenal have won six games and **Chelsea five**.* (đầy đủ: Chelsea **have won** five)
 
-_Would you like **to join** us ? &#8211; I&#8217;d love **to  **_**(bỏ : join you)**_**.**_
+## E. Một số từ có thể bỏ nếu nghĩa vẫn rõ
 
-_I got the job, although I didn&#8217;t_ **_expect to_ (bỏ  : get the job) .**
+- *Can't find my keys* = I can't find my keys
+- *Sorry about that* = I'm sorry about that
+- *Getting dark now* = It's getting dark now (trời đang tối dần rồi)
+- *Everything OK?* = Is everything OK?
+- *Tired?* = Are you tired?
 
-Tuy nhiên chúng ta lặp lại auxiliary verb (trợ động từ : trong ví dụ dưới đây là **be**)
+## F. Trong tít báo, lời chỉ dẫn, bưu thiếp và tin nhắn
 
-_I **was** chosen for the job, although I didn&#8217;t expect to **be**_
+Một số từ được lược bỏ để tiết kiệm diện tích:
 
-Sau **like, try** và **want **chúng ta **bỏ** luôn **to **
+- *Six arrested in raid* = Six **people have been** arrested in a raid
+- *Insert battery* = Insert **the** battery
 
-_You can stay as long as you **like**_
+Trong bưu thiếp (postcard):
 
-<span style="color: #800000;"><strong>D.Động từ chính (main verb) cũng có thể bị bỏ đi :</strong></span>
+*Hotel fine, weather marvellous* = **The** hotel **is** fine, **and the** weather **is** marvellous.
 
-_Arsenal have won six games and **Chelsea five **_(đáng lẽ : Chelsea **have won** five)
+Trong tin nhắn, nhiều từ được viết tắt:
 
-<span style="color: #800000;"><strong>E. Một số từ trong câu có thể bị bỏ đi nếu nghĩa vẫn rõ ràng :</strong></span>
+*Arrive 30 mins. CU soon.* (mins = minutes; CU = see you)
 
-_Can&#8217;t find my keys  _= I can&#8217;t find my keys
+> Không phải lúc nào chúng ta cũng "bỏ rơi chữ nghĩa" như thế:
+>
+> *I bought some sweets and biscuits, but I've eaten all the sweets.*
+>
+> Chữ **sweets** phải lặp lại để rõ nghĩa là "tôi ăn hết kẹo" chứ không phải ăn hết bánh quy.
 
-_Sorry about that_ = I&#8217;m sorry about that
-
-_Getting dark now_ = It&#8217;s getting dark now (trời đang tối dần rồi)
-
-_Everything OK? =_ Is everything ok ?
-
-_Tired?_ = Are you tired ?
-
-<span style="color: #800000;"><strong>F. Trong tựa báo (paper headline) hay lời chỉ dẫn (instruction)</strong></span>
-
-Một số từ cũng được lược bỏ để cho tiết kiệm diện tích :
-
-_Six arrested in raid = Six **people have been** arrested in a raid_
-
-_Insert battery = Insert **the** battery_
-
-Trong postcard (bưu thiếp):
-
-_Hotel fine, weather marvellous _
-
-_(**The** hotel **is** fine, **and** **the** weather **is** marvellous)_
-
-Trong text message &#8211; nhắn tin, nhiều từ được viết tắt :
-
-_Arrive 30 **mins**. **CU** soon.  _
-
-mins = minutes
-
-CU = See You (cách phát âm)
-
-&nbsp;
-
-> Không phải lúc nào chúng ta cũng &#8220;bỏ rơi chữ nghĩa&#8221; như thế :
-> 
-> _I bought some sweets and biscuits, but I&#8217;ve eaten all the sweets. ._
-> 
-> Chữ **sweets **phải lặp lại để cho rõ nghĩa là &#8220;tôi ăn hết kẹo&#8221; chứ không ăn hết bánh quy .
-
-Theo mình, chúng ta còn lặp từ để tạo ra hiệu ứng gì đó, nhấn mạnh chẳng hạn, và làm cho câu đó hay hơn nhiều.
-
-Mời các bạn nghe thử bài này sẽ hiểu ý mình muốn nói :
-
-&nbsp;
-
-<p style="text-align: center;">
-</p>
+Theo mình, chúng ta còn lặp từ để tạo hiệu ứng, chẳng hạn nhấn mạnh, và làm câu hay hơn nhiều. Bạn thử nghe một bài hát có lặp từ sẽ hiểu ý mình.

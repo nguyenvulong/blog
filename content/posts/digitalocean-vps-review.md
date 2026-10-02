@@ -1,15 +1,8 @@
 ---
 title: DigitalOcean VPS Review
-author: admin
-type: post
+description: "Đánh giá DigitalOcean năm 2013: VPS giá rẻ, tạo server trong vài chục giây, tính tiền theo giờ."
 date: 2013-05-26T03:07:57+00:00
 url: /digitalocean-vps-review/
-al2fb_facebook_link_id:
-  - 100423586784297_177761989050456
-al2fb_facebook_link_time:
-  - 2013-05-26T03: 08:03+00:00
-al2fb_facebook_link_picture:
-  - post=../wp-content/uploads/2013/05/do_1-1024x686.jpg
 categories:
   - IT
   - Linux
@@ -26,39 +19,32 @@ tags:
   - vps tot
 
 ---
-<span style="color: #ff0000;"><strong><span style="text-decoration: underline;">NOTE</span> : </strong></span><span style="color: #ff0000;"><strong><a href="..//digital-ocean-review-best-cheap-cloud-vps/" target="_blank">PLEASE CLICK HERE FOR AN ENGLISH VERSION OF THIS POST, IT&#8217;S SURELY WORTH YOUR TIME ;-)</a></strong></span>
+> **Update (2026):** Bài viết từ năm 2013. Giá, trung tâm dữ liệu, hệ điều hành và cách thanh toán của DigitalOcean đã thay đổi nhiều; xem thông tin hiện tại tại [digitalocean.com](https://www.digitalocean.com). Liên kết bên dưới là link giới thiệu (referral) của tác giả.
 
-Đây là dịch vụ VPS tốt nhất từ trước đến nay mà mình từng sử dụng
+Bản tiếng Anh của bài này: [Digital Ocean Review: best cheap cloud VPS](/digital-ocean-review-best-cheap-cloud-vps/).
 
-<span style="color: #ff0000;"><strong>Website</strong> </span>: <a href="https://m.do.co/c/c8e2bfb40925" target="_blank">WWW.DIGITALOCEAN.COM</a>
+Đây là dịch vụ VPS tốt nhất từ trước đến nay mà mình từng dùng.
 
-Đăng ký thử 1 tài khoản dù chưa nạp tiền bạn vẫn có thể nhìn sơ lược Control Panel nhé .
+**Website:** [digitalocean.com](https://m.do.co/c/c8e2bfb40925)
 
-Trong bài viết này mình sẽ nêu một số tính năng nổi bật của Digital Ocean :
+Đăng ký thử một tài khoản, dù chưa nạp tiền bạn vẫn có thể xem sơ lược Control Panel. Mình nêu một số tính năng nổi bật:
 
+![Giao diện control panel của DigitalOcean](/wp-content/uploads/2013/05/do_1-1024x686.jpg)
 
-![do_1-1024x686.jpg](/wp-content/uploads/2013/05/do_1-1024x686.jpg)
+- **Nhiều distro để chọn:** Arch, CentOS, Debian, Ubuntu và Fedora (x86 và x64).
+- **Ba trung tâm dữ liệu:** New York, San Francisco và Amsterdam.
 
-  2. Nhiều Distros cho bạn lựa chọn : Arch, CentOS, Debian, Ubuntu và Fedora (x86 và x64)
-  3. 3 Servers lớn ở New York, San Francisco và Amsterdam .
+![Các lựa chọn vị trí và image](/wp-content/uploads/2013/05/do_5-300x66.jpg)
 
-![do_5-300x66.jpg](/wp-content/uploads/2013/05/do_5-300x66.jpg)
+![Các gói cấu hình droplet](/wp-content/uploads/2013/05/do_2-300x101.jpg)
 
+![Thiết lập droplet](/wp-content/uploads/2013/05/do_3-300x231.jpg)
 
-![do_2-300x101.jpg](/wp-content/uploads/2013/05/do_2-300x101.jpg)
+- **Backup:** backup bất cứ lúc nào bạn muốn; DigitalOcean cũng có thể tự động backup vài ngày một lần.
+- **Tạo server nhanh, giá rẻ:** khởi tạo một server chỉ mất vài chục giây và vài cú click. Bạn có thể tạo nhiều server để test song song, mỗi server chỉ tốn 0,007 USD/giờ (giá thời điểm 2013).
 
+![Danh sách droplet đang chạy](/wp-content/uploads/2013/05/do_4-300x140.jpg)
 
-![do_3-300x231.jpg](/wp-content/uploads/2013/05/do_3-300x231.jpg)
+- **Thanh toán:** qua PayPal, rất tiện lợi.
 
-  7. Backup bất cứ lúc nào bạn muốn, còn nếu không thì Digital Ocean cũng tự động backup cho bạn vài ngày một lần .
-  8. Khởi tạo 1 server mất&#8230; vài chục giây và vài clicks chuột.  Bạn tạo nhiều servers để test song song cũng Ok, cứ 1 tiếng thì 1 server chỉ mất 0.007$ thôi
-
-![do_4-300x140.jpg](/wp-content/uploads/2013/05/do_4-300x140.jpg)
-
- 10. Thanh toán qua Paypal, rất tiện lợi.Và nhiều thứ khác để bạn trải niệm thử.<span style="color: #ff0000;"><strong>Website</strong> </span>: <a href="https://m.do.co/c/c8e2bfb40925" target="_blank">WWW.DIGITALOCEAN.COM</a>
-
- [1]: ../wp-content/uploads/2013/05/do_1.jpg
- [2]: ../wp-content/uploads/2013/05/do_5.jpg
- [3]: ../wp-content/uploads/2013/05/do_2.jpg
- [4]: ../wp-content/uploads/2013/05/do_3.jpg
- [5]: ../wp-content/uploads/2013/05/do_4.jpg
+Còn nhiều thứ khác để bạn tự trải nghiệm tại [DigitalOcean](https://m.do.co/c/c8e2bfb40925).

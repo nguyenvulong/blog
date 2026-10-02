@@ -1,15 +1,8 @@
 ---
 title: Twist someone’s arm
-author: admin
-type: post
+description: Thành ngữ "twist someone's arm" (thuyết phục ai làm gì) và phân biệt với "pull somebody's leg".
 date: 2013-02-21T06:33:37+00:00
 url: /twist-someones-arm/
-al2fb_facebook_link_id:
-  - 100423586784297_147817958711526
-al2fb_facebook_link_time:
-  - 2013-02-21T06: 33:40+00:00
-al2fb_facebook_link_picture:
-  - post=..//?al2fb_image=1
 categories:
   - 'BBC - Today Phrase'
   - English
@@ -18,13 +11,11 @@ tags:
   - "Twist someone's arm"
 
 ---
-Nếu bạn &#8220;twist someone&#8217;s arm&#8221;, có nghĩa là bạn thuyết phục ai làm một việc gì đó.
+Nếu bạn "twist someone's arm", nghĩa là bạn thuyết phục ai làm một việc gì đó.
 
-Ví dụ :
+Ví dụ:
 
-*I know you said you didn&#8217;t want to go out tonight, but can I twist your arm? I could really do with a night out.
+- I know you said you didn't want to go out tonight, but can I twist your arm? I could really do with a night out.
+- I shouldn't have one of those cakes as I'm on a diet... But go on, you've twisted my arm!
 
-*I shouldn&#8217;t have one of those cakes as I&#8217;m on a diet… But go on, you&#8217;ve twisted my arm!
-
-Lưu ý :  
-&#8220;To pull somebody&#8217;s leg&#8221; có nghĩa là lừa ai, trêu ai.
+Lưu ý: "to pull somebody's leg" có nghĩa là lừa ai, trêu ai.

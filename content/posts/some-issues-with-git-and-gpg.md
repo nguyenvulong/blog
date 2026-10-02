@@ -1,7 +1,6 @@
 ---
 title: Some issues with git and gpg
-author: admin
-type: post
+description: Short troubleshooting notes for signing git commits with GPG, from key export to gpg-agent and pinentry problems.
 date: 2022-06-11T17:01:30+00:00
 url: /some-issues-with-git-and-gpg/
 categories:
@@ -10,40 +9,46 @@ tags:
   - git
   - gpg
   - signing
-
 ---
-[Read here if you want to stumble upon some interesting URLs][1] (my repo)
+Related discussion (some interesting URLs) in [my QA repo](https://github.com/nguyenvulong/QA/issues/25).
 
 Key takeaways:
 
-**make sure to configure** your username, email, and gpg private key, sometimes even gpg version
+**Make sure to configure** your username, email and GPG signing key, and sometimes check the GPG version too:
 
-<pre class="wp-block-code"><code class="">git config --global --list</code></pre>
+```bash
+git config --global --list
+```
 
-**you can get some info** here about your key, after generating your key
+**After generating your key**, you can see its info with:
 
-<pre class="wp-block-code"><code class="">gpg --list-secret-keys --keyid-format=long</code></pre>
+```bash
+gpg --list-secret-keys --keyid-format=long
+```
 
-if you got that error while executing `gpg -a --export your@email` then try these commands instead, in order to get your public key to provide to github (or gitlab)
+If `gpg -a --export your@email` fails, try one of these instead to get your public key for GitHub (or GitLab):
 
-<pre class="wp-block-code"><code class="">gpg --armor --export 7E98CBC76F9B33F8 to get pub key
-OR gpg --export -a  5E0E8CB44844126F (key id)</code></pre>
+```bash
+gpg --armor --export 7E98CBC76F9B33F8
+# or, using the key ID
+gpg --export -a 5E0E8CB44844126F
+```
 
-**Make sure to**
+**Make sure to set:**
 
+```bash
+export GPG_TTY=$(tty)
+```
 
+If it still fails, check for errors here:
 
-<pre class="wp-block-code"><code class="">export GPG_TTY=$(tty)</code></pre>
+```bash
+systemctl --user status gpg-agent
+```
 
-If shit still happens
+As a last resort, change the pinentry program:
 
-see if any errors here
-
-<pre class="wp-block-code"><code class="">systemctl --user status gpg-agent</code></pre>
-
-and try my last resort
-
-<pre class="wp-block-code"><code lang="bash" class="language-bash">❯ cat  ~/.gnupg/gpg-agent.conf
-pinentry-program /usr/bin/pinentry-curses</code></pre>
-
- [1]: https://github.com/nguyenvulong/QA/issues/25
+```bash
+cat ~/.gnupg/gpg-agent.conf
+# pinentry-program /usr/bin/pinentry-curses
+```

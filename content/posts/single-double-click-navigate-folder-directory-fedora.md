@@ -1,11 +1,8 @@
 ---
 title: single click, double click to nagivate folder fedora 18
-author: admin
-type: post
+description: How to switch KDE from single-click to double-click for opening folders and files by editing kdeglobals.
 date: 2013-06-26T09:21:51+00:00
 url: /single-double-click-navigate-folder-directory-fedora/
-al2fb_facebook_exclude:
-  - 1
 categories:
   - IT
   - Linux
@@ -16,23 +13,24 @@ tags:
   - folder
   - naviage
   - single click
-
 ---
-This solution works for fedora 18 (KDE), if you&#8217;re currently using other versions or distros, just give it a try anyway :
+> **Update (2026):** Fedora 18 and KDE 4 are long obsolete. On KDE Plasma 5/6 use *System Settings > Workspace > General Behavior > Clicking files or folders*, and the config now lives in `~/.config/kdeglobals`.
 
-open command line interface :
+This solution works for Fedora 18 (KDE). If you use another version or distro, give it a try anyway.
 
-**vi ~/.kde/share/config/kdeglobals**
+Open a terminal and edit the file:
 
-add (below anything if exists) or modify this one :
+```bash
+vi ~/.kde/share/config/kdeglobals
+```
 
-**[KDE]**  
- **SingleClick=false**
+Add (below anything that exists) or modify:
 
-log out, log in and you&#8217;re all set . It&#8217;s going to take you a double-click to navigate inside a folder or open an executable file .
+```ini
+[KDE]
+SingleClick=false
+```
 
-&nbsp;
+Log out and log in again and you're all set. You will now need a double-click to navigate into a folder or open an executable file.
 
-Thanks to : Peterius
-
-http://www.linuxquestions.org/questions/linux-newbie-8/single-click-double-click-icons-in-kde-561262/
+Thanks to Peterius: [LinuxQuestions thread](https://www.linuxquestions.org/questions/linux-newbie-8/single-click-double-click-icons-in-kde-561262/)

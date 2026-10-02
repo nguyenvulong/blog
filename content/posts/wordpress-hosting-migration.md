@@ -1,7 +1,6 @@
 ---
 title: WordPress – hosting migration
-author: admin
-type: post
+description: Ghi chú ngắn về các bước chuyển một site WordPress sang hosting mới bằng UpdraftPlus.
 date: 2018-12-06T05:34:28+00:00
 url: /wordpress-hosting-migration/
 categories:
@@ -13,32 +12,21 @@ tags:
   - wordpress
 
 ---
-Backup & Restore:
+**Backup & restore**
 
-  * UpdraftPlus &#8211;> GoogleDrive
+- UpdraftPlus -> Google Drive
 
-Setting:
+**Setting**
 
-  * CloudFlare: 
-      * DNS (change IP &#8211; A record)
-      * TLS/SSL
-  * Non CloudFlare: 
-      * change DNS record in Domain provider
-  * Set up WP on new host with UpdraftPlus plugin to restore data
-  * Hosting provider may not install SSL cert by default, you must install it in cPanel/DirectAdmin
+- Cloudflare:
+  - DNS (change IP, A record)
+  - TLS/SSL
+- Non-Cloudflare: change the DNS record at the domain provider
+- Set up WordPress on the new host and use the UpdraftPlus plugin to restore data
+- The hosting provider may not install an SSL cert by default; you must install it in cPanel/DirectAdmin
 
-Others
+**Others**
 
-<li style="list-style-type: none;">
-  <ul>
-    <li>
-      Use localhost instead of domain in wp-config.php
-    </li>
-    <li>
-      rsync -P<port> -avz source dest
-    </li>
-    <li>
-      compression problem with tar? subpress /dev/null to find error
-    </li>
-  </ul>
-</li>
+- Use `localhost` instead of the domain in `wp-config.php`
+- `rsync -P -e "ssh -p <port>" -avz source dest`
+- Problems with `tar` compression? Redirect output to `/dev/null` so only errors are shown, to find the error

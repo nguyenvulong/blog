@@ -1,7 +1,6 @@
 ---
 title: Thỉnh nguyện đơn về vụ án anh Hồ Duy Hải
-author: admin
-type: post
+description: Tóm tắt vụ án Hồ Duy Hải (2014) và hướng dẫn ký đơn thỉnh nguyện gửi Nhà Trắng kêu oan cho anh.
 date: 2014-12-02T09:24:33+00:00
 url: /thinh-nguyen-don-ve-vu-an-anh-ho-duy-hai/
 categories:
@@ -22,66 +21,46 @@ tags:
   - thinh nguyen
 
 ---
-**UPDATE 3: **  Tin về anh này rất ít, thực sự là khốn nạn quá. Thay vì họ đưa ra bằng chứng để buộc tội anh, thì anh ta và luật sư phải chứng minh rằng bản thân vô tội.
+> **Update (2026):** Bài viết này là tư liệu từ năm 2014. Trang đơn thỉnh nguyện của Nhà Trắng (petitions.whitehouse.gov) được nhắc đến bên dưới không còn hoạt động như trước, nên phần hướng dẫn ký đơn chỉ còn giá trị lưu trữ. Một số đường dẫn báo chí cũng có thể đã hỏng.
 
-<a href="http://www.baogiaothong.vn/vu-ho-duy-haikien-nghi-thu-hoi-quyet-dinh-bac-don-xin-an-xa-d104500.html" target="_blank">http://www.baogiaothong.vn/vu-ho-duy-haikien-nghi-thu-hoi-quyet-dinh-bac-don-xin-an-xa-d104500.html</a>
+**Update 3:** Tin về anh rất ít, thực sự rất bất công. Thay vì cơ quan tố tụng đưa ra bằng chứng để buộc tội, chính anh và luật sư phải chứng minh rằng anh vô tội.
 
-&nbsp;
+- [Vụ Hồ Duy Hải: kiến nghị thu hồi quyết định bác đơn xin ân xá](http://www.baogiaothong.vn/vu-ho-duy-haikien-nghi-thu-hoi-quyet-dinh-bac-don-xin-an-xa-d104500.html)
 
-**UPDATE 2: ** <a href="http://us.24h.com.vn/an-ninh-hinh-su/ban-noi-chinh-tu-da-cu-nguoi-vao-cuoc-vu-ho-duy-hai-c51a685741.html" target="_blank">http://us.24h.com.vn/an-ninh-hinh-su/ban-noi-chinh-tu-da-cu-nguoi-vao-cuoc-vu-ho-duy-hai-c51a685741.html</a>
+**Update 2:**
 
-**UPDATE 1: Cap nhat ngay 04-12-2014 , đã có quyết định hoãn thi hành án**
+- [Ban Nội chính Trung ương đã cử người vào cuộc vụ Hồ Duy Hải](http://us.24h.com.vn/an-ninh-hinh-su/ban-noi-chinh-tu-da-cu-nguoi-vao-cuoc-vu-ho-duy-hai-c51a685741.html)
 
+**Update 1 (04-12-2014):** đã có quyết định hoãn thi hành án.
 
-![10847936_769545529766434_4803056017702323219_n.jpg](/wp-content/uploads/2014/12/10847936_769545529766434_4803056017702323219_n.jpg)
+![Ảnh về vụ án Hồ Duy Hải](/wp-content/uploads/2014/12/10847936_769545529766434_4803056017702323219_n.jpg)
 
+---
 
-&#8212;&#8212;&#8212;&#8212;&#8212;
+**Chuyện này liên quan tới mạng người**, danh dự và sự thật, nên Long nghĩ các bạn nên dành khoảng **5 phút** để tìm hiểu, mình làm được gì thì làm.
 
-<span style="color: #ff0000;"><b>Cái này liên quan tới mạng người</b></span>, danh dự và sự thật nên Long nghĩ các bạn nên dành chút thời gian khoảng **5 phút**, mình làm được gì thì làm thôi.
+**Tóm tắt:** anh Hồ Duy Hải bị kết tội giết 2 người cách đây gần 6 năm. Gia đình anh tiếp tục kêu oan vì anh đã bị hai cấp tòa án tuyên phạt tử hình.
 
-**Tóm tắt: ** _Câu chuyện liên quan tới anh Hồ Duy Hải bị kết tội giết 2 người, cách đây gần 6 năm trước, gia đình anh này đang tiếp tục kêu oan vì anh đã bị 2 cấp tòa án tuyên phạt tử hình._
+Nội dung chi tiết có thể đọc ở đây:
 
-Nội dung có thể tìm đọc ở đây:
+- [Lật lại vụ án giết 2 nữ nhân viên bưu điện: câu vòi tuyên án tử hình để thế sao?](http://laodong.com.vn/phap-luat/lat-lai-vu-an-giet-2-nu-nhan-vien-buu-dien-cau-voi-tuyen-an-tu-hinh-de-the-sao-159745.bld)
 
-<a href="http://laodong.com.vn/phap-luat/lat-lai-vu-an-giet-2-nu-nhan-vien-buu-dien-cau-voi-tuyen-an-tu-hinh-de-the-sao-159745.bld" target="_blank">http://laodong.com.vn/phap-luat/lat-lai-vu-an-giet-2-nu-nhan-vien-buu-dien-cau-voi-tuyen-an-tu-hinh-de-the-sao-159745.bld</a>
+Việc tốt nhất mọi người có thể làm lúc này có lẽ là **chia sẻ và ký vào đơn thỉnh nguyện** (petition), ở đây là đơn viết cho Nhà Trắng (Hoa Kỳ). Tham khảo thêm tin Mỹ bổ nhiệm đại sứ Ted Osius tại Việt Nam trên Thanh Niên (11/2014).
 
-<a href="https://m.facebook.com/story.php?story_fbid=726311777423841&id=386595591395463" target="_blank">https://m.facebook.com/story.php?story_fbid=726311777423841&id=386595591395463</a>
+## Cách ký đơn thỉnh nguyện
 
-Việc tốt nhất mà mọi người có thể làm được lúc này có lẽ là **chia sẻ và ký vào đơn thỉnh nguyện** (petition), ở đây là đơn thỉnh nguyện viết cho Whitehouse (Nhà Trắng &#8211; Hoa Kỳ).
+**Bước 1:** truy cập [trang đơn thỉnh nguyện](https://petitions.whitehouse.gov/petition/call-vietnam-government-overturn-wrongful-capital-murder-conviction-former-college-student-ho-duy/BNtyc7jZ), điền thông tin ở mục **Add Your Name**, sau đó nhấn **SIGN NOW**.
 
-&nbsp;
+Như các bạn thấy, đã có 491 người ký:
 
-<a href="http://www.thanhnien.com.vn/pages/20141119/my-bo-nhiem-ong-ted-osius-lam-dai-su-tai-viet-nam.aspx" target="_blank">http://www.thanhnien.com.vn/pages/20141119/my-bo-nhiem-ong-ted-osius-lam-dai-su-tai-viet-nam.aspx</a>
+![Trang đơn thỉnh nguyện trên Nhà Trắng với 491 chữ ký](/wp-content/uploads/2014/12/whitehouse_petition1.png)
 
-<span style="color: #ff0000;"><strong>Tới phần quan trọng nhất: cách thức ký vào thỉnh nguyện đơn</strong></span>
+**Bước 2:** mở email và nhấn vào **"Confirm your signature by clicking here."**
 
-**Bước 1: ** truy cập, và điền thông tin ở mục **Add Your Name, **sau đó nhấn<span style="color: #ff0000;"><strong> SIGN NOW</strong></span>
+![Email xác nhận chữ ký đơn thỉnh nguyện](/wp-content/uploads/2014/12/white_house1-1024x807.png)
 
-<a href="https://petitions.whitehouse.gov/petition/call-vietnam-government-overturn-wrongful-capital-murder-conviction-former-college-student-ho-duy/BNtyc7jZ" target="_blank">https://petitions.whitehouse.gov/petition/call-vietnam-government-overturn-wrongful-capital-murder-conviction-former-college-student-ho-duy/BNtyc7jZ</a>
+Vậy là bạn đã hoàn thành việc ký đơn.
 
-Như các bạn thấy, có 491 người ký rồi:
+---
 
-&nbsp;
-
-&nbsp;
-
-
-![whitehouse_petition1.png](/wp-content/uploads/2014/12/whitehouse_petition1.png)
-
-
-**Bước 2:  **truy cập email của bạn, và nhấn vào **&#8220;Confirm your signature by clicking here.&#8221; **
-
-
-![white_house1-1024x807.png](/wp-content/uploads/2014/12/white_house1-1024x807.png)
-
-
-<span style="color: #ff0000;"><strong>Vậy là bạn đã hoàn thành việc ký đơn thỉnh nguyện.</strong></span>
-
-&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
-
-Trước đây mình đã có viết 1 bài phân tích về thỉnh nguyện Mỹ trừng phạt kinh tế Trung Quốc về vấn đề biển Đông.  Dù thỉnh nguyện Nhà Trắng là **đặc quyền của người dân Mỹ**, nhưng mình nghĩ vấn đề nhân quyền ở Việt Nam được Mỹ rất để ý, nên tác động của đơn thỉnh nguyện này chắc chắn sẽ **lớn hơn nhiều** so với thỉnh nguyện về vấn đề trừng phạt kinh tế Trung Quốc (vốn rất khó xảy ra) Bạn nào quan tâm thì có thể đọc tại: <a href="..//100000-chu-ky-yeu-cau-nha-trang-my-trung-phat-kinh-te-trung-quoc/" target="_blank">..//100000-chu-ky-yeu-cau-nha-trang-my-trung-phat-kinh-te-trung-quoc/</a>
-
- [1]: ../wp-content/uploads/2014/12/10847936_769545529766434_4803056017702323219_n.jpg
- [2]: ../wp-content/uploads/2014/12/whitehouse_petition1.png
- [3]: ../wp-content/uploads/2014/12/white_house1.png
+Trước đây mình có viết một bài phân tích về thỉnh nguyện yêu cầu Mỹ trừng phạt kinh tế Trung Quốc về vấn đề biển Đông: [100.000 chữ ký yêu cầu Nhà Trắng Mỹ trừng phạt kinh tế Trung Quốc](/100000-chu-ky-yeu-cau-nha-trang-my-trung-phat-kinh-te-trung-quoc/). Dù thỉnh nguyện Nhà Trắng là **đặc quyền của người dân Mỹ**, mình nghĩ vấn đề nhân quyền ở Việt Nam được Mỹ rất để ý, nên tác động của đơn này chắc chắn sẽ **lớn hơn nhiều** so với thỉnh nguyện về trừng phạt kinh tế Trung Quốc (vốn rất khó xảy ra).

@@ -1,7 +1,6 @@
 ---
 title: About the Chukwa released versions
-author: admin
-type: post
+description: A short note on Apache Chukwa's release status and Hadoop compatibility, based on an email from the project lead.
 date: 2014-05-06T06:41:42+00:00
 url: /about-the-chukwa-release-versions/
 categories:
@@ -17,16 +16,14 @@ tags:
   - logging system
 
 ---
-I&#8217;m working with some log collection & aggregation tools from Apache Project, when  it came to Chukwa &#8211; I read the introduction, release note of the project and didn&#8217;t know what to do because it seemed like Chukwa had been in and out for a while and a bit obsolete. So I decided to email the leader of this project.
+> **Update (2026):** This note is from 2014 and refers to Chukwa 0.5.0 (incubator) and Hadoop 1.2.1/2.2.0, all long outdated. Apache Chukwa appears to be retired, so check the project status before using it; for log collection today, consider tools such as Fluentd, Fluent Bit, Logstash or Vector.
 
-To be honest, I&#8217;ve tried to search on the net for all information about this project but got a little of it.
+I was working with some log collection and aggregation tools from the Apache project. When I got to Chukwa, I read the introduction and release notes and didn't know what to do, because it seemed like the project had been in and out for a while and was a bit obsolete. I tried to find information about it online but found very little, so I decided to email the project lead.
 
-To summarize :
+To summarize:
 
-&#8211; Chukwa 0.5.0 incubator &#8211; the most current one will work with Hadoop 1.2.1
+- Chukwa 0.5.0 (incubator), the most current release at the time, works with Hadoop 1.2.1.
 
-So everyone like me who want to test it on Hadoop 2.2.0 will wait for some time.
+So anyone like me who wants to test it on Hadoop 2.2.0 will have to wait for a while.
 
-
-![eric_yang.png](/wp-content/uploads/2014/05/eric_yang.png)
-
+![Reply email from the Chukwa project lead](/wp-content/uploads/2014/05/eric_yang.png)

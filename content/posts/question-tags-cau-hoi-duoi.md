@@ -1,7 +1,6 @@
 ---
 title: Question tags
-author: admin
-type: post
+description: Cách lập và sử dụng câu hỏi đuôi (question tags) trong tiếng Anh, kèm ngữ điệu và các trường hợp đặc biệt.
 date: 2012-10-24T12:20:12+00:00
 url: /question-tags-cau-hoi-duoi/
 categories:
@@ -12,84 +11,71 @@ tags:
   - Tags question
 
 ---
-Câu hỏi đuôi là loại câu hỏi được dùng rất phổ biến
+Câu hỏi đuôi là loại câu hỏi được dùng rất phổ biến.
 
-<span style="color: #800000;"><strong>A. Tag (đuôi) liên hệ mật thiết với chủ ngữ và trợ động từ trước nó :</strong></span>
+## A. Tag liên hệ mật thiết với chủ ngữ và trợ động từ đứng trước nó
 
-_**<span style="text-decoration: underline;">Paul</span> **                **<span style="text-decoration: underline;">was</span>**              joking,      **<span style="text-decoration: underline;">wasn&#8217;t   he</span>?**_
+*__Paul__ (subject) __was__ (auxiliary verb) joking, __wasn't he__ (tag)?*
 
-(Subject)    (auxiliary verb)                      (tag)
+Nếu trợ động từ ở dạng khẳng định thì tag có dạng phủ định, và ngược lại:
 
-Nếu trợ động từ là khẳng định thì tag sẽ có dạng phủ định, và ngược lại.
+*Paul **wasn't** joking, **was** he?*
 
-_Paul **wasn&#8217;t** joking, **was** he?_
+Với các thì đơn (simple tense), tag dùng **do** (do, does, did...):
 
-Với simple tense, thì tag sẽ là **do** (do, does, did &#8230;)
+*You **came** home early, **didn't** you?*
 
-_You **came** home early, **didn&#8217;t** you?_
+Nếu câu có động từ to be thì không cần **do**:
 
-Nếu câu có động từ tobe, thì không cần **do : **
+*That wasn't very clever, was it?* (Điều đó không thông minh cho lắm, đúng không?)
 
-_That wasn&#8217;t very clever, was it?_ (Điều đó không thông minh cho lắm, đúng không?)
+Đặc biệt, khi câu có **I am**, tag phủ định **không** phải là ~~am not I~~ mà là:
 
-Đặc biệt, khi câu có **I am, **thì phủ định **không** phải là <del><strong>am not</strong></del> **I, **mà là :
+*I'm late, **aren't I**?*
 
-_I&#8217;m late, **aren&#8217;t I .**_
+## B. Đại từ (pronoun) trong câu hỏi đuôi
 
-<span style="color: #800000;"><strong>B. Đại từ (Pronoun) trong câu hỏi đuôi :</strong></span>
+"Đại" trong "đại từ" là từ Hán Việt nghĩa là **thay thế**: đại từ là từ thay thế cho một từ khác (*that's a good idea*, *that* thay cho *idea*).
 
-*Từ  &#8220;đại&#8221; là 1 từ Hán Việt, có nhiều nghĩa : đại là lớn (đại phong là gió lớn), đại còn có nghĩa là **thay thế, **chữ **đại từ **nghĩa là từ thay thế &#8211; tức là nó thay thế 1 từ khác (**that**&#8216;s a good idea => that thay thế cho **idea)**
+*There* có thể làm chủ ngữ trong câu hỏi đuôi:
 
-There có thể làm chủ ngữ trong câu hỏi đuôi :
+*There's lots to do, isn't **there**?*
 
-_There&#8217;s lots to do, isn&#8217;t **there?**_
+Dùng **it** thay cho *that*, *this*, và các từ có -thing (something, everything...):
 
-Dùng **it** thay thế cho **that, this ,** -thing(something, everything)&#8230;
+- ***That's** right, isn't **it**?*
+- ***Something** went wrong, didn't **it**?*
 
-_**That&#8217;**s right, isn&#8217;t **it?**_
+Dùng **they** thay cho *these*, *those*, và các từ có -body, -one...:
 
-_**Something** went wrong, didn&#8217;t **it?**_
+- ***These** CDs are cheap, aren't **they**?*
+- ***Anybody** could just walk in, couldn't **they**?*
 
-Dùng **they ** thay thế cho these, those, -body, -one .. :
+## C. Khẳng định và phủ định
 
-_**These** CDs are cheap, aren&#8217;t **they ?**_
+Câu hỏi đuôi thường dùng để tìm sự đồng tình của người nghe (người hỏi dường như đã biết câu trả lời). Khi đó ta hạ giọng ở cuối câu:
 
-_Anybody could just walk in, couldn&#8217;t **they**?_
+*It's cold, __isn't it__?* (nói dịu giọng hơn một chút)
 
-<span style="color: #800000;"><strong>C. Khẳng định & phủ định :</strong></span>
+Ngược lại, nếu người hỏi muốn biết thêm thông tin hoặc đưa ra yêu cầu thì lên giọng ở cuối câu:
 
-Câu hỏi đuôi thường dùng để tìm sự đồng tình từ người nghe (bởi người hỏi dường như đã biết câu trả lời), khi đó lúc nói ta thường hạ giọng ở cuối câu :
+- *You've got the tickets, **haven't you**?*
+- *You couldn't lend me $10, **could you**?*
 
-_It&#8217;s cold,_ **_isn&#8217;t it?_ **(isn&#8217;t it sẽ được nói dịu giọng hơn 1 chút)
+## D. Câu khẳng định kết hợp câu hỏi đuôi khẳng định
 
-Ngược lại, nếu người hỏi muốn hỏi  thêm thông tin hay yêu cầu gì đó thì cuối câu sẽ nâng giọng lên (raise your voice) :
+Khác với trên, mẫu câu này mang nghĩa khác:
 
-_You&#8217;ve got the tickets, **haven&#8217;t you?**_
+*I've got no time at the moment.*
+*— You**'re** busy, **are you**?*
 
-_You couldn&#8217;t lend me $10, **could you?**_
+Người nói nhận ra người kia đang bận và hỏi lại để chắc chắn.
 
-<span style="color: #800000;"><strong>D. Câu khẳng định kết hợp câu hỏi đuôi khẳng định :</strong></span>
+*Vicky doesn't live here anymore.*
+*— Oh, she**'s moved**, **has she**?*
 
-Khác với những gì đã nói phía trên, mẫu câu này được dùng với ý nghĩa khác :
+Dựa vào thông tin Vicky không còn sống ở đây, người này đoán cô ấy đã chuyển đi nơi khác.
 
-_I&#8217;ve got no time at the moment_
-
-_ &#8211; You**&#8216;re** busy, **are you?**_
-
-=> Người này nhận ra người kia đang rất bận, và hỏi lại để chắc chắn điều đó.
-
-_Vicky doesn&#8217;t live here anymore_
-
-_&#8211; Oh, she&#8217;**s moved**, **has she**?_
-
-=> Dựa vào thông tin Vicky không sống ở đây nữa mà người này đoán cô ấy đã chuyển đi nơi khác.
-
-&nbsp;
-
-> Câu hỏi đuôi hay dùng để bắt chuyện, ví dụ tán dóc về thời tiết chẳng hạn :
-> 
-> _Today is a beautiful day, isn&#8217;t it ?_
-
-&nbsp;
-
-&nbsp;
+> Câu hỏi đuôi hay dùng để bắt chuyện, ví dụ nói chuyện thời tiết:
+>
+> *Today is a beautiful day, isn't it?*

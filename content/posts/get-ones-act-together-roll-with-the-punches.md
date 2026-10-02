@@ -1,7 +1,6 @@
 ---
 title: Get one’s act together, Roll with the punches
-author: admin
-type: post
+description: Hai thành ngữ tiếng Anh về việc thích nghi với hoàn cảnh và đòi hỏi mới.
 date: 2012-12-23T06:45:47+00:00
 url: /get-ones-act-together-roll-with-the-punches/
 categories:
@@ -13,24 +12,28 @@ tags:
   - thanh ngu noi ve su thich nghi hoan canh
 
 ---
-**Hai thành ngữ liên quan đến những luật lệ mới, những thái độ mới, những đòi hỏi mới : **
+**Hai thành ngữ liên quan đến luật lệ mới, thái độ mới và những đòi hỏi mới.**
 
-  * <span style="line-height: 15px;"><strong>Get one&#8217;s act together :</strong> GET ONE’S ACT TOGETHER gồm có ACT, A-C-T là hành động, hành vi, và TOGETHER, T-O-G-E-T-H-E-R là chung với nhau. GET ONE’S ACT TOGETHER là thích ứng với hoàn cảnh mới bằng cách hành động có hiệu quả, hay chỉnh đốn lại cách làm việc của mình.<br /> </span>
+## Get one's act together
 
-**Chú ý** rằng chữ ONE được thay bằng những từ ứng với trường hợp cụ thể như his, our, their &#8230;
+ACT (A-C-T) là hành động, hành vi; TOGETHER (T-O-G-E-T-H-E-R) là cùng nhau. GET ONE'S ACT TOGETHER là thích ứng với hoàn cảnh mới bằng cách hành động hiệu quả, hay chấn chỉnh lại cách làm việc của mình.
 
-**Ví dụ : **
+**Chú ý:** ONE được thay bằng his, our, their... tùy trường hợp.
 
-_It’s too bad we just lost a match even though we did the best we could. We’re going to have to GET OUR ACT TOGETHER if the team wants to qualify for the finals._
+**Ví dụ:**
 
-_Thật đáng tiếc chúng ta vừa thua một trận đấu mặc dầu đã cố gắng hết sức. Chúng ta sẽ phải chỉnh đốn lại cách làm việc nếu đội bóng của chúng ta muốn lọt vào vòng chung kết._
+_It's too bad we just lost a match even though we did the best we could. We're going to have to GET OUR ACT TOGETHER if the team wants to qualify for the finals._
 
-  * **Roll with the punches : ** gồm có ROLL, đánh vần là R-O-L-L có nghĩa là lăn tròn hay cuốn tròn, và PUNCHES, P-U-N-C-H-E-S là những cú đấm. ROLL WITH THE PUNCHES dùng để mô tả những võ sĩ nhà nghề biết cách lăn người đi để chống đỡ những cú đấm của đối phương để bớt bị thương tích nặng.
+_Thật đáng tiếc chúng ta vừa thua một trận dù đã cố gắng hết sức. Chúng ta sẽ phải chấn chỉnh lại cách làm việc nếu đội bóng muốn vào vòng chung kết._
 
-Ý nghĩa : phải biết thay đổi để chống chọi với hoàn cảnh .
+## Roll with the punches
 
-**Ví dụ : **
+ROLL (R-O-L-L) là lăn tròn, PUNCHES (P-U-N-C-H-E-S) là những cú đấm. ROLL WITH THE PUNCHES mô tả các võ sĩ nhà nghề biết lăn người để né đòn của đối phương, nhờ đó bớt bị thương nặng.
+
+Ý nghĩa: phải biết thay đổi để chống chọi với hoàn cảnh.
+
+**Ví dụ:**
 
 _The economy has been very difficult but our airline seems to have ROLLED WITH THE PUNCHES. We had to cut a lot of costs and find ways to provide better service for less._
 
-_Kinh tế đã rất khó khăn nhưng công ty hàng không của chúng tôi đã phải thích ứng với hoàn cảnh mới. Chúng tôi đã phải cắt giảm rất nhiều chi phí và tìm cách cung cấp dịch vụ tốt hơn với giá hạ hơn._
+_Kinh tế rất khó khăn nhưng hãng hàng không của chúng tôi đã thích ứng được với hoàn cảnh mới. Chúng tôi phải cắt giảm rất nhiều chi phí và tìm cách cung cấp dịch vụ tốt hơn với giá thấp hơn._

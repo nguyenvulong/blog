@@ -1,13 +1,8 @@
 ---
 title: Negative statements
-author: admin
-type: post
+description: Cách thành lập câu phủ định trong tiếng Anh và các từ phủ định thường gặp.
 date: 2012-10-15T16:06:34+00:00
 url: /negative-statements/
-wpdiscuz_post_rating:
-  - 1
-wpdiscuz_post_rating_count:
-  - 1
 categories:
   - English
   - Grammar Dictionary
@@ -16,74 +11,64 @@ tags:
   - nagative clause
   - negative statement
   - negative words
-
 ---
-Bài này nói về câu phủ định, &#8220;negative&#8221; là phủ định, nó còn mang nghĩa &#8220;âm&#8221; trong số âm hay nhiệt độ, và mang nghĩa &#8220;tiêu cực&#8221; nữa . Động từ là **negate**
+Bài này nói về câu phủ định. "Negative" là phủ định; nó còn mang nghĩa "âm" trong số âm hay nhiệt độ, và nghĩa "tiêu cực" nữa. Động từ là **negate**.
 
-<span style="color: #800000;"><strong>A. Trong câu phủ định, not và n&#8217;t đứng sau trợ động từ (auxiliary verb)</strong></span>, các bạn chú ý trợ động từ là các động  từ bổ nghĩa cho động từ chính của câu, chỉ không chỉ là do/does
+## A. Not và n't đứng sau trợ động từ (auxiliary verb)
 
-EG :
+Trợ động từ là các động từ bổ nghĩa cho động từ chính của câu, không chỉ có do/does.
 
-We have not received an invitation
+*We have not received an invitation.*
 
-_The scheme wasn&#8217;t working properly_
+*The scheme wasn't working properly.*
 
-Nếu có nhiều hơn 1 trợ động từ, thì not sẽ đứng sau trợ động từ **đầu tiên** trong câu :
+Nếu có nhiều hơn một trợ động từ, **not** đứng sau trợ động từ **đầu tiên**:
 
-_We shouldn&#8217;t have stayed so long_
+*We shouldn't have stayed so long.*
 
-_I might not be coming back next term_
+*I might not be coming back next term.*
 
-**<span style="color: #800000;">B. Trong các &#8220;thì đơn&#8221; (simple tense) chúng ta dùng do làm trợ động từ :</span>**
+## B. Trong các thì đơn (simple tense), dùng do làm trợ động từ
 
-_I don&#8217;t like cowboy films_
+*I don't like cowboy films.*
 
-_The players **did no**t speak to the reporters_
+*The players did not speak to the reporters.*
 
-<span style="color: #800000;"><strong>C. &#8220;Be&#8221; là một động từ đặc biệt, nó chả cần do/does &#8211; nó cho phép not đứng ngay sau nó</strong></span>
+## C. "Be" là động từ đặc biệt
 
-The area is not/isn&#8217;t very nice
+Nó không cần do/does, và cho phép **not** đứng ngay sau nó:
 
-<span style="color: #800000;"><strong>D. Chúng ta không phủ định 1 câu bằng cách dùng &#8220;no&#8221; như thế này :</strong></span>
+*The area is not/isn't very nice.*
 
-<del><em>The message no arrived</em></del>
+## D. Không phủ định câu bằng "no" như thế này
 
-_The message didn&#8217;t arrive_
+~~*The message no arrived.*~~
 
-<span style="color: #800000;"><strong>E. Not  có thể đứng trước 1 từ / cụm từ để mang nghĩa đính chính/ chỉnh sửa ; hoặc thể hiện một nhận định về khoảng cách, về lượng, hay thời gian :</strong></span>
+*The message didn't arrive.*
 
-_I ordered coffee, not tea_
+## E. Not đứng trước một từ/cụm từ
 
-_**Not many** people have their own aircraft_
+Dùng để đính chính, hoặc thể hiện nhận định về khoảng cách, lượng, thời gian:
 
-_There&#8217;s an internet café **not far away**_
+*I ordered coffee, not tea.*
 
-_We arrived not **a moment too soon**_ (= **almost too late** đó mọi các bạn : Xem tại <http://oaadonline.oxfordlearnersdictionaries.com/dictionary/moment>)
+*Not many people have their own aircraft.*
 
-=> Chúng tôi đến gần như quá trễ (vẫn còn cứu vãn được chút xíu xìu xiu)
+*There's an internet café not far away.*
 
-<span style="color: #800000;"><strong>F. Các từ phủ định khác </strong></span>
+*We arrived not a moment too soon.* (= almost too late, tức là "gần như quá trễ", vẫn còn cứu vãn được chút xíu.)
 
-no : we have no time = we haven&#8217;t have any time
+## F. Các từ phủ định khác
 
-none : Tickets? Oh, there are non left = there&#8217; aren&#8217;t any left
-
-no one, nobody : I saw no one acting strangely   = I didn&#8217;t see anyone acting strangely
-
-nothing : I did nothing wrong = I didn&#8217;t do anything wrong
-
-nowhere :  There was nowhere to park = There wasn&#8217;t anywhere to park
-
-few : Few people were interested = Not many people were interested
-
-little : There was little interest = There wasn&#8217;t much interest
-
-never : I&#8217;ve never seen the film = I haven&#8217;t ever seen the film
-
-seldom, rarely : We seldom eat out = We don&#8217;t often eat out
-
-no longer : Adam no longer lives here = Adam doesn&#8217;t live here any more
-
-hardly, scarcely : I&#8217;ve hardly started on my project = I haven&#8217;t really started on my project
-
-neither, nor : You can&#8217;t sing, neither can I = you can&#8217;t sing, and I can&#8217;t either
+- **no**: We have no time = We haven't any time.
+- **none**: Tickets? Oh, there are none left = there aren't any left.
+- **no one, nobody**: I saw no one acting strangely = I didn't see anyone acting strangely.
+- **nothing**: I did nothing wrong = I didn't do anything wrong.
+- **nowhere**: There was nowhere to park = There wasn't anywhere to park.
+- **few**: Few people were interested = Not many people were interested.
+- **little**: There was little interest = There wasn't much interest.
+- **never**: I've never seen the film = I haven't ever seen the film.
+- **seldom, rarely**: We seldom eat out = We don't often eat out.
+- **no longer**: Adam no longer lives here = Adam doesn't live here any more.
+- **hardly, scarcely**: I've hardly started on my project = I haven't really started on my project.
+- **neither, nor**: You can't sing, neither can I = You can't sing, and I can't either.

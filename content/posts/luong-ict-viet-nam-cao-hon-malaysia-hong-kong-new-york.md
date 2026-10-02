@@ -1,7 +1,6 @@
 ---
 title: Lương ngành ICT của Việt Nam so với các nước
-author: admin
-type: post
+description: Vì sao bài báo "lương kỹ sư CNTT Đà Nẵng cao hơn New York, Hồng Kông" dựa trên số liệu PIKOM không đáng tin.
 date: 2014-08-13T03:40:24+00:00
 url: /luong-ict-viet-nam-cao-hon-malaysia-hong-kong-new-york/
 categories:
@@ -21,26 +20,22 @@ tags:
   - viet nam
 
 ---
-Hôm qua đọc 1 bài hơi nhức mắt của ICTNews với cái tựa **&#8220;Lương kỹ sư CNTT Đà Nẵng còn cao hơn cả New York, Hồng Kông&#8221;**. Bài báo này dựa theo thống kê của PIKOM &#8211; **Hiệp Hội Công Nghệ Truyền Thông Quốc Gia Malaysia**.
+> **Update (2026):** đây là bài viết năm 2014, các số liệu và đường link báo bên dưới đã cũ và có thể không còn truy cập được.
 
-**Đây là URL của bài báo từ ICTNews & Genk**  
-<a href="http://ictnews.vn/cntt/luong-ky-su-cntt-da-nang-con-cao-hon-ca-new-york-hong-kong-118898.ict" target="_blank">http://ictnews.vn/cntt/luong-ky-su-cntt-da-nang-con-cao-hon-ca-new-york-hong-kong-118898.ict</a>
+Hôm qua mình đọc một bài hơi nhức mắt của ICTNews với tựa đề **"Lương kỹ sư CNTT Đà Nẵng còn cao hơn cả New York, Hồng Kông"**. Bài báo dựa theo thống kê của PIKOM, **Hiệp hội Công nghệ Truyền thông Quốc gia Malaysia**.
 
-<a href="http://genk.vn/tin-ict/mo-xe-chuyen-ky-su-cntt-viet-nam-co-luong-cao-nhat-khu-vuc-20140812004224419.chn" target="_blank">http://genk.vn/tin-ict/mo-xe-chuyen-ky-su-cntt-viet-nam-co-luong-cao-nhat-khu-vuc-20140812004224419.chn</a>
+Các nguồn liên quan:
 
-**Đây là URL trên trang PIKOM**  
-<a href="http://www.pikom.org.my/demo/cms/General.asp?whichfile=Press+Releases&ProductID=23487&CatID=33" target="_blank">http://www.pikom.org.my/demo/cms/General.asp?whichfile=Press+Releases&ProductID=23487&CatID=33</a>
+- ICTNews: <http://ictnews.vn/cntt/luong-ky-su-cntt-da-nang-con-cao-hon-ca-new-york-hong-kong-118898.ict>
+- GenK: <http://genk.vn/tin-ict/mo-xe-chuyen-ky-su-cntt-viet-nam-co-luong-cao-nhat-khu-vuc-20140812004224419.chn>
+- PIKOM: <http://www.pikom.org.my/demo/cms/General.asp?whichfile=Press+Releases&ProductID=23487&CatID=33>
 
-Tất nhiên là con nít mới biết đọc cũng đủ thấy tào lao rồi, nhưng vì muốn làm rõ nên mình đọc trên trang chính thức của PIKOM đồng thời gửi mail trực tiếp cho PIKOM để hỏi, và rút ra 2 kết luận sau:
+Tất nhiên đứa trẻ mới biết đọc cũng thấy vô lý, nhưng để làm rõ, mình đã đọc trên trang chính thức của PIKOM và gửi mail hỏi trực tiếp, rồi rút ra hai kết luận:
 
-**Thứ nhất**, trang ICTNews, GenK thêm mắm muối vào, đó là đưa thêm số liệu cụ thể về tiền lương ở Việt Nam, sau đó chia nhỏ xuống để &#8220;luận&#8221; ra mức lương của Mã Lai
+**Thứ nhất**, ICTNews và GenK đã "thêm mắm muối": họ đưa thêm số liệu lương cụ thể ở Việt Nam, rồi chia nhỏ xuống để "luận" ra mức lương của Malaysia.
 
-**Thứ hai,** tại sao lại có sự sai biệt quá lớn như vậy trên chính trang web của PIKOM, khi cho rằng lương của Việt Nam còn cao hơn cả Mã Lai và đứng top với Hồng Kông  
-Lý do rất đơn giản, trang PIKOM họ chỉ thống kê những ai đăng ký khai báo lương của PayScale.com &#8211; nên dữ liệu có được từ trang web này mà ra hoàn toàn không chính xác, vì người Việt có mấy ai đăng ký ở đây đâu (thậm chí còn không hề biết tới 1 trang như vậy)
+**Thứ hai**, vì sao chính trang PIKOM lại có sự sai biệt lớn như vậy, khi cho rằng lương của Việt Nam cao hơn cả Malaysia và đứng top cùng Hồng Kông? Lý do khá đơn giản: PIKOM chỉ thống kê những người tự khai báo lương trên PayScale.com. Dữ liệu từ trang này hoàn toàn không chính xác với Việt Nam, vì rất ít người Việt đăng ký ở đây (thậm chí không biết đến trang như vậy).
 
-Đành rằng đây là 1 trang uy tín để xếp hạng lương cho nhiều quốc gia, thì PIKOM cũng đã không điều tra kỹ về &#8220;tình hình&#8221; ở Việt Nam. Mình chụp lại email phản hồi của họ như hình dưới:  
+PayScale là một trang uy tín để xếp hạng lương nhiều quốc gia, nhưng PIKOM đã không điều tra kỹ "tình hình" ở Việt Nam. Dưới đây là email phản hồi của họ:
 
-![vietnam_slary_scale.png](/wp-content/uploads/2014/08/vietnam_slary_scale.png)
-
-
- [1]: ../wp-content/uploads/2014/08/vietnam_slary_scale.png
+![Email phản hồi của PIKOM về số liệu lương ở Việt Nam](/wp-content/uploads/2014/08/vietnam_slary_scale.png)

@@ -1,7 +1,6 @@
 ---
 title: Chém gió nghĩa tiếng Anh là gì
-author: admin
-type: post
+description: "\"Chém gió\" trong tiếng Anh là \"shoot the breeze\", theo từ điển Cambridge."
 date: 2014-10-01T14:38:46+00:00
 url: /chem-gio-nghia-tieng-anh-la-gi/
 categories:
@@ -14,17 +13,8 @@ tags:
   - shoot the breeze
 
 ---
-Giang hồ thường đồn rằng đó là &#8220;airblade&#8221; (verisimilitude right? =)) , thực ra thì nó là : &#8220;shoot the breeze&#8221;
+Giang hồ đồn rằng đó là "airblade" (nghe có vẻ hợp lý nhỉ =)), nhưng thực ra là **"shoot the breeze"**.
 
-taken from  Cambridge Advanced Learners Dictionary and Thesaurus:  
+Trích từ Cambridge Advanced Learner's Dictionary & Thesaurus:
 
-![chemgio.png](/wp-content/uploads/2014/10/chemgio.png)
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
- [1]: ../wp-content/uploads/2014/10/chemgio.png
+![Định nghĩa "shoot the breeze" trong từ điển Cambridge](/wp-content/uploads/2014/10/chemgio.png)

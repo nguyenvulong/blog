@@ -1,15 +1,8 @@
 ---
 title: Tiếng Anh quá khó đối với bạn ?
-author: admin
-type: post
+description: Ba điều đơn giản để chứng minh rằng ai cũng có thể học nói tiếng Anh.
 date: 2013-10-01T01:50:22+00:00
 url: /english-is-for-everyone-you-can-do-it/
-al2fb_facebook_link_id:
-  - 100423586784297_219379554888699
-al2fb_facebook_link_time:
-  - 2013-10-01T01: 50:27+00:00
-al2fb_facebook_link_picture:
-  - post=..//?al2fb_image=1
 categories:
   - English
   - Stories
@@ -20,17 +13,12 @@ tags:
   - vietnamese speak english
 
 ---
-&nbsp;  
-  
-&nbsp;
+> Bài gốc có kèm một video (đã mất khi chuyển blog) về một bạn nhỏ nói tiếng Anh.
 
-Can you speak English like this girl ?  
-I just want to PROVE something for you :
+Can you speak English like this girl? I just want to PROVE something to you:
 
-1. You can learn to speak & listening BEFORE learning to write & reading English . Look at the child, see how he&#8217;s learned English when we was born.
+1. You can learn to speak and listen BEFORE learning to read and write English. Look at a child: see how he learned English when he was born.
+2. Grammar is necessary BUT NOT obligatory, which means you don't have to learn too much grammar to be an English master. By speaking and listening, you've already learned much of it.
+3. Learning English is not that hard. I myself never "learned" English, I play with it! Believe in yourself, and good luck.
 
-2. Grammar is necessary BUT NOT obligatory, which means you don&#8217;t have to learn too much grammar to be an English Master. By speaking & listening, you&#8217;ve already done that .
-
-3. Learning English is not too hard, I myself never learn English, I play with it ! Well, believe in yourself, and good luck .
-
-If you find this useful, please SHARE it . Thank you !
+If you find this useful, please share it. Thank you!

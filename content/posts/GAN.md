@@ -1,21 +1,18 @@
 ---
 title: "Generative Adversarial Nets: Related Work"
-author: admin
-type: post
+description: Reading notes on the security side of GANs, starting with adversarial examples.
 draft: true
 url: /GAN
 categories:
   - Uncategorized
 ---
 
-What I read about the security aspect of GAN, or Predictability Minimization, whatever.
+What I read about the security aspect of GANs (or Predictability Minimization, whatever).
 
-**Explaining and Harnessing Adversarial Samples: **
+**Explaining and Harnessing Adversarial Examples:**
 
-- Federico Barbero has a nice explanation <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=_0q-zVOn25g" target="_blank">here </a> and <a href="https://www.youtube.com/watch?v=PFS9KQcQT-s" target="_blank" rel="noreferrer noopener">here</a>
+- Federico Barbero has a nice explanation [here](https://www.youtube.com/watch?v=_0q-zVOn25g) and [here](https://www.youtube.com/watch?v=PFS9KQcQT-s).
 
-![image-5.png](/wp-content/uploads/2020/11/image-5.png)
-
+![Notes on adversarial examples](/wp-content/uploads/2020/11/image-5.png)
 
 References:
-

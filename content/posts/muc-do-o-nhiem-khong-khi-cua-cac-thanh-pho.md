@@ -1,7 +1,6 @@
 ---
 title: Mức độ ô nhiễm không khí của các thành phố
-author: admin
-type: post
+description: Ảnh chụp chỉ số chất lượng không khí (AQI) của nhiều thành phố châu Á và thế giới vào năm 2016.
 date: 2016-03-30T11:06:23+00:00
 url: /muc-do-o-nhiem-khong-khi-cua-cac-thanh-pho/
 categories:
@@ -13,170 +12,69 @@ tags:
   - o nhiem moi truong
   - tp ho chi minh
   - vietnam
-
 ---
-&nbsp;
+> **Update (2026):** Đây là dữ liệu chụp màn hình vào tháng 3/2016, chỉ có giá trị tham khảo lịch sử. Muốn xem chỉ số hiện tại, hãy dùng [aqicn.org](https://aqicn.org).
 
-<span style="color: #ff0000;"><strong>Chỉ số càng cao thì càng ô nhiễm</strong></span>
+**Chỉ số càng cao thì càng ô nhiễm.**
 
-Mức độ ô nhiễm phụ thuộc vào thời gian và địa điểm khảo sát trong thành phố.
+Mức độ ô nhiễm phụ thuộc vào thời gian và địa điểm khảo sát trong thành phố. Hôm qua mình mắc một sai lầm là khảo sát tất cả các địa điểm cùng một lúc; mỗi nơi có một múi giờ khác nhau nên không công bằng.
 
-Hôm qua mình có mắc 1 sai lầm đó là khảo sát tất cả các địa điểm cùng 1 lúc, mỗi nơi có 1 múi giờ khác nhau nên không có công bằng.
+Vì vậy mình chọn mốc **5 giờ chiều**, lúc tan sở, khi không khí thường ô nhiễm nhất trong ngày. (Bài viết đang được cập nhật lại, phải canh giờ mới chụp được +_+)
 
-Hiện tại mình đang chọn mốc thời gian là **5 giờ chiều &#8211; đây là lúc tan sở nên không khí trở nên ô nhiễm nhất trong ngày <span style="color: #ff0000;">(bài viết đang được cập nhật lại)</span>**
+## Dữ liệu lúc 5 giờ chiều
 
-&nbsp;
+![Chỉ số ô nhiễm không khí tại Bắc Kinh](/wp-content/uploads/2016/03/beijing.png)
 
+![Chỉ số ô nhiễm không khí tại Singapore](/wp-content/uploads/2016/03/singapore_central.png)
 
-![beijing.png](/wp-content/uploads/2016/03/beijing.png)
+![Chỉ số ô nhiễm không khí tại Manila](/wp-content/uploads/2016/03/manila.png)
 
+![Chỉ số ô nhiễm không khí tại Sydney](/wp-content/uploads/2016/03/sydney.png)
 
-![singapore_central.png](/wp-content/uploads/2016/03/singapore_central.png)
+![Chỉ số ô nhiễm không khí tại Melbourne](/wp-content/uploads/2016/03/melbourne.png)
 
+## Một số thời điểm khác trong ngày
 
-![manila.png](/wp-content/uploads/2016/03/manila.png)
+![Băng-Cốc, Thái Lan](/wp-content/uploads/2016/03/ba.png)
+*Băng-Cốc, Thái Lan*
 
+![Béc Lin, Đức](/wp-content/uploads/2016/03/ber.png)
+*Béc Lin, Đức (một trong những thành phố sạch nhất)*
 
-![sydney.png](/wp-content/uploads/2016/03/sydney.png)
+![Bắc Kinh, Trung Quốc](/wp-content/uploads/2016/03/bj.png)
+*Bắc Kinh, Trung Quốc*
 
+![Bắc Kinh, Trung Quốc (dữ liệu lúc 16h và 19h)](/wp-content/uploads/2016/03/Capture.png)
+*Bắc Kinh, Trung Quốc (dữ liệu lúc 16h và 19h)*
 
-![melbourne.png](/wp-content/uploads/2016/03/melbourne.png)
+![Niu Đê-Hi, Ấn Độ](/wp-content/uploads/2016/03/de.png)
+*Niu Đê-Hi, Ấn Độ*
 
+![Hồ Chí Minh, Việt Nam](/wp-content/uploads/2016/03/hcm.png)
+*Hồ Chí Minh, Việt Nam*
 
-&nbsp;
+![Hồng Kông](/wp-content/uploads/2016/03/hk.png)
+*Hồng Kông*
 
-&nbsp;
+![Hà Nội, Việt Nam](/wp-content/uploads/2016/03/hn.png)
+*Hà Nội, Việt Nam*
 
-&nbsp;
+![Kuala Lumpur, Malaysia](/wp-content/uploads/2016/03/ku.png)
+*Kuala Lumpur, Malaysia*
 
-&nbsp;
+![New Jersey, Mỹ](/wp-content/uploads/2016/03/ny.png)
+*New Jersey, Mỹ*
 
-&nbsp;
+![Seoul, Hàn Quốc](/wp-content/uploads/2016/03/Se.png)
+*Seoul, Hàn Quốc*
 
-Đang tiếp tục cập nhật (cái này phải canh giờ mới chụp lại được +_+ )
+![Sydney, Úc](/wp-content/uploads/2016/03/sy.png)
+*Sydney, Úc*
 
-&nbsp;
+![Tokyo, Nhật Bản](/wp-content/uploads/2016/03/to.png)
+*Tokyo, Nhật Bản*
 
-&nbsp;
+## Xem thêm
 
-&nbsp;
-
-&nbsp;
-
-Ngoài ra các bạn có thể tham khảo **1 số thời điểm khác trong ngày** tại các nước sau:
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-
-![ba.png](/wp-content/uploads/2016/03/ba.png)
-
-
-<p style="text-align: center;">
-  <strong>Băng-Cốc, Thái Lan</strong>
-</p>
-
-
-![ber.png](/wp-content/uploads/2016/03/ber.png)
-
-
-<p style="text-align: center;">
-  <strong>Béc Lin, Đức</strong><br /> 1 trong những thành phố sạch nhất
-</p>
-
-
-![bj.png](/wp-content/uploads/2016/03/bj.png)
-
-
-
-![Capture.png](/wp-content/uploads/2016/03/Capture.png)
-
-
-<p style="text-align: center;">
-  <strong>Bắc Kinh, Trung Quốc: <span style="color: #ff0000;">dữ liệu lúc 16h & 19h</span></strong>
-</p>
-
-
-![de.png](/wp-content/uploads/2016/03/de.png)
-
-
-<p style="text-align: center;">
-  <strong>Niu Đê-Hi, Ấn độ</strong>
-</p>
-
-
-![hcm.png](/wp-content/uploads/2016/03/hcm.png)
-
-
-<p style="text-align: center;">
-  <strong>Hồ Chí Minh, Việt Nam</strong>
-</p>
-
-
-![hk.png](/wp-content/uploads/2016/03/hk.png)
-
-
-<p style="text-align: center;">
-  <strong>Hồng Kông</strong>
-</p>
-
-
-![hn.png](/wp-content/uploads/2016/03/hn.png)
-
-
-<p style="text-align: center;">
-  <strong>Hà Nội, Việt Nam</strong>
-</p>
-
-
-![ku.png](/wp-content/uploads/2016/03/ku.png)
-
-
-<p style="text-align: center;">
-  <strong>Kuala Lum-pơ, Mã Lai</strong>
-</p>
-
-
-![ny.png](/wp-content/uploads/2016/03/ny.png)
-
-
-<p style="text-align: center;">
-  <strong>New Jersey, Mỹ</strong>
-</p>
-
-
-![Se.png](/wp-content/uploads/2016/03/Se.png)
-
-
-<p style="text-align: center;">
-  <strong>Xơ-Un, Nam Hàn</strong>
-</p>
-
-
-![sy.png](/wp-content/uploads/2016/03/sy.png)
-
-
-<p style="text-align: center;">
-  <strong>Xít-ni, Úc</strong>
-</p>
-
-&nbsp;
-
-
-![to.png](/wp-content/uploads/2016/03/to.png)
-
-
-<p style="text-align: center;">
-  <strong>Tokyo, Nhật Bản</strong>
-</p>
-
-Xem thêm:
-
-<a href="http://aqicn.org" target="_blank">aqicn.org</a>
-
-<a href="http://en.wikipedia.org/wiki/Air_quality_index" target="_blank">en.wikipedia.org/wiki/Air_quality_index</a>
-
-&nbsp;
+- [aqicn.org](https://aqicn.org)
+- [Air quality index (Wikipedia)](https://en.wikipedia.org/wiki/Air_quality_index)

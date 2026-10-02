@@ -1,7 +1,6 @@
 ---
 title: '[EFLNET] – Từ điển hình ảnh – Everyday Actions'
-author: admin
-type: post
+description: Từ vựng tiếng Anh về các hoạt động hằng ngày qua hình ảnh, kèm ghi chú về cách dùng và dễ nhầm.
 date: 2012-11-11T09:31:02+00:00
 url: /tu-dien-hinh-anh-hoat-dong-thuong-ngay/
 categories:
@@ -15,83 +14,32 @@ tags:
   - hoat dong tieng anh
 
 ---
+![Hoạt động hằng ngày, phần 1](/wp-content/uploads/2012/11/everydayaction1.jpg)
 
-![everydayaction1.jpg](/wp-content/uploads/2012/11/everydayaction1.jpg)
+- **brush**: dùng cho hành động vệ sinh cá nhân như chải tóc, đánh răng. *Toothbrush* là bàn chải đánh răng.
+- **clean**: làm sạch bàn ghế, sàn nhà: clean the floor, clean the table...
+- **dust**: danh từ nghĩa là bụi; động từ nghĩa là lau bụi, dùng vải làm sạch bề mặt.
 
+![Hoạt động hằng ngày, phần 2](/wp-content/uploads/2012/11/everydayaction2.jpg)
 
-Chúng ta dùng từ &#8220;brush&#8221; để chỉ hành động vệ sinh cá nhân như chải tóc, đánh răng
+- **hold**: giữ vật gì hay ai đó trong lòng. Trong hình, người mẹ dùng hai tay vòng qua người em bé là *hold*. Khi nâng bổng đứa bé lên thì thêm *up*, rất dễ nhớ. *Hold up* còn có nghĩa là trì hoãn, *hold on* là "từ từ đã, chờ một chút"... các bạn tham khảo thêm nhưng tránh bội thực ngôn ngữ.
+- **hug**: ôm
+- **make the bed**: dọn giường, xếp ngay ngắn để có giấc ngủ ngon
+- **put on makeup**: trang điểm (*make-up* là đồ trang điểm; gợi mình nhớ bài *Beautiful* của Bosson, hay lắm, nghe thử đi)
+- **shake hands**: bắt tay, hai tay bắt nhau nên luôn ở số nhiều
 
-toothbrush là bàn chải đánh răng .
+![Hoạt động hằng ngày, phần 3](/wp-content/uploads/2012/11/everydayaction3.jpg)
 
-Để chỉ việc làm sạch bàn ghế, sàn nhà &#8230; ta dùng từ &#8220;clean&#8221; : clean the floor, clean the table &#8230;
+- **shave**: cạo (râu, đầu, lông...). Nhớ ngày xưa đi mua kem cạo râu mà không biết *shave* là cạo nên tìm mãi trong siêu thị không ra vì nó xếp chung với dầu gội T_T
+- **squat**: ngồi xổm
+- **talk on the phone**: nhớ giới từ *on* đi với *talk* khi nói chuyện điện thoại
+- **throw something away**: vứt cái gì đó đi. Bộ não lưu trữ rất khác máy tính, nhìn hình ảnh sẽ ấn tượng sâu và nhớ lâu hơn. Nhích mắt lên chút xíu, nhìn lão kia vứt cái gì đó vào thùng rác, mình đảm bảo bạn sẽ nhớ mãi cụm *throw away* (*throw away something* hay *throw something away* đều được).
 
-Dust danh từ nghĩa là bụi, nhưng động từ dust thì mang nghĩa dùng vải để làm sạch bề mặt .
+![Hoạt động hằng ngày, phần 4](/wp-content/uploads/2012/11/everydayaction4.jpg)
 
-
-![everydayaction2.jpg](/wp-content/uploads/2012/11/everydayaction2.jpg)
-
-
-Giữ vật gì hay ai đó trong lòng ta dùng từ hold, trong hình người mẹ dùng 2 tay vòng qua người em bé. Đó là hold. Khi nâng bổng đứa bé lên, ta thêm chữ up &#8211; rất dễ nhớ .
-
-Hold up còn có nghĩa là trì hoãn, hold on là &#8220;từ từ đã, chờ một chút&#8221; &#8230; các bạn tham khảo thêm và tránh bội thực ngôn ngữ.
-
-Hug là ôm >: D<
-
-Make the bed là sửa soạn giường, xếp ngay ngắn để bạn có một giấc ngủ ngon .
-
-Put on makeup : trang điểm, make-up là đồ trang điểm (gợi mình nhớ tới bài Beautiful của Bosson T_T, hay lắm nghe thử đi)
-
-Shake hands là bắt tay, 2 tay bắt nhau nên luôn là số nhiều .
-
-
-![everydayaction3.jpg](/wp-content/uploads/2012/11/everydayaction3.jpg)
-
-
-&nbsp;
-
-Shave là cạo, cạo râu, cạo đầu, cạo &#8230; lông là shave tuốt. Nhớ ngày xưa đi mua kem cạo râu mà không biết shave nghĩa là cạo nên tìm trong siêu thị không  ra vì nó xếp chung với dầu gội T_T
-
-Squat là ngồi xổm
-
-**Talk  **+ **on** the phone,  nhớ giới từ on đi với talk nhé (khi mô tả hành động nói trên điện thoại)
-
-Throw something away : vứt cái gì đó đi .
-
-Mình nhận thấy 1 điều là bộ não có cách lưu trữ rất khác máy tính, bạn nhìn vào hình ảnh sẽ có ấn tượng sâu hơn và nhớ lâu hơn. Nhích mắt lên chút xíu nhìn lão kia vứt cái gì đó vào thùng rác, mình đảm bảo bạn sẽ nhớ mãi cụm từ &#8220;throw away&#8221; (throw away something hay throw something away đều dùng được )
-
-
-![everydayaction4.jpg](/wp-content/uploads/2012/11/everydayaction4.jpg)
-
-
-&nbsp;
-
-lace là dây nhỏ bằng vải, shoelaces là dây giày .
-
-Tie your shoelaces là buộc dây giày, tie nếu là danh từ thì mang nghĩa là &#8220;cà vạt&#8221; (cravate &#8211; French)
-
-Walk the dog : không phải dịch là &#8220;bước con chó&#8221; mà dịch là dắt chó đi bộ .
-
-Coi mấy phim tình củm : &#8220;Let&#8217;s me walk you home&#8221; &#8211; để anh đưa em về nhà (đi bộ cùng em đó về nhà, sau đó làm gì thì không rõ, có thể là chào tạm biệt nhau rồi đường ai nấy đi)
-
-Wave nghĩa là &#8220;sóng&#8221; (danh từ), vi nghĩa là nhỏ, ví dụ như vi khuẩn ; thế nên lò vi sóng là &#8220;microwave&#8221; (phát ra bước sóng ngắn để làm chín đồ ăn)
-
-Còn ở đây, wave (verb) là vẫy, wave your hand : vẫy tay, wave your tail : vẫy đuôi &#8230;
-
-Wink : nháy (một) mắt, đá mi/lông nheo đó
-
-Blink : là nháy (hai) mắt, tức là chớp cả 2 mắt .
-
-Wink an eye = blink an eye = nháy 1 mắt
-
-Blink eyes  = chớp 2 mắt .
-
-Yawn : ngáp OÁP OÁP
-
-&nbsp;
-
-&nbsp;
-
- [1]: ../wp-content/uploads/2012/11/everydayaction1.jpg
- [2]: ../wp-content/uploads/2012/11/everydayaction2.jpg
- [3]: ../wp-content/uploads/2012/11/everydayaction3.jpg
- [4]: ../wp-content/uploads/2012/11/everydayaction4.jpg
+- **lace**: dây nhỏ bằng vải; *shoelaces* là dây giày.
+- **tie your shoelaces**: buộc dây giày. *Tie* là danh từ thì nghĩa là cà vạt (*cravate*, tiếng Pháp).
+- **walk the dog**: không phải "bước con chó" mà là dắt chó đi dạo. Xem phim tình cảm hay có câu "Let me walk you home": để anh đưa em về nhà (đi bộ cùng em về, sau đó làm gì thì không rõ).
+- **wave**: danh từ là "sóng" (*micro* là nhỏ, nên lò vi sóng là *microwave*). Động từ *wave* là vẫy: wave your hand (vẫy tay), wave your tail (vẫy đuôi)...
+- **wink**: nháy một mắt, đá lông nheo. **blink**: chớp cả hai mắt.
+- **yawn**: ngáp, OÁP OÁP

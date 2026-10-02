@@ -1,13 +1,8 @@
 ---
 title: Present simple or present continuous ?
-author: admin
-type: post
+description: So sánh sự khác nhau giữa thì hiện tại đơn và hiện tại tiếp diễn qua các tình huống cụ thể.
 date: 2012-11-12T17:52:17+00:00
 url: /present-simple-or-present-continuous-so-sanh-khac-nhau/
-wpdiscuz_post_rating:
-  - 5
-wpdiscuz_post_rating_count:
-  - 1
 categories:
   - English
   - Grammar Dictionary
@@ -21,94 +16,64 @@ tags:
   - so sanh hien tai tiep dien
 
 ---
-Bài này chúng ta tìm hiểu sự khác nhau giữa 2 thì (tense) :
+Bài này tìm hiểu sự khác nhau giữa hai thì (tense): present simple và present continuous.
 
-Present simple
+## A. The basic difference
 
-Present continuous
+- **Hiện tại đơn** diễn tả một sự thật, hoặc một hành động đã thành thói quen lâu ngày:
+  - *I **love** music.*
+  - *We **eat** in the canteen most days.*
+  - *Two and two **makes** four.*
+- **Hiện tại tiếp diễn** diễn tả hành động đang diễn ra trong khoảng thời gian hiện tại. Ngoài ra nó còn nói về tương lai (xem bài [Present tenses for the future](/present-tenses-for-the-future/)).
 
-<span style="color: #800000;"><strong>A. The basic difference :</strong></span>
+## B. Routines
 
-Điểm khác nhau căn bản đó là
+Hiện tại đơn dùng cho thói quen kéo dài (permanent), hiện tại tiếp diễn dùng cho thói quen/hành động tạm thời:
 
-&#8211; Hiện tại đơn thì diễn tả một sự thật, một hành động đã trở thành thói quen lâu ngày,
+- *I usually **travel** to work by car, but this week it's off the road.*
+- *I**'m traveling** to work by bus this week.*
 
-_I **love** music_
+Tức là người này thường đi ô tô đến chỗ làm, nhưng tuần này đi xe buýt.
 
-_We **eat** in the canteen most days_
+## C. Always
 
-_Two and two **makes** four_
+*Always* (luôn luôn) với hiện tại đơn thể hiện tính "toàn vẹn". Với hiện tại tiếp diễn thì nghĩa là "lúc nào cũng thế", đôi khi mang sắc thái phàn nàn:
 
-&#8211; Hiện tại tiếp diễn thì diễn tả một hành động đang diễn ra trong khoảng thời gian ở hiện tại (hiển nhiên)
+- *We always **have** a test.* (sau mỗi bài học lại có bài kiểm tra)
+- *We**'re always having** tests.* (lúc nào cũng kiểm tra, mệt quá...)
 
-ngoài ra hiện tại tiếp diễn còn nói tới tương lai (bài trước đã đề cập, sẽ đi sâu hơn ở bài 40 nhé)
+## D. States
 
-<span style="color: #800000;"><strong>B. Routines :</strong></span>
+Hiện tại đơn diễn tả trạng thái (*I am tired*, tớ mệt T_T, trạng thái là "mệt"). Một số động từ có thể dùng cả hai thì:
 
-Simple present dùng cho thói quen kéo dài (permanent)
+- *The weather **looks** nice.*
+- *The weather **is looking** nice.*
 
-Present continuous dùng cho thói quen/ hành động tạm thời
+## E. Present actions
 
-_I usually **travel** to work by car, but this week it&#8217;s off the road._
+Hành động ở hiện tại có thể dùng hiện tại đơn khi nó diễn ra quá nhanh (bình luận thể thao, hướng dẫn nấu ăn):
 
-_I**&#8216;m traveling** to work by bus this week  ._
+- *He **shoots**! And it is a goal!*
+- *I **add** the sauce and **stir** it gently.*
 
-Tức là người này hay đi xe ô tô đến chỗ làm, nhưng tuần này thì người ấy đi xe bus.
+## F. Past actions
 
-<span style="color: #800000;"><strong>C. Always :</strong></span>
+Hiện tại đơn còn dùng khi **kể lại** hành động trong quá khứ như thể đang diễn ra, và khi kể truyện:
 
-Từ always nghĩa là luôn luôn, khi dùng ở hiện tại đơn , nó thể hiện tính &#8220;toàn vẹn&#8221;
+- *I'm standing there, and a man comes up to me and **grabs** me by the arm.*
+- *Macbeth **murders** the King of Scotland, who is staying at his castle.*
 
-Trong khi đó always dùng cho hiện tại tiếp diễn thì có nghĩa là &#8220;lúc nào cũng thế&#8221;, đôi khi còn dùng với nghĩa gây ra sự phiền phức :
+## G. The written word
 
-_We always **have** a test (sau mỗi bài học là lại có bài kiểm tra )_
+Hiện tại đơn nói về nội dung một bài viết:
 
-_We**&#8216;re always having** tests (lúc nào cũng kiểm tra, kiểm tra thường xuyên đến phát mệt &#8230; )_
+- *It says in the paper the game is today.* (Bài báo **nói** rằng trận đấu diễn ra hôm nay.)
+- *The letter **explains** everything.* (Lá thư làm sáng tỏ mọi điều.)
 
-<span style="color: #800000;"><strong>D. States</strong></span>
+Khi ai đó vừa nói điều gì, ta cũng dùng hiện tại đơn:
 
-Trạng thái
+*Laura **says** she doesn't feel well.*
 
-Hiện tại đơn diễn tả một trạng thái nào đó (I am tired &#8211; tớ mệt T_T &#8211; trạng thái là mệt)
+Hiện tại đơn còn dùng trong lời chỉ dẫn và giải thích:
 
-Một số động từ có thể vừa là  present simple hoặc present continuous :
-
-_The weather **looks** nice_
-
-_The weather **is looking** nice_
-
-<span style="color: #800000;"><strong>E. Present actions :</strong></span>
-
-Hành động ở hiện tại có thể dùng present simple vì nó diễn ra nhanh quá :
-
-_He **shoots** ! And it is a goal !_
-
-_I **add** the sauce and **stir** it gently_
-
-<span style="color: #800000;"><strong>F. Past actions :</strong></span>
-
-Hiện tại đơn còn nói về hành động ở quá khứ, khi **diễn tả** lại hành động đó **trong hiện tại** :
-
-_I&#8217;m standing there, and a man comes  up to me and **grabs** my me by the arm._
-
-Hiện tại đơn còn dùng trong việc diễn ra các câu chuyện (story)
-
-_Macbeth **murders** the King of Scotland, who is staying at his castle_
-
-<span style="color: #800000;"><strong>G. The written word :</strong></span>
-
-Simple present nói về một bài viết nào đó :
-
-_It says in the paper the game is today_ . (Bài báo **nói** rằng trận đấu sẽ diễn ra hôm nay)
-
-_The letter **explains** everything . _(Lá thư đã làm sáng tỏ mọi điều)
-
-Khi ai đó mới nói điều gì, ta cũng dùng  present simple :
-
-_Laura **says** she doesn&#8217;t feel well._
-
-Hiện tại đơn còn dùng trong lời chỉ dẫn  và giải thích :
-
-> _You **pull down** the File menu and **choose** Print _(hãy chọn menu File  và click vào nút Print &#8211; hướng dẫn in văn bản nè )
-
-&nbsp;
+> *You **pull down** the File menu and **choose** Print.* (Hãy chọn menu File rồi chọn Print, hướng dẫn in văn bản.)

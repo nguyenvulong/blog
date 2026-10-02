@@ -1,7 +1,6 @@
 ---
 title: How to learn any language
-author: admin
-type: post
+description: Các bước cơ bản để thành thạo một ngôn ngữ, từ từ vựng đến hòa nhập vào cộng đồng bản xứ.
 date: 2014-12-13T08:25:04+00:00
 url: /how-to-learn-any-language/
 categories:
@@ -15,26 +14,17 @@ tags:
   - learn new language
   - native speaker
   - tieng me de
-
 ---
-This basic principle is applied for most of you but not all of you
+This basic principle applies to most of you, but not all of you.
 
-To be fluent in any language needs a lot of practicing, in my humble opinion it can be divided into few steps like this  
-&#8211; Understand basic vocabularies and the culture  
-&#8211; Be able to communicate in simple sentences and listen to/ understand daily life communications<span class="text_exposed_show"><br /> &#8211; Understand most of conversations as well as be able to speak/response to native speakers without any hesitation (though there would be few minor grammar/spelling mistakes) in general topics</span>
+Being fluent in any language takes a lot of practice. In my humble opinion it can be divided into a few steps:
 
-<div class="text_exposed_show">
-  <p>
-    And finally &#8211; immerse in the community, be a part of that society &#8211; this one requires you to be living in the country where you can interact with native speakers and their culture so that you can truly understand what&#8217;s that language &#8220;feel&#8221; like.
-  </p>
-  
-  <p>
+1. Understand basic vocabulary and the culture.
+2. Be able to communicate in simple sentences and understand everyday conversations.
+3. Understand most conversations and speak to native speakers without hesitation on general topics (though with a few minor grammar or spelling mistakes).
 
-![Ciao.jpg](/wp-content/uploads/2014/12/Ciao.jpg)
+And finally, immerse yourself in the community and become part of that society. This requires living in a country where you can interact with native speakers and their culture, so you can truly understand what the language "feels" like.
 
-  </p>
-  
-  <p>
-    This kind of learning method imitates how the babies learn their mother tongues since the moment they were born.
-  </p>
-</div>
+![Ciao](/wp-content/uploads/2014/12/Ciao.jpg)
+
+This kind of learning imitates how babies learn their mother tongues from the moment they are born.

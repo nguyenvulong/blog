@@ -1,50 +1,36 @@
 ---
 title: Các dịch vụ điện tử ở Hàn Quốc
-author: admin
-type: post
+description: Ghi chú nhanh về các dịch vụ chính phủ, giao thông, thanh toán và trang mua sắm hữu ích khi sống ở Hàn Quốc.
 date: 2016-01-20T05:19:56+00:00
 url: /cac-dich-vu-dien-tu-o-han-quoc/
 categories:
   - Korean
 
 ---
-**Chính Phủ: **
+> **Update (2026):** Bài viết từ năm 2016, các dịch vụ và đường dẫn có thể đã thay đổi. Hãy kiểm tra lại trên trang chính thức trước khi dùng.
 
-&#8220;Certification of Alien Registration&#8221;: Khi bị mất thẻ alien card, có thể in tạm giấy sau ra dùng lúc bay về nước:  
-http://www.minwon.go.kr/main?a=AA020InfoMainApp
+## Chính phủ
 
-Máy cài windows tiếng Hàn + Certificate
+- "Certification of Alien Registration": khi mất thẻ alien card, có thể in giấy tạm thay thế để dùng khi bay về nước: <http://www.minwon.go.kr/main?a=AA020InfoMainApp>
+- Cần máy cài Windows tiếng Hàn và certificate để dùng một số dịch vụ.
+- Visa navigator: <https://www.visa.go.kr/openPage.do?MENU_ID=10101>
 
-&nbsp;
+## Giao thông
 
-Visa navigator https://www.visa.go.kr/openPage.do?MENU_ID=10101
+- Thẻ T-Money: <http://www.popcard.co.kr/popcard/ko/main>
 
-Giao Thông:
+## Thanh toán
 
-Thẻ T-Money http://www.popcard.co.kr/popcard/ko/main
+- Check card / thẻ tín dụng (신용카드): dùng dịch vụ ISP (mobile app) để thanh toán trong nước.
+- Mobile payment: thanh toán qua tin nhắn, kèm số Alien Card.
+- VISA/Mastercard hoặc PayPal cũng được chấp nhận.
 
-Thanh Toán:
+## Mua sắm
 
-Check card 신용카드: Dùng dịch vụ ISP (mobile app) để thanh toán trong nước  
-Mobile Payment: thanh toán qua tin nhắn + Alien Card number  
-VISA/Mastercard hoặc Paypal cũng được chấp nhận
+Một số trang mua đồ cũ/mới, giá tốt, đặc biệt là đồ điện tử:
 
-&nbsp;
-
-Một số trang web mua sắm đồ cũ/mới, giá cả rất tốt, đặc biệt là đồ điện tử:
-
-[bunjang.co.kr][1]
-
-[hellomarket.com][2]
-
-[cetizen.com][3]
-
-[gmarket.com][4]
-
-[craigslist.com][5]
-
- [1]: http://bunjang.co.kr
- [2]: https://www.hellomarket.com/
- [3]: http://market.cetizen.com/
- [4]: http://gmarket.com
- [5]: http://craigslist.com
+- [bunjang.co.kr](http://bunjang.co.kr)
+- [hellomarket.com](https://www.hellomarket.com/)
+- [cetizen.com](http://market.cetizen.com/)
+- [gmarket.com](http://gmarket.com)
+- [craigslist.com](https://craigslist.com)

@@ -1,15 +1,8 @@
 ---
 title: Respect of others và respect by others khác nhau điều gì
-author: admin
-type: post
+description: Câu hỏi về sự khác nhau giữa "respect of others" và "respect by others", kèm email trả lời từ một người bạn Mỹ.
 date: 2013-01-22T14:51:54+00:00
 url: /respect-of-others-respect-by-others-khac-nhau/
-al2fb_facebook_link_id:
-  - 100423586784297_138141546345834
-al2fb_facebook_link_time:
-  - 2013-01-22T14: 51:58+00:00
-al2fb_facebook_link_picture:
-  - post=../wp-content/uploads/2013/01/respect_by_of.jpg
 categories:
   - English
   - Tips
@@ -18,9 +11,8 @@ tags:
   - respect of others
 
 ---
-Câu này thực sự thì hơi &#8230; kỳ cục.
+Câu này thực sự hơi kỳ cục, vì bạn nào để ý thể bị động của động từ sẽ nhận ra ngay.
 
-Vì bạn nào để ý thể bị động của Verb sẽ nhận ra ngay.
+Tuy nhiên, mời các bạn xem hình sau. Mình đã email hỏi một người bạn "già" của mình, ông ấy là người Mỹ và hơn mình ngót nghét 80 − 22 = 58 tuổi @_@ (he's a great man!)
 
-Tuy nhiên mời các bạn xem hình sau, mình email hỏi 1 người bạn &#8220;già&#8221; của mình, ông ấy người Mỹ và hơn mình ngót nghét &#8230; 80 &#8211; 22 = 58 tuổi @_@ (he&#8217;s a great man !)
-
+![Email trả lời về sự khác nhau giữa respect of others và respect by others](/wp-content/uploads/2013/01/respect_by_of.jpg)

@@ -1,7 +1,6 @@
 ---
 title: The simple sentence
-author: admin
-type: post
+description: Các mẫu cấu trúc của câu đơn trong tiếng Anh (S + V, S + V + O, S + V + C, ...) với ví dụ.
 date: 2012-10-12T16:52:21+00:00
 url: /the-simple-sentence/
 categories:
@@ -12,80 +11,69 @@ tags:
   - simple sentence
 
 ---
-Cấu trúc của một câu đơn có thể rơi vào các dạng sau :
+Cấu trúc của một câu đơn có thể rơi vào các dạng sau.
 
-**<span style="color: #800000;">A. Subject + Verb</span>**
+## A. Subject + Verb
 
-The visitors have arrived
+- The visitors have arrived.
+- The old man died.
 
-The old man died
+Động từ trong trường hợp này là *intransitive verb* (nội động từ), tức là động từ không cần tân ngữ (object) đi kèm.
 
-Động từ trong trường hợp này được gọi là &#8220;intransitive verb&#8221; &#8211; nội động từ, tức là động từ không cần đối tượng (object) đi kèm.
+## B. Subject + Verb + Object
 
-<span style="color: #800000;"><strong>B. Subject + Verb + Object</strong></span>
+- The kids have eaten all the sandwiches.
+- The shop sells computers.
 
-The kids have eaten all the sandwiches
+*eat, sell* ở đây là *transitive verb* (ngoại động từ) vì phải đi kèm một tân ngữ: eat sandwiches, sell computers.
 
-The shop sells computers
+## C. Subject + Verb + Complement
 
-eat, sell ở đây là ngoại động từ (transitive verb) vì nó phải đi kèm một đối tượng nào đó : eat sandwiches, sell computers .
+- This jacket is nice.
+- The song became a big hit.
 
-<span style="color: #800000;"><strong>C. Subject + Verb + Complement</strong></span>
+Động từ trong cấu trúc này là *linking verb* (động từ nối): *be, become, get, look, seem* ...
 
-This jacket is nice
+Complement (bổ ngữ) ở đây là tính từ *nice* hoặc cụm danh từ *a big hit*.
 
-The song became a big hit
+## D. Subject + Verb + Adverbial
 
-Động từ trong cấu trúc này được gọi là động từ nối (linking verb) : be, become, get, look, seem &#8230; .
+- The match is tomorrow.
+- We got on the bus.
+- The meetings are every month.
 
-Complement là túc từ : ở đây nó là nice (cũng là tính từ) hoặc 1 cụm danh từ &#8220;a big hit&#8221;
+Adverbial có thể là một trạng từ (*tomorrow*), một cụm giới từ (*on the bus*) hoặc một cụm danh từ (*every month*).
 
-<span style="color: #800000;"><strong>D. Subject + Verb + Adverbial</strong></span>
+## E. Subject + Verb + Object + Object
 
-The match is tomorrow
+- We should give the children presents. (Chú ý phân biệt cách phát âm *present* là "món quà" và "hiện tại".)
+- Sarah sent me a text message.
 
-We got on the bus
+Tân ngữ trực tiếp là *presents* và *a text message*; tân ngữ gián tiếp (indirect object) là *the children* và *me*.
 
-The meetings are every month
+## F. Subject + Verb + Object + Complement
 
-Adverbial có thể là 1 trạng từ như &#8220;tomorrow&#8221; hay 1 cụm giới từ &#8220;on the bus&#8221; hoặc cụm danh từ &#8220;every month&#8221;
+- The project kept everyone very busy.
+- All the publicity made the song a big hit.
 
-<span style="color: #800000;"><strong>E. Subject + Verb + Object + Object</strong></span>
+Ở đây *a big hit* bổ nghĩa cho *the song*, là tân ngữ của câu.
 
-We should give the children presents (các bạn chú ý phân biệt cách phát âm &#8220;món quà&#8221; và &#8220;hiện tại&#8221;)
+## G. Subject + Verb + Object + Adverbial
 
-Sarah sent me a text message
+- I put my mobile in my pocket.
+- The police got the car out of the river.
 
-Đối tượng trực tiếp được nhắc đến là&#8221;presents&#8221; và &#8220;text message&#8221;, và đối tượng gián tiếp (indirect object) là &#8220;me&#8221;, &#8220;the children&#8221;.
+Trạng ngữ *out of the river* bổ nghĩa cho tân ngữ *the car*.
 
-<span style="color: #800000;"><strong>F. Subject + Verb + Object + Complement</strong></span>
+## H. Làm câu phong phú hơn bằng Adverbial
 
-The project kept everyone very busy
+Adverbial có nghĩa rộng hơn adverb: có thể là một từ đơn hay một cụm từ, diễn tả what, where, when, how ... mọi việc xảy ra.
 
-All the publicity made  the song a big hit
+- The visitors have **just** arrived.
+- **To my surprise**, Sarah **actually** sent me a text message **right away**.
 
-Túc từ = từ bổ nghĩa, phụ từ nhé các bạn.
+Khi đọc một câu bất kỳ, hãy để ý cách người ta dùng từ. Như câu trên viết là *sent me* chứ không phải *sent to me*. Đây cũng là một cách học để nói và viết chuẩn xác hơn.
 
-Ở đây &#8220;a big hit&#8221; bổ nghĩa cho &#8220;the song&#8221; &#8211; &#8220;the song&#8221; là đối tượng của câu  này .
-
-<span style="color: #800000;"><strong>G. Subject + Verb + Object + Adverbial</strong></span>
-
-I put my mobile in my pocket
-
-The police got the car out of the river
-
-Trạng từ &#8220;out of the river&#8221; bổ nghĩa cho đối tượng &#8220;the car&#8221;
-
-<span style="color: #800000;"><strong>H. Cấu trúc câu được làm phong phú hơn bằng cách thêm vào các Adverbials :</strong></span>
-
-(lưu ý : Adverbial mang nghĩa rộng hơn adverb, có thể là 1 từ đơn hay cụm từ, và diễn tả what-where-when-how &#8230; things happen)
-
-The visitor have **just** arrived.
-
-**To my surprise**, Sarah **actually **sent me a text message **right away**
-
-  * Các bạn để ý nhé, khi đọc 1 câu bất kỳ thì hãy để ý một chút, như câu trên người ta viết là **sent me** chứ không phải _sent to me ._ Đây cũng là 1 cách học tiếng Anh để sử dụng cho chuẩn xác trong viết và nói .
-
-> Một số động từ ta có thể dễ dàng đoán được cấu trúc của chúng, ví dụ như **give ** thì sẽ đi kèm 2 đối tượng, (give me a pen chẳng hạn), **put** thì sẽ đi cùng 1 Object + Adverbial (put the knife **on the table** ) .
-> 
-> Tuy nhiên có những động từ dùng ở nhiều cấu trúc khác nhau : tell me a story (V + Object + Object) & tell the truth (V + Object) . Vậy &#8220;tell&#8221; dùng được cả 2 cấu trúc trên .
+> Với một số động từ, ta dễ đoán được cấu trúc đi kèm: **give** đi với hai tân ngữ (give me a pen), **put** đi với Object + Adverbial (put the knife **on the table**).
+>
+> Tuy nhiên có những động từ dùng được nhiều cấu trúc khác nhau, ví dụ **tell**: *tell me a story* (V + Object + Object) và *tell the truth* (V + Object).

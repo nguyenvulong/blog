@@ -1,7 +1,6 @@
 ---
 title: Một đoạn hội thoại
-author: admin
-type: post
+description: Cuộc trò chuyện giữa mình và một người bạn Áo về quê hương, du lịch và định nghĩa của hạnh phúc.
 date: 2014-12-23T14:46:05+00:00
 url: /mot-doan-hoi-thoai/
 categories:
@@ -17,43 +16,31 @@ tags:
   - what is
 
 ---
-<blockquote class="words">
-  <p>
-    “When I was young, my mother always told me happiness was the key to life. When I went to school they asked me what I wanted to be when I grew up. I wrote down “happy.” They told me I didn’t understand the assignment. I told them they don’t understand life.”
-  </p>
-</blockquote>
+> "When I was young, my mother always told me happiness was the key to life. When I went to school they asked me what I wanted to be when I grew up. I wrote down 'happy.' They told me I didn't understand the assignment. I told them they don't understand life."
+>
+> – John Lennon (câu nói này thường được gán cho ông, chưa rõ có thật sự là của ông hay không)
 
-<div class="source">
-                                                                                        &#8212;John Lennon&#8212;
-</div>
+Tên bài nghe nguy hiểm vậy chứ không có gì đâu. @Peter, sorry for the exposure, I'd love to spread your words with my friends.
 
-Đặt tên nghe nguy hiểm vậy chứ không có gì hết.  
-@Peter sorry for the exposure. I&#8217;d love to spread your words with my friends
-
-**B = Long,** **A = anh bạn người Áo** (đã đi rất nhiều quốc gia và từng tới VN 1 lần, rất khoái đồ ăn &#8220;phở bò&#8221; và cảnh nhộn nhịp phố xá ở đây&#8221;)
+**B = Long, A = anh bạn người Áo** (đã đi rất nhiều nước, từng tới Việt Nam một lần, rất khoái phở bò và cảnh phố xá nhộn nhịp ở đây).
 
 Tạm dịch:
 
-_A: Tao biết, Áo là 1 đất nước tuyệt vời để sống, nhưng nó mắc (đắt) quá và tao thấy người ta khá lạnh lùng với tao_  
-_B: Ờ_
+_A: Tao biết, Áo là một đất nước tuyệt vời để sống, nhưng nó đắt quá và tao thấy người ta khá lạnh lùng với tao._  
+_B: Ờ._
 
-_A: họ rất yêu nước và không cởi mở cho lắm (chỗ này ý nó chắc là dạng yêu nước bảo thủ)_  
-_B: cái gì cũng phải đánh đổi thôi mày ơi. Dù sao cũng chúc mày may mắn, sang Việt Nam lần nữa thì nói tao, hay sang Hàn xẻng thì bảo tao nhé_
+_A: Họ rất yêu nước và không cởi mở cho lắm (chắc ý nó là kiểu yêu nước bảo thủ)._  
+_B: Cái gì cũng phải đánh đổi thôi mày ơi. Dù sao cũng chúc mày may mắn, sang Việt Nam lần nữa thì nói tao, hay sang Hàn thì bảo tao nhé._
 
-_A: Cảm ơn mày, hy vọng là sẽ gặp nhau ở Châu Âu hay Việt Nam. Tao sẽ thăm Hàn Quốc nhưng đó là khi họ mở đường biên giới (ý là thống nhất Nam Bắc Triều Tiên)_  
-_B: Đợi Ủn bị thịt hay thế chiến 3 thì điều đó mới xảy ra mày ạ._  
-_Giá cả ở Hàn tao thấy có thể rẻ hơn Áo 1 tý, phương tiện đi lại ở đây cũng tuyệt vời lắm. Họ thì không có nhiều danh lam thắng cảnh nhưng tao thấy dịch vụ họ rất tốt để hấp dẫn khách du lịch._
+_A: Cảm ơn mày, hy vọng sẽ gặp nhau ở châu Âu hay Việt Nam. Tao sẽ thăm Hàn Quốc nhưng là khi nào họ mở đường biên giới (ý là thống nhất Nam Bắc Triều Tiên)._  
+_B: Chắc phải đợi đến khi Kim Jong-un bị thịt hay thế chiến 3 thì điều đó mới xảy ra mày ạ. Giá cả ở Hàn tao thấy có thể rẻ hơn Áo một tí, phương tiện đi lại cũng tuyệt vời. Họ không có nhiều danh lam thắng cảnh nhưng dịch vụ rất tốt để hấp dẫn khách du lịch._
 
-_A: Mày biết đấy, tao không thích  những nơi đã có nhiều sự phát triển (của con người). Tao khoái mấy thứ gì đó lạ lạ mới mới cơ. Với tao Việt Nam là một điểm đến toẹt vời ông mặt trời :))_  
+_A: Mày biết đấy, tao không thích những nơi đã phát triển nhiều. Tao khoái mấy thứ lạ lạ mới mới cơ. Với tao Việt Nam là một điểm đến tuyệt vời ông mặt trời :))_  
 _B: Ờ :v_
 
-_A: Tao thích đạp xe ở Đồng bằng sông Cửu Long, ở đấy tụi nhóc chào đón tao lắm. với lại tao thích mấy căn nhà bằng gỗ cũ cũ và mấy cái cây ngộ ngộ gần bờ kênh. Đây mới chính là thiên thường thực sự!_  
-_B: Tao nghĩ là mày sẽ làm nhiều người phải suy nghĩ lại về định nghĩa của 2 từ &#8220;Hạnh Phúc&#8221; đấy cu ạ._
+_A: Tao thích đạp xe ở Đồng bằng sông Cửu Long, ở đấy tụi nhóc chào đón tao lắm. Với lại tao thích mấy căn nhà gỗ cũ cũ và mấy cái cây ngộ ngộ gần bờ kênh. Đây mới chính là thiên đường thực sự!_  
+_B: Tao nghĩ mày sẽ làm nhiều người phải suy nghĩ lại về định nghĩa của hai từ "hạnh phúc" đấy cu ạ._
 
+![Ảnh chụp đoạn hội thoại gốc bằng tiếng Anh](/wp-content/uploads/2014/12/Capture.png)
 
-![Capture.png](/wp-content/uploads/2014/12/Capture.png)
-
-Do you love your country? I do, a lot.  
-Leave your comments below, thank you!
-
- [1]: ../wp-content/uploads/2014/12/Capture.png
+Do you love your country? I do, a lot. Leave your comments below, thank you!

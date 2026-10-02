@@ -1,15 +1,8 @@
 ---
 title: Be going to
-author: admin
-type: post
+description: Cách dùng be going to để nói về tương lai, ý định và các dự định trong quá khứ (was/were going to).
 date: 2013-01-20T05:00:37+00:00
 url: /be-going-to-tuong-lai-ke-hoach-du-dinh/
-al2fb_facebook_link_id:
-  - 100423586784297_137478533078802
-al2fb_facebook_link_time:
-  - 2013-01-20T05: 00:41+00:00
-al2fb_facebook_link_picture:
-  - post=..//?al2fb_image=1
 categories:
   - English
   - Grammar Dictionary
@@ -21,56 +14,43 @@ tags:
   - will would be going to
 
 ---
-Be going to + Verb (nguyên mẫu) : _I&#8217;m going to **watch** the television_
+Cấu trúc: **Be going to + động từ nguyên mẫu**, ví dụ: _I'm going to **watch** television._
 
-**<span style="color: #800000;">A. Be going to for the future</span>**
+## A. Be going to nói về tương lai
 
-Dùng mẫu câu này để nói về chuyện trong tương lai :
+Dùng mẫu câu này để nói về chuyện sẽ xảy ra:
 
-_It&#8217;s going to **be** fine next week_
+- _It's going to **be** fine next week._
+- _I think Real Madrid is going to **win** this match._
 
-_I think Real Madrid is going to **win** this match_
+Ở đây **be going to** có thể được thay bằng **will**. Tuy nhiên cần chú ý: be going to ám chỉ **từ thời điểm hiện tại** nhìn về tương lai (dựa trên những gì đang thấy), còn **will** thường dùng cho quyết định tại chỗ hoặc dự đoán chung chung. Vì vậy hai câu trên dùng be going to thì hợp hơn will.
 
-Ở đây **be going to  **có thể được thay thế bằng **will . ** Tuy nhiên các bạn cần chú ý nghĩa của be going to là ám chỉ **thời điểm hiện tại** **nói về** chuyện tương lai, trong khi đó **will** được dùng khi đã có **kế hoạch cụ thể .**
+## B. Ý định, kế hoạch
 
-Chính vì lẽ đó 2 câu trên dùng be going to thì hợp hơn will .
+Be going to còn dùng để chỉ ý định, kế hoạch:
 
-<span style="color: #800000;"><strong>B. Intentions</strong></span>
+- _We're going to **build** a house here._
 
-be going to còn dùng để chỉ một ý định,  kế hoạch :
+Ở đây will cũng có thể thay thế được.
 
-_We&#8217;re going to **build** a house here _
+Với các động từ chỉ sự di chuyển, ta thường dùng hiện tại tiếp diễn thay cho be going to:
 
-ở đây will cũng có thể dùng để thay thế .
+- _I'**m going** out in a minute._ (Tôi chuẩn bị ra ngoài.)
 
-Chú ý rằng với những động từ ám chỉ sự di chuyển, chúng ta dùng hiện tại tiếp diễn thay cho be going to :
+## C. Was/were going to
 
-_I**&#8216;m going** out in a minute : _Tôi chuẩn bị ra ngoài . (be + v-ing)
+Diễn tả dự định hoặc dự đoán trong quá khứ, thường dùng khi kể lại chuyện:
 
-<span style="color: #800000;"><strong>C. Was/were going to</strong></span>
+- _I **was going to buy** some new clothes, so I **took** a lot of money with me._
 
-Thể hiện một dự đoán, ý định trong quá khứ.
+Dự định đó có thể không thành sự thật:
 
-Thường dùng khi bạn **kể lại **câu chuyện:
+- _We **were going to get** on the bus, but it **pulled** away._ (Định lên xe buýt nhưng nó đã rời đi.)
 
-_I **was going to buy** some new clothes, so I **took** a lot of money with me._
+Khi nói về quá khứ, thay vì will ta dùng **would**:
 
-Dự định đó có thể không thành sự thực :
+- _I **thought** that question **would come** up in the exam._
 
-_We**&#8216;re going to get** on the bus, but it **pulled** away._
+> Was/were going to dùng khi bạn đã định làm gì nhưng thực tế điều đó không xảy ra.
 
-(định lên xe bus nhưng nó rời đi sớm quá)
-
-Và khi dùng ở quá khứ, thay vì WILL , chúng ta dùng WOULD để thay thế cho  WAS/WERE GOING TO.
-
-_I **thought** that question **would come** up in the exam_
-
-*Was/were going to được dùng khi bạn định làm gì nhưng thực sự điều đó không xảy ra.
-
-Chú ý : I&#8217;m **going to** = I&#8217;m **gonna, **I&#8217;ve **got to** = I&#8217;ve **gotta**, I **want to** = I **wanna** 
-
-**(informal nhé mọi người)**
-
-&nbsp;
-
-&nbsp;
+Lưu ý (văn nói, informal): I'm **going to** = I'm **gonna**; I've **got to** = I've **gotta**; I **want to** = I **wanna**.

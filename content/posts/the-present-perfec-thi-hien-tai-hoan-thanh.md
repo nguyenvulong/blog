@@ -1,7 +1,6 @@
 ---
 title: The present perfect
-author: admin
-type: post
+description: Cấu trúc và cách dùng thì hiện tại hoàn thành (present perfect) cùng các trạng từ thời gian thường gặp.
 date: 2012-11-15T11:30:03+00:00
 url: /the-present-perfec-thi-hien-tai-hoan-thanh/
 categories:
@@ -14,76 +13,55 @@ tags:
   - trang tu thoi gian hien tai hoan thanh
 
 ---
-<span style="text-decoration: underline; color: #800000;"><strong>Form</strong></span>
+## Form
 
-<span style="color: #800000;"><strong>A. Đây là thì hiện tại (present tense ) của have + verb participle</strong></span>
+### A. Khẳng định
 
-_I&#8217;**ve washed** the dishes._
+Thì hiện tại (present tense) của **have** + past participle:
 
-_The programe **has finished**_
+- I**'ve washed** the dishes.
+- The programme **has finished**.
 
-Với động từ bất quy tắc thì tương ứng với cột 3 trong bài trước :
+Với động từ bất quy tắc, dùng cột 3 trong bảng động từ ở bài trước:
 
-_I**&#8216;ve seen** this movie before._
+- I**'ve seen** this movie before.
+- My friend **has** just **left**.
 
-_My friend **has** just **left**_
+### B. Phủ định và nghi vấn
 
-<span style="color: #800000;"><strong>B. Thể phủ định & nghi vấn :</strong></span>
+- The dogs **have not eaten** their food.
+- The post **hasn't come** yet.
 
-_The dogs **have not eaten** their food_
+Ở câu nghi vấn, đưa *have/has* ra trước chủ ngữ:
 
-_The post **hasn&#8217;t come** yet _
+- How long **have** *you* **worked** here?
+- **Has** *Sarah* **passed** the exam?
 
-Ở cậu nghi vấn, ta đưa have/ has ra trước chủ ngữ :
+## Use
 
-_How long **have** **<span style="text-decoration: underline;">you</span> worked** here ?_
+### C. Nhìn từ hiện tại về quá khứ
 
-_**Has** <span style="text-decoration: underline;">Sarah</span> **passed** the exam ?_
+Khi dùng present perfect, ta "nhìn từ hiện tại" (*look back from present*): nói về một sự việc xảy ra trong quá khứ nhưng còn liên quan đến hiện tại.
 
-<span style="text-decoration: underline; color: #800000;"><strong>Use</strong></span>
+- The door **has** just **opened**. (Giờ cửa đã mở, chứng tỏ nó vừa được mở lúc nãy.)
+- The visitors **have arrived**. (Họ đã đến nơi rồi.)
 
-<span style="color: #800000;"><strong>C. Khi dùng thì hiện tại hoàn thành : chúng ta nhìn từ hiện tại </strong></span>
+Khoảng thời gian từ lúc hành động xảy ra đến hiện tại có thể rất dài, thậm chí cả một đời người:
 
-(nguyên văn :  look back from present)
+- There **have** always **been** wars. (Chiến tranh luôn tồn tại.)
+- **Have** you ever **ridden** a horse? (Ngày xưa bạn có từng cưỡi ngựa không, còn lúc nào thì không rõ.)
 
-Tức là chúng ta nói về một sự việc xảy ra trong quá khứ và kéo dài tới hiện tại  như sau
+### D. Hàng loạt hành động trước hiện tại, hoặc trạng thái kéo dài đến hiện tại
 
-_The door **has** just **opened**_ (It&#8217;s opened now &#8211; giờ thì cửa đã mở rồi, chứng tỏ nó vừa được mở lúc nãy )
+- I've ridden horses lots of times.
+- The film **has been** on for about a week.
+- I**'ve had** this computer for three years.
 
-_The visitors **have** **arrived**_
+### E. Các từ chỉ thời gian thường gặp
 
-(họ đã đến nơi rồi)
+*lately, yet, still, before, for, since, already, so far, never/ever* ...
 
-Khoảng thời gian từ lúc hành động xảy ra đến hiện tại có thể rất dài, có thể là cả một đời người &#8230;
-
-_There **have** always **been** wars_
-
-(Ở đó, chiến tranh đã luôn xảy ra)
-
-_**Have** you ever **ridden** a horse_
-
-(ngày xưa có từng cưỡi ngựa không, còn lúc nào ở &#8220;ngày xưa&#8221; thì không rõ )
-
-<span style="color: #800000;"><strong>D. Present perfect còn dùng để nói về hàng loạt hành động diễn ra trước hiện tại :</strong></span>
-
-I&#8217;ve ridden horses lots of times
-
-hoặc nói về một trạng thái kéo dài đến tận hiện tại :
-
-_The film **has been** on for about a week._
-
-_I**&#8216;ve had** this computer for three years_
-
-<span style="color: #800000;"><strong>E. Một số từ chỉ thời gian xuất hiện trong  present perfect:</strong></span>
-
-lately, yet, still, before, for, since, already, so far, never/ever &#8230;
-
-> Trong American English, một số câu sẽ ở Past simple &#8211; trong khi ở British English những câu này lại là Present perfect :
-> 
-> _I just **saw** something very strange _
-> 
-> _=> I&#8217;**ve** just **seen** &#8230;_
-> 
-> _**Did** you ever meet anyone famous?_
-> 
-> => _**Have** you **ever** met &#8230;_
+> Trong American English, một số câu dùng past simple, trong khi British English dùng present perfect:
+>
+> - I just **saw** something very strange. => I**'ve** just **seen** ...
+> - **Did** you ever meet anyone famous? => **Have** you **ever** met ...

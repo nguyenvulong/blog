@@ -1,7 +1,6 @@
 ---
 title: Emphasis
-author: admin
-type: post
+description: "Các cách nhấn mạnh trong tiếng Anh: trọng âm nhấn mạnh, nhấn mạnh động từ, cấu trúc với It và What."
 date: 2012-11-06T17:07:44+00:00
 url: /emphasis-nhan-manh-tieng-anh/
 categories:
@@ -14,74 +13,69 @@ tags:
   - tu dung de nhan manh
 
 ---
-Bài này nói về sự nhấn mạnh, từ được nhấn mạnh là từ đóng vai trò quan trọng về nghĩa trong câu.
+Bài này nói về sự nhấn mạnh. Từ được nhấn mạnh là từ đóng vai trò quan trọng về nghĩa trong câu.
 
-<span style="color: #800000;"><strong>A. Emphasis stress</strong></span>
+## A. Emphasis stress
 
-Chúng ta thường nói với  giọng mạnh (dùng nhiều sức hơn khi phát âm) để gây chú ý hơn,  và từ nhấn mạnh thường có nghĩa tương phản với một câu khác :
+Chúng ta thường nói mạnh hơn (dùng nhiều sức hơn khi phát âm) để gây chú ý, và từ được nhấn thường tương phản với một ý khác:
 
-_I wanted a **large** package, not a <span style="text-decoration: underline;">small</span>  one_
+_I wanted a **large** package, not a <u>small</u> one._
 
-Từ được nhấn mạnh khi phát âm có thể kèm theo cảm xúc (cảm xúc thì không viết ra được : )), nhưng chắc các bạn hiểu ý mình)
+Từ được nhấn khi phát âm có thể kèm cảm xúc (cảm xúc thì không viết ra được :)), nhưng chắc các bạn hiểu ý mình):
 
-_It&#8217;s a **huge** building_
+_It's a **huge** building._
 
-_I&#8217;d **love** a cup of coffee_
+_I'd **love** a cup of coffee._
 
-_I&#8217;ve got a **terrible** memory_
+_I've got a **terrible** memory._
 
-Chú ý ở chữ terrible chúng ta chỉ nhấn mạnh tại **terr **còn **ible **thì phát ra rất nhẹ .
+Chú ý ở chữ _terrible_ chúng ta chỉ nhấn ở **terr**, còn **ible** phát âm rất nhẹ. Đó là vì từ có 2 âm tiết trở lên (difficult, beautiful, funny...) đều có âm chính và âm phụ. Bạn mở từ điển và nghe phát âm sẽ thấy. Khi giao tiếp cũng vậy: nói _teRRIble_ chẳng hạn thì người bản xứ sẽ khó hiểu vì nhấn sai âm. Phải nhấn **Terr**.
 
-Điều này là bởi tiếng anh với những từ có 2 âm tiết trở lên &#8211; tức là mấy từ như difficult, beautiful, funny .. thì nó có âm chính và âm phụ. Các bạn bật từ điển trên máy và nghe phát âm sẽ thấy. Lúc giao tiếp cũng vậy, nếu bạn nói teRRIble chẳng hạn &#8211; Tây họ sẽ chả hiểu đâu vì nhấn âm như thế là sai rồi . Phải nhấn **Terr**
+## B. Emphasis in the verb phrase
 
-<span style="color: #800000;"><strong>B. Emphasis in the verb phrase</strong></span>
+_Yes, I **can** swim._
 
-Yes, I **can** swim
+_I **wasn't** asleep. I was listening._
 
-I **wasn&#8217;t** asleep. I was listening
+Ở thì đơn (simple tense), chúng ta dùng do/does/did:
 
-Ở Simple tense, chúng ta dùng do/does/did :
+_Your garden **does** look nice._
 
-_Your garden **does** look nice_ &#8211; từ do/does/did thường được thêm vào câu, ví dụ câu này thực ra chỉ cần _Your garden looks nice _là được. Nhưng **does **thêm vào để nhấn mạnh **sự khẳng định** là vườn của bạn đẹp. Các bạn cũng thấy rõ là ta không nhấn vào chữ look dù nó là động từ vì nó không có &#8220;đóng góp&#8221; gì cho việc khen ở đây cả.
+Câu này thực ra chỉ cần _Your garden looks nice_ là đủ, nhưng **does** được thêm vào để nhấn mạnh **sự khẳng định** rằng vườn của bạn đẹp. Các bạn cũng thấy ta không nhấn vào _look_ dù nó là động từ, vì nó không "đóng góp" gì cho lời khen ở đây. (Nhấn _nice_ cũng ổn, nhưng mục này đang nói về **verb**.)
 
-Còn chữ nice thì mình nghĩ là ok nếu nhấn nó, nhưng mục này ta đang nói về **verb.**
-
-Tiếp nhé :
+Tiếp nhé:
 
 _We **might** go away for the weekend._
 
-Nhấm chữ might vì ý định của người nói cũng chưa chắc là có nên &#8220;go away&#8221; hay không, hay là tổ chức tại nhà đỡ tốn kém chẳng hạn ^_^
+Nhấn _might_ vì người nói cũng chưa chắc có nên "go away" hay không, hay ở nhà cho đỡ tốn kém chẳng hạn ^_^
 
-_I **did** have an MP3 player once_
+_I **did** have an MP3 player once._
 
-Ngày xưa có máy nghe mp3, giờ thì không.
+Ngày xưa có máy nghe MP3, giờ thì không.
 
-<span style="color: #800000;"><strong>C. Emphasis with it </strong></span>
+## C. Emphasis with it
 
-Ở đây ta nhấn nguyên 1 phrase : it + be  + phrase + relative clause (mệnh đề quan hệ)
+Ở đây ta nhấn cả một cụm: it + be + phrase + relative clause (mệnh đề quan hệ).
 
-_Didn&#8217;t Edison invent the telephone?_
+_Didn't Edison invent the telephone?_
+_– No, **it was Bell** <u>who</u> invented the phone. **It's the light bulb** that Edison invented._
 
-_&#8211; No, **it was Bell** <span style="text-decoration: underline;">who</span> invented the phone. **It&#8217;s the light** **bulb** that Edison invented_
+_**It's today**, not tomorrow, that we leave._
 
-_**It&#8217;s today**, not tomorrow, that we leave_
+## D. Emphasis with what
 
-<span style="color: #800000;"><strong>D. Emphasis with What </strong></span>
+Chúng ta dùng câu có What để nhấn như sau:
 
-Chúng ta dùng câu có What để nhấn như sau :
+_**What** caused the crash **was bad driving**._
 
-_**What** caused the crash **was a bad driving**_
+_**What** you need is **a holiday**._
 
-_**What** you need is **a holiday**_
+Who không dùng được như What:
 
-Who thì không được dùng như What :
+_**The people who** caused all the trouble are Hannah's friends._
 
-_**The people who** caused all the troubles are Hannah&#8217;s friends._
+Chứ không phải ~~Who caused all the trouble...~~
 
-Chứ không phải _<del>Who caused all the troubles &#8230;</del>_
-
->  Trong writing nói chung : viết lách mail, truyện, đăng tin tức &#8230; thì  việc viết hoa để nhấn mạnh có vẻ bất lịch sự, do đó các bạn nên dùng như sau thay vì viết hoa :
-> 
-> _It&#8217;s \*essential\* that you attend the meeting_
-> 
-> Thêm 2 dấu * (gọi là asterisk nhé)
+> Trong văn viết (email, truyện, tin tức...), việc viết hoa để nhấn mạnh có vẻ bất lịch sự. Thay vào đó, bạn có thể dùng dấu sao (asterisk):
+>
+> _It's \*essential\* that you attend the meeting._
